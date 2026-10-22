@@ -1,0 +1,2439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g88cf9271f6700b9cee02be43ede68a9e" title="Kan du beskrive det? - Adjektiv og gradbøying">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g30671cf3e2ad01009d5ec28889922aa9" title="Ordforråd">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>text_only_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>passage</fieldlabel>
+              <fieldentry>true</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gf47b767d37e06559ff801f2d253307ba</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;Ordforråd: Adjektiver for smak, lukt, konsistens og matopplevelse&lt;/h3&gt;
+&lt;h4 style="margin-bottom: 20px; line-height: 1.5;"&gt;&lt;span style="font-size: 14pt; color: #650505;"&gt;&lt;strong&gt;Når vi snakker om mat, drikke og sanseinntrykk, bruker vi spesifikke adjektiver. Les gjennom og noter ord som er nye for deg:&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;h4 style="color: #510000; margin-bottom: 10px; font-size: 1.1rem;"&gt;1. Smak (hvordan det smaker på tunga)&lt;/h4&gt;
+&lt;table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; margin-bottom: 25px; height: 496px; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left; height: 45.5px;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 25%; height: 45.5px;"&gt;Adjektiv&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 35%; height: 45.5px;"&gt;Forklaring / Betydning&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 40%; height: 45.5px;"&gt;Eksempel i setning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; height: 45.5px;"&gt;
+&lt;td style="padding: 10px; height: 45.5px;"&gt;&lt;strong style="color: #ad4400;"&gt;Søt&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45.5px;"&gt;Smaker sukker eller honning&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45.5px;"&gt;«Pistasjkrem er et &lt;em&gt;søtt &lt;/em&gt;pålegg.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed; height: 45px;"&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;&lt;strong style="color: #ad4400;"&gt;Sur / Syrlig&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;Frisk eller skarp smak (som sitron)&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;«Appelsinmarmelade har en &lt;em&gt;syrlig &lt;/em&gt;smak.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; height: 45px;"&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;&lt;strong style="color: #ad4400;"&gt;Salt&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;Har mye salt i seg&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;«Guanciale gir carbonara en &lt;em&gt;salt &lt;/em&gt;smak.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed; height: 45px;"&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;&lt;strong style="color: #ad4400;"&gt;Bitter&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;Skarp og mørk smak (som kaffe eller mørk sjokolade)&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;«Mørk sjokolade har en litt &lt;em&gt;bitter&lt;/em&gt; smak.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; height: 45px;"&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;&lt;strong style="color: #ad4400;"&gt;Sterk / Krydret / Pikant&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;Mye chili, pepper eller krydder&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;«Peperoncini er en chili som kan gi maten et ganske &lt;em&gt;sterkt &lt;/em&gt;kick.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed; height: 45px;"&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;&lt;strong style="color: #ad4400;"&gt;Mild&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;Rolig og svakt krydret smak&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;«Barna foretrekker en &lt;em&gt;mild&lt;/em&gt; ost.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; height: 45px;"&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;&lt;strong style="color: #ad4400;"&gt;Smaksrik / Rik&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;Har mye, dypt og fyldig smaksuttrykk&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;«Ragù har en veldig &lt;em&gt;rik&lt;/em&gt; og &lt;em&gt;smaksrik&lt;/em&gt; aroma.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed; height: 45px;"&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;&lt;strong style="color: #ad4400;"&gt;Fersk&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;Nylaget, ubrukt eller usyrnet råvare&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;«Vi kjøpte &lt;em&gt;fersk&lt;/em&gt; mozzarella til pizzaen.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; height: 45px;"&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;&lt;strong style="color: #ad4400;"&gt;Lagret / Vellagret&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;Har modnet over tid for å få mer kraftig smak&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;«Pecorino er en &lt;em&gt;vellagret&lt;/em&gt; og spiss ost.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 45px;"&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;&lt;strong style="color: #ad4400;"&gt;Smakløs / Kjedelig&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;Mangler smak, lite krydret&lt;/td&gt;
+&lt;td style="padding: 10px; height: 45px;"&gt;«Uten salt blir maten helt &lt;em&gt;smakløs&lt;/em&gt;.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 style="color: #510000; margin-bottom: 10px; font-size: 1.1rem;"&gt;2. Lukt (aromatiske inntrykk)&lt;/h4&gt;
+&lt;table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; margin-bottom: 25px; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 25%;"&gt;Adjektiv&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 35%;"&gt;Forklaring / Betydning&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 40%;"&gt;Eksempel i setning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Fruktig&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Tydelig duft eller smak av frukt og rød/mørke bær&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Dette er en ung og &lt;em&gt;fruktig&lt;/em&gt; rødvin.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Frisk&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Ren og god lukt/smak (f.eks. sitron, sjø eller ren luft)&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Cedrata har en &lt;em&gt;frisk&lt;/em&gt; og søt smak.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Stram / Spiss / Skarp&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Veldig kraftig lukt/smak som merkes fort&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Taleggio har en veldig &lt;em&gt;stram&lt;/em&gt; lukt.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Røkt&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Lukt av røyk eller røykeri&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Scamorza har en god, &lt;em&gt;røkt&lt;/em&gt; aroma.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 style="color: #510000; margin-bottom: 10px; font-size: 1.1rem;"&gt;3. Konsistens / Tekstur (følelse i munnen)&lt;/h4&gt;
+&lt;table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; margin-bottom: 25px; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 25%;"&gt;Adjektiv&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 35%;"&gt;Forklaring / Betydning&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 40%;"&gt;Eksempel i setning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Sprø&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Lager knaselyd når du tygger (hard og tørr)&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Crostini er &lt;em&gt;sprøe,&lt;/em&gt; tørre skiver laget av forskjellige typer brød.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Mør&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Veldig lett å tygge (spesielt om kjøtt)&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Kjøttet var så &lt;em&gt;mørt&lt;/em&gt; at det smeltet på tungen.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Myk / Kremet / Smørbar&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Glatt, tykk og lett å svelge/smøre&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Stracciatella har en myk og &lt;em&gt;kremet&lt;/em&gt; konsistens.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Tørr&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Mangler fuktighet, føles melete i munnen&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Focacciaen har stått ute for lenge og blitt &lt;em&gt;tørt&lt;/em&gt;.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Klumpete / Fettete / Oljete&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Har ujevne biter eller for mye olje/fett&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Rør godt om slik at sausen ikke blir &lt;em&gt;klumpete&lt;/em&gt;.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 style="color: #510000; margin-bottom: 10px; font-size: 1.1rem;"&gt;4. Matopplevelse, stemning og vurdering&lt;/h4&gt;
+&lt;table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 25%;"&gt;Adjektiv&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 35%;"&gt;Forklaring / Betydning&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 40%;"&gt;Eksempel i setning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Nydelig / Deilig / Herlig&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Smaker eller føles utrolig godt&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Dette var et helt &lt;em&gt;nydelig&lt;/em&gt; måltid.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Koselig&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Hyggelig, behagelig og avslappende stemning&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Vi spiste på en liten og &lt;em&gt;koselig&lt;/em&gt; restaurant.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Fantastisk / Utsøkt&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Av svært høy kvalitet, toppklasse&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Kjøkkensjefen serverte en &lt;em&gt;utsøkt&lt;/em&gt; pastarett.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;Smakfull / Velsmakende&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;Har en god, balansert og behagelig smak&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;«Suppa var veldig fyldig og &lt;em&gt;smakfull&lt;/em&gt;.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+        </presentation>
+      </item>
+      <item ident="gab3c7bb69422952973d6cec6721e0f05" title="Koble adjektiv og substantiv">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>11.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>7324,2040,4689,7589,115,5429,9318,2308,6179,2341,6259</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1608901dd17e9d32efc38fe5665373e4</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;Koble adjektiv og substantiv&lt;/h3&gt;
+&lt;p style="margin-bottom: 15px; line-height: 1.5;"&gt;I denne oppgaven skal du koble sammen hvert &lt;strong&gt;adjektiv&lt;/strong&gt; med et passende &lt;strong&gt;substantiv&lt;/strong&gt; slik at det danner en naturlig og god beskrivelse.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_7324">
+            <material>
+              <mattext texttype="text/plain">Rosa</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2040">
+            <material>
+              <mattext texttype="text/plain">Rød</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4689">
+            <material>
+              <mattext texttype="text/plain">Liten</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7589">
+            <material>
+              <mattext texttype="text/plain">Sliten</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_115">
+            <material>
+              <mattext texttype="text/plain">Stort</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5429">
+            <material>
+              <mattext texttype="text/plain">Lyst</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9318">
+            <material>
+              <mattext texttype="text/plain">Stripete</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2308">
+            <material>
+              <mattext texttype="text/plain">Rutete</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6179">
+            <material>
+              <mattext texttype="text/plain">Sunn</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2341">
+            <material>
+              <mattext texttype="text/plain">Søt</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6259">
+            <material>
+              <mattext texttype="text/plain">Lang</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="347">
+                <material>
+                  <mattext>Gris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2238">
+                <material>
+                  <mattext>Ferrari</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3089">
+                <material>
+                  <mattext>Mus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7352">
+                <material>
+                  <mattext>Mamma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="708">
+                <material>
+                  <mattext>Hus</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7990">
+                <material>
+                  <mattext>Hår</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3400">
+                <material>
+                  <mattext>Zebra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7486">
+                <material>
+                  <mattext>Kilt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3910">
+                <material>
+                  <mattext>Salat</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2340">
+                <material>
+                  <mattext>Kake</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5026">
+                <material>
+                  <mattext>Kjole</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7324">347</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2040">2238</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4689">3089</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7589">7352</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_115">708</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5429">7990</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9318">3400</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2308">7486</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6179">3910</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2341">2340</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6259">5026</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ge3c4001fdf818053ff8b036777c5e394" title="Riktig adjektiv i tekst">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>13.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>9153,5651,3886,5012,5310,6001,4434,9064,5200,4433,3164</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g41026fbf24d106fa7faa0888342ea887</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;Fyll inn riktig adjektiv&lt;/h3&gt;
+&lt;p style="margin-bottom: 15px; line-height: 1.5;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Velg riktig adjektiv fra ordlisten nedenfor og fyll inn i parentesene slik at teksten blir hel og gir mening.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="background-color: #ffc87c; border-left: 5px solid #ad4400; padding: 12px 15px; border-radius: 5px; margin-bottom: 20px; color: #510000;"&gt;&lt;strong style="display: block; margin-bottom: 6px; font-size: 1.05rem;"&gt;Ordbank (adjektiver):&lt;/strong&gt;
+&lt;p style="margin: 0; line-height: 1.6;"&gt;&lt;em&gt;italienske • koselig • varm • sprø • lang • kort • tykk • søt • kald • sterk • god • deilig • fantastisk&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="background-color: #ffffff; border-radius: 6px; padding: 20px; line-height: 1.8; font-size: 1.05rem; border: 1.5px solid #f4c430;"&gt;
+&lt;p style="margin-top: 0; margin-bottom: 12px;"&gt;Italia er kjent for sin [italienske] mat. På en [koselig] restaurant kan du spise pizza og pasta. Pizzaen er ofte [varm] og [sprø], med ost og tomatsaus. Pastaen kan være [lang] eller [kort], og sausen er [tykk] og god.&lt;/p&gt;
+&lt;p style="margin-bottom: 12px;"&gt;Til dessert kan du spise en [søt] iskrem eller en [kald] tiramisu. Mange liker også italiensk kaffe, som er [sterk] og [god].&lt;/p&gt;
+&lt;p style="margin-bottom: 0;"&gt;Italiensk mat smaker [deilig], og mange synes at den er helt [fantastisk]!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_italienske">
+            <material>
+              <mattext>italienske</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9153">
+                <material>
+                  <mattext texttype="text/plain">italienske</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_koselig">
+            <material>
+              <mattext>koselig</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5651">
+                <material>
+                  <mattext texttype="text/plain">koselig</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_varm">
+            <material>
+              <mattext>varm</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3886">
+                <material>
+                  <mattext texttype="text/plain">varm</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_kort">
+            <material>
+              <mattext>kort</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5012">
+                <material>
+                  <mattext texttype="text/plain">kort</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_tykk">
+            <material>
+              <mattext>tykk</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5310">
+                <material>
+                  <mattext texttype="text/plain">tykk</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_kald">
+            <material>
+              <mattext>kald</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6001">
+                <material>
+                  <mattext texttype="text/plain">kald</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_sterk">
+            <material>
+              <mattext>sterk</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4434">
+                <material>
+                  <mattext texttype="text/plain">sterk</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_god">
+            <material>
+              <mattext>god</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9064">
+                <material>
+                  <mattext texttype="text/plain">god</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_deilig">
+            <material>
+              <mattext>deilig</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5200">
+                <material>
+                  <mattext texttype="text/plain">deilig</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_fantastisk">
+            <material>
+              <mattext>fantastisk</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4433">
+                <material>
+                  <mattext texttype="text/plain">fantastisk</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_lang">
+            <material>
+              <mattext>lang</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3164">
+                <material>
+                  <mattext texttype="text/plain">lang</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_italienske">9153</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_koselig">5651</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_varm">3886</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_kort">5012</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_tykk">5310</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_kald">6001</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_sterk">4434</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_god">9064</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_deilig">5200</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_fantastisk">4433</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_lang">3164</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">9.09</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ga82bd0f8998529c636ec2cedb121d3a9" title="Pecorino">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_answers_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1419,6302,5310,8871,5300,3698,5881</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb868ef54f7e859b030aa68d1302e9014</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;h4 style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 15px; padding: 20px; margin-bottom: 25px; color: #510000;"&gt;Gjør deg kjent med adjektiver fordelt på italienske produktkategorier og matvarer.&lt;/h4&gt;
+&lt;div class="accordion-gruppe"&gt;&lt;details style="background-color: #ffffff; border-radius: 6px; margin-bottom: 10px; padding: 10px 15px; border: 2.5px solid #f4c430;"&gt;
+&lt;summary style="color: #510000; cursor: pointer;"&gt;1. Oster (Pecorino, Mozzarella, Stracciatella)&lt;/summary&gt;
+&lt;ul style="padding-left: 25px; margin-top: 12px; margin-bottom: 5px; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;lagret / vellagret&lt;/strong&gt; – har modnet over tid for å få mer kraftig smak.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;fersk&lt;/strong&gt; – nylaget, ubrukt eller usyrnet råvare.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;mild&lt;/strong&gt; – rolig og svakt krydret smak.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;myk / kremet&lt;/strong&gt; – glatt, tykk og lett å smøre/spise.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;hard&lt;/strong&gt; – ikke myk eller smørbar.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;stram&lt;/strong&gt; – veldig kraftig lukt som merkes fort.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;fyldig&amp;nbsp; &lt;/strong&gt;&lt;span style="color: #650505;"&gt;- rund og rik smak.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;details style="background-color: #ffffff; border-radius: 6px; margin-bottom: 10px; padding: 10px 15px; border: 2.5px solid #f4c430;"&gt;
+&lt;summary style="color: #510000; cursor: pointer;"&gt;2. Spekemat og kjøttprodukter (Guanciale, 'Nduja)&lt;/summary&gt;
+&lt;ul style="padding-left: 25px; margin-top: 12px; margin-bottom: 5px; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;salt&lt;/strong&gt; – har mye salt i seg.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;sterk / krydret / pikant&lt;/strong&gt; – mye chili, pepper eller krydder.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;røkt&lt;/strong&gt; – lukt og smak av røyk eller røykeri.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;saftig / mør&lt;/strong&gt; – inneholder mye væske / lett å tygge (om kjøtt).&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;fettete&lt;/strong&gt; – har for mye olje eller fett.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;details style="background-color: #ffffff; border-radius: 6px; margin-bottom: 10px; padding: 10px 15px; border: 2.5px solid #f4c430;"&gt;
+&lt;summary style="color: #510000; cursor: pointer;"&gt;3. Sauser og pastaretter (Sugo alla Norma, Arrabbiata)&lt;/summary&gt;
+&lt;ul style="padding-left: 25px; margin-top: 12px; margin-bottom: 5px; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;smaksrik / rik&lt;/strong&gt; – har mye, dypt og fyldig smaksuttrykk.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;sterk&lt;/strong&gt; – mye chili eller pepper.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;klumpete&lt;/strong&gt; – har ujevne biter.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;smakløs / kjedelig&lt;/strong&gt; – mangler smak eller krydder.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;utsøkt / smakfull&lt;/strong&gt; – av svært høy kvalitet og god balanse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;details style="background-color: #ffffff; border-radius: 6px; margin-bottom: 10px; padding: 10px 15px; border: 2.5px solid #f4c430;"&gt;
+&lt;summary style="color: #510000; cursor: pointer;"&gt;4. Drikke, frukt og sitrus (Vin, kaffe, sitroner)&lt;/summary&gt;
+&lt;ul style="padding-left: 25px; margin-top: 12px; margin-bottom: 5px; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;sur / syrlig&lt;/strong&gt; – frisk eller skarp smak (som sitron).&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;bitter&lt;/strong&gt; – skarp og mørk smak (som kaffe eller mørk sjokolade).&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;fruktig&lt;/strong&gt; – tydelig duft eller smak av frukt og bær.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;velduftende / frisk&lt;/strong&gt; – ren, god og behagelig lukt/smak.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;søt&lt;/strong&gt; – smaker sukker eller honning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;details style="background-color: #ffffff; border-radius: 6px; margin-bottom: 10px; padding: 10px 15px; border: 2.5px solid #f4c430;"&gt;
+&lt;summary style="color: #510000; cursor: pointer;"&gt;5. Bakevarer og desserter (Brød, kaker, søtsaker)&lt;/summary&gt;
+&lt;ul style="padding-left: 25px; margin-top: 12px; margin-bottom: 5px; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;sprø&lt;/strong&gt; – lager knaselyd når du tygger (hard og tørr).&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;tørr&lt;/strong&gt; – mangler fuktighet, føles melete.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;seig&lt;/strong&gt; – vanskelig å tygge over, må tygges lenge.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;lekker / innbydende&lt;/strong&gt; – ser pen, appetittvekkende og fristende ut.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;nydelig / deilig&lt;/strong&gt; – smaker eller føles utrolig godt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;/div&gt;
+&lt;div style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000;"&gt;
+&lt;div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;"&gt;
+&lt;div style="flex: 1 1 200px; max-width: 300px; text-align: center;"&gt;&lt;img style="width: 100%; max-width: 280px; height: auto; border-radius: 6px; border: 2px solid #ad4400;" src="$IMS-CC-FILEBASE$/Uploaded%20Media/Pecorino%20-%20stagionato%20del%20fiorini.jpg" alt="Pecorino - stagionato del fiorini.jpg" loading="lazy"&gt;&lt;/div&gt;
+&lt;div style="flex: 2 1 300px;"&gt;
+&lt;h4 style="color: #510000; margin-top: 0; margin-bottom: 10px; font-size: 1.2rem;"&gt;Hvordan kan man beskrive smaken og konsistensen på denne osten?&lt;/h4&gt;
+&lt;p style="margin-bottom: 10px; line-height: 1.5;"&gt;Se på bildet av &lt;em&gt;Pecorino Stagionato&lt;/em&gt; og svar på følgende spørsmål:&lt;/p&gt;
+&lt;ul style="padding-left: 20px; margin: 0; line-height: 1.5;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvilke adjektiver for &lt;strong&gt;smak&lt;/strong&gt; vil du bruke om en slik vellagret saueost?&amp;nbsp;&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvordan vil du beskrive &lt;strong&gt;konsistensen&lt;/strong&gt;?&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Multiple">
+            <render_choice>
+              <response_label ident="1419">
+                <material>
+                  <mattext texttype="text/plain">bitter</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6302">
+                <material>
+                  <mattext texttype="text/plain">skarp</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5310">
+                <material>
+                  <mattext texttype="text/plain">tykk/tjukk</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8871">
+                <material>
+                  <mattext texttype="text/plain">stor</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5300">
+                <material>
+                  <mattext texttype="text/plain">lagret</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3698">
+                <material>
+                  <mattext texttype="text/plain">vellagret</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5881">
+                <material>
+                  <mattext texttype="text/plain">hard</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <and>
+                <not>
+                  <varequal respident="response1">1419</varequal>
+                </not>
+                <varequal respident="response1">6302</varequal>
+                <not>
+                  <varequal respident="response1">5310</varequal>
+                </not>
+                <not>
+                  <varequal respident="response1">8871</varequal>
+                </not>
+                <varequal respident="response1">5300</varequal>
+                <varequal respident="response1">3698</varequal>
+                <varequal respident="response1">5881</varequal>
+              </and>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g27cb4569d10c3448fd04a88290532d32" title="Norma">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_answers_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6785,811,7693,8788,9080,6868,4295,6245</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g0d7b24773e831045d17f1cc53e724eb2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000;"&gt;
+&lt;div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;"&gt;
+&lt;div style="flex: 1 1 200px; max-width: 300px; text-align: center;"&gt;&lt;img src="$IMS-CC-FILEBASE$/Uploaded%20Media/Sugo%20alla%20Norma.jpg" alt="Sugo alla Norma.jpg" loading="lazy"&gt;&lt;/div&gt;
+&lt;div style="flex: 2 1 300px;"&gt;
+&lt;h4 style="color: #510000; margin-top: 0; margin-bottom: 10px; font-size: 1.2rem;"&gt;Hvordan kan man beskrive denne sausen?&lt;/h4&gt;
+&lt;p style="margin-bottom: 10px; line-height: 1.5;"&gt;Se på bildet av &lt;em&gt;Sugo alla Norma&lt;/em&gt; (tomatsaus med stekt aubergine) og svar på følgende spørsmål:&lt;/p&gt;
+&lt;ul style="padding-left: 20px; margin: 0; line-height: 1.5;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvilke adjektiver for &lt;strong&gt;smak og aroma&lt;/strong&gt; vil du bruke om en slik tomatsaus?&amp;nbsp;&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvordan vil du beskrive &lt;strong&gt;konsistensen&lt;/strong&gt;?&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;Hvilke adjektiver for &lt;strong&gt;utseende/farge&lt;/strong&gt; passer?&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Multiple">
+            <render_choice>
+              <response_label ident="6785">
+                <material>
+                  <mattext texttype="text/plain">søt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="811">
+                <material>
+                  <mattext texttype="text/plain">rød</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7693">
+                <material>
+                  <mattext texttype="text/plain">mild</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8788">
+                <material>
+                  <mattext texttype="text/plain">fyldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9080">
+                <material>
+                  <mattext texttype="text/plain">flau</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6868">
+                <material>
+                  <mattext texttype="text/plain">vegetarisk</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4295">
+                <material>
+                  <mattext texttype="text/plain">tørr</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6245">
+                <material>
+                  <mattext texttype="text/plain">smakfull</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <and>
+                <not>
+                  <varequal respident="response1">6785</varequal>
+                </not>
+                <varequal respident="response1">811</varequal>
+                <varequal respident="response1">7693</varequal>
+                <not>
+                  <varequal respident="response1">8788</varequal>
+                </not>
+                <not>
+                  <varequal respident="response1">9080</varequal>
+                </not>
+                <varequal respident="response1">6868</varequal>
+                <not>
+                  <varequal respident="response1">4295</varequal>
+                </not>
+                <varequal respident="response1">6245</varequal>
+              </and>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gdb61a6e5947ff15bb27be05d195c7a4d" title="Guanciale">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_answers_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>3.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>7828,8833,8938,5851,6332,4324,5677,7938</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gbc3c7b586698e5e041cd959121f0f911</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000;"&gt;
+&lt;div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;"&gt;
+&lt;div style="flex: 1 1 200px; max-width: 300px; text-align: center;"&gt;&lt;img src="$IMS-CC-FILEBASE$/Uploaded%20Media/Guanciola%20tranci.jpg" alt="Guanciola tranci.jpg" loading="lazy"&gt;&lt;/div&gt;
+&lt;div style="flex: 2 1 300px;"&gt;
+&lt;h4 style="color: #510000; margin-top: 0; margin-bottom: 10px; font-size: 1.2rem;"&gt;Hvordan kan man beskrive dette spekekjøttet?&lt;/h4&gt;
+&lt;p style="margin-bottom: 10px; line-height: 1.5;"&gt;Se på bildet av &lt;em&gt;Guanciale&lt;/em&gt;&amp;nbsp;og svar på følgende spørsmål:&lt;/p&gt;
+&lt;ul style="padding-left: 20px; margin: 0; line-height: 1.5;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvilke adjektiver for &lt;strong&gt;smak &lt;/strong&gt;vil du bruke om slikt spekekjøtt?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Multiple">
+            <render_choice>
+              <response_label ident="7828">
+                <material>
+                  <mattext texttype="text/plain">krydret</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8833">
+                <material>
+                  <mattext texttype="text/plain">myk</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8938">
+                <material>
+                  <mattext texttype="text/plain">salt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5851">
+                <material>
+                  <mattext texttype="text/plain">tynn</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6332">
+                <material>
+                  <mattext texttype="text/plain">salt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4324">
+                <material>
+                  <mattext texttype="text/plain">flytende</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5677">
+                <material>
+                  <mattext texttype="text/plain">rolig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7938">
+                <material>
+                  <mattext texttype="text/plain">røkt</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <and>
+                <varequal respident="response1">7828</varequal>
+                <not>
+                  <varequal respident="response1">8833</varequal>
+                </not>
+                <varequal respident="response1">8938</varequal>
+                <not>
+                  <varequal respident="response1">5851</varequal>
+                </not>
+                <varequal respident="response1">6332</varequal>
+                <not>
+                  <varequal respident="response1">4324</varequal>
+                </not>
+                <not>
+                  <varequal respident="response1">5677</varequal>
+                </not>
+                <not>
+                  <varequal respident="response1">7938</varequal>
+                </not>
+              </and>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g55e1d83b92d539c7f1367bc1f23e81f8" title="Arrabbiata">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_answers_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>3.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4237,7511,5809,2130,5298,7689,3934,1736</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g037fc0cc196b7eda1507019dacd27391</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000;"&gt;
+&lt;div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;"&gt;
+&lt;div style="flex: 1 1 200px; max-width: 300px; text-align: center;"&gt;&lt;img src="$IMS-CC-FILEBASE$/Uploaded%20Media/Sugo%20all'arrabbiata.jpg" alt="Sugo all'arrabbiata" loading="lazy"&gt;&lt;/div&gt;
+&lt;div style="flex: 2 1 300px;"&gt;
+&lt;h4 style="color: #510000; margin-top: 0; margin-bottom: 10px; font-size: 1.2rem;"&gt;Hvordan kan man beskrive denne sausen?&lt;/h4&gt;
+&lt;p style="margin-bottom: 10px; line-height: 1.5;"&gt;Se på bildet av &lt;em&gt;Sugo all'arrabbiata&lt;/em&gt; (sterk tomatsaus med chili) og svar på følgende spørsmål:&lt;/p&gt;
+&lt;ul style="padding-left: 20px; margin: 0; line-height: 1.5;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvilke adjektiver for &lt;strong&gt;smak og styrke&lt;/strong&gt; vil du bruke om denne sausen?&amp;nbsp;&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvordan vil du beskrive &lt;strong&gt;konsistensen og utseendet&lt;/strong&gt;?&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Multiple">
+            <render_choice>
+              <response_label ident="4237">
+                <material>
+                  <mattext texttype="text/plain">sterk</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7511">
+                <material>
+                  <mattext texttype="text/plain">rød</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5809">
+                <material>
+                  <mattext texttype="text/plain">glatt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2130">
+                <material>
+                  <mattext texttype="text/plain">klumpete</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5298">
+                <material>
+                  <mattext texttype="text/plain">vellagret</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7689">
+                <material>
+                  <mattext texttype="text/plain">fersk</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3934">
+                <material>
+                  <mattext texttype="text/plain">mør</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1736">
+                <material>
+                  <mattext texttype="text/plain">smakløs</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <and>
+                <varequal respident="response1">4237</varequal>
+                <varequal respident="response1">7511</varequal>
+                <not>
+                  <varequal respident="response1">5809</varequal>
+                </not>
+                <varequal respident="response1">2130</varequal>
+                <not>
+                  <varequal respident="response1">5298</varequal>
+                </not>
+                <not>
+                  <varequal respident="response1">7689</varequal>
+                </not>
+                <not>
+                  <varequal respident="response1">3934</varequal>
+                </not>
+                <not>
+                  <varequal respident="response1">1736</varequal>
+                </not>
+              </and>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g98fc52a2ba8497a53fc591d19ae7a6c9" title="'Nduja">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_answers_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4237,7715,6119,7530,6249,9355,5795,9892,3090</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gee5d8bea84fa9af4ac258ab438e9f6d5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000;"&gt;
+&lt;div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;"&gt;
+&lt;div style="flex: 1 1 200px; max-width: 300px; text-align: center;"&gt;&lt;img src="$IMS-CC-FILEBASE$/Uploaded%20Media/'Nduja%20di%20spilinga.jpg" alt="'Nduja di spilinga.jpg" loading="lazy"&gt;&lt;/div&gt;
+&lt;div style="flex: 2 1 300px;"&gt;
+&lt;h4 style="color: #510000; margin-top: 0; margin-bottom: 10px; font-size: 1.2rem;"&gt;Hvordan kan man beskrive denne spesialiteten?&lt;/h4&gt;
+&lt;p style="margin-bottom: 10px; line-height: 1.5;"&gt;Se på bildet av &lt;em&gt;'Nduja di Spilinga&lt;/em&gt;&amp;nbsp;og svar på følgende spørsmål:&lt;/p&gt;
+&lt;ul style="padding-left: 20px; margin: 0; line-height: 1.5;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvilke adjektiver for &lt;strong&gt;smak og styrke&lt;/strong&gt; passer til 'Nduja?&amp;nbsp;&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvordan vil du beskrive &lt;strong&gt;konsistensen&lt;/strong&gt;?&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Multiple">
+            <render_choice>
+              <response_label ident="4237">
+                <material>
+                  <mattext texttype="text/plain">sterk</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7715">
+                <material>
+                  <mattext texttype="text/plain">pikant</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6119">
+                <material>
+                  <mattext texttype="text/plain">tydelig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7530">
+                <material>
+                  <mattext texttype="text/plain">smørbar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6249">
+                <material>
+                  <mattext texttype="text/plain">seig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9355">
+                <material>
+                  <mattext texttype="text/plain">syrlig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5795">
+                <material>
+                  <mattext texttype="text/plain">fruktig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9892">
+                <material>
+                  <mattext texttype="text/plain">oljete</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3090">
+                <material>
+                  <mattext texttype="text/plain">sprø</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <and>
+                <varequal respident="response1">4237</varequal>
+                <varequal respident="response1">7715</varequal>
+                <not>
+                  <varequal respident="response1">6119</varequal>
+                </not>
+                <varequal respident="response1">7530</varequal>
+                <not>
+                  <varequal respident="response1">6249</varequal>
+                </not>
+                <not>
+                  <varequal respident="response1">9355</varequal>
+                </not>
+                <not>
+                  <varequal respident="response1">5795</varequal>
+                </not>
+                <varequal respident="response1">9892</varequal>
+                <not>
+                  <varequal respident="response1">3090</varequal>
+                </not>
+              </and>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g6fdec09afc0f6e02e0a00d2f6ee5245b" title="Mozzarella">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_answers_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6951,6230,7192,3086,9205,4117,9152,8765</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ga8d28239884964f8f11b68a12888a6af</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000;"&gt;
+&lt;div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;"&gt;
+&lt;div style="flex: 1 1 200px; max-width: 300px; text-align: center;"&gt;&lt;img src="$IMS-CC-FILEBASE$/Uploaded%20Media/Filone%20mozzarella.jpg" alt="Filone mozzarella.jpg" loading="lazy"&gt;&lt;/div&gt;
+&lt;div style="flex: 2 1 300px;"&gt;
+&lt;h4 style="color: #510000; margin-top: 0; margin-bottom: 10px; font-size: 1.2rem;"&gt;Hvordan kan man beskrive denne osten?&lt;/h4&gt;
+&lt;p style="margin-bottom: 10px; line-height: 1.5;"&gt;Se på bildet av &lt;em&gt;Mozzarella (Filone)&lt;/em&gt; og svar på følgende spørsmål:&lt;/p&gt;
+&lt;ul style="padding-left: 20px; margin: 0; line-height: 1.5;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvilke adjektiver for &lt;strong&gt;smak&lt;/strong&gt; vil du bruke om fersk mozzarella?&amp;nbsp;&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hvordan vil du beskrive &lt;strong&gt;konsistensen&lt;/strong&gt;?&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Multiple">
+            <render_choice>
+              <response_label ident="6951">
+                <material>
+                  <mattext texttype="text/plain">frisk</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6230">
+                <material>
+                  <mattext texttype="text/plain">koselig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7192">
+                <material>
+                  <mattext texttype="text/plain">salt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3086">
+                <material>
+                  <mattext texttype="text/plain">klumpete</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9205">
+                <material>
+                  <mattext texttype="text/plain">mild</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4117">
+                <material>
+                  <mattext texttype="text/plain">røkt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9152">
+                <material>
+                  <mattext texttype="text/plain">tørr</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8765">
+                <material>
+                  <mattext texttype="text/plain">kremet</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <and>
+                <varequal respident="response1">6951</varequal>
+                <not>
+                  <varequal respident="response1">6230</varequal>
+                </not>
+                <varequal respident="response1">7192</varequal>
+                <not>
+                  <varequal respident="response1">3086</varequal>
+                </not>
+                <varequal respident="response1">9205</varequal>
+                <not>
+                  <varequal respident="response1">4117</varequal>
+                </not>
+                <not>
+                  <varequal respident="response1">9152</varequal>
+                </not>
+                <varequal respident="response1">8765</varequal>
+              </and>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gef0db15219b1b5b24274d4a9e3505b95" title="Gradbøying av adjektiv">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>text_only_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>,,,</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>passage</fieldlabel>
+              <fieldentry>true</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gf79008a3ce79d6bd2a216c5ecb712c6a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;Grammatikk: Gradbøying av adjektiv&lt;/h3&gt;
+&lt;p style="margin-bottom: 15px; line-height: 1.5;"&gt;De fleste adjektiver kan vi gradbøye i &lt;strong&gt;positiv&lt;/strong&gt;, &lt;strong&gt;komparativ&lt;/strong&gt; og &lt;strong&gt;superlativ&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 style="color: #510000; margin-bottom: 10px; font-size: 1.05rem;"&gt;Regelmessig gradbøying (-ere / -est):&lt;/h4&gt;
+&lt;table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; margin-bottom: 25px; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 33%;"&gt;Positiv&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 33%;"&gt;Komparativ&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 34%;"&gt;Superlativ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;myk&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;span style="color: #650505;"&gt;myk&lt;/span&gt;&lt;strong style="color: #ad4400;"&gt;ere&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;span style="color: #650505;"&gt;myk&lt;/span&gt;&lt;strong style="color: #ad4400;"&gt;est&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px;"&gt;saftig&lt;/td&gt;
+&lt;td style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px;"&gt;&lt;span style="color: #ad4400;"&gt;&amp;nbsp; &lt;span style="color: #650505;"&gt;saftig&lt;/span&gt;&lt;/span&gt;&lt;strong style="color: #ad4400;"&gt;ere&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;span style="color: #650505;"&gt;saftig&lt;/span&gt;&lt;strong style="color: #ad4400;"&gt;st&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px;"&gt;sterk&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;sterk&lt;strong style="color: #ad4400;"&gt;ere&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;sterk&lt;strong style="color: #ad4400;"&gt;est&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 style="color: #510000; margin-bottom: 10px; font-size: 1.1rem; border-top: 2px solid #f4c430; padding-top: 15px;"&gt;Bøyingsregler&lt;/h4&gt;
+&lt;p style="margin-bottom: 15px;"&gt;Nedenfor har vi samlet noen viktige bøyingsregler du bør gjøre deg kjent med:&lt;/p&gt;
+&lt;div style="background-color: #ffc87c; border-left: 5px solid #ad4400; padding: 10px 15px; border-radius: 5px; margin-bottom: 10px;"&gt;&lt;strong style="color: #510000; font-size: 1.05rem;"&gt;1. Vokalskifte&lt;/strong&gt;
+&lt;p style="margin: 5px 0 0 0; line-height: 1.4;"&gt;Enkelte adjektiver skifter vokal i stammen og får endingene &lt;strong&gt;-re&lt;/strong&gt; og &lt;strong&gt;-st&lt;/strong&gt;. &lt;em&gt;(Stammen er adjektivet uten bøyingsending.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; margin-bottom: 25px; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 33%;"&gt;Positiv&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 33%;"&gt;Komparativ&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 34%;"&gt;Superlativ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;st&lt;strong style="color: #ad4400;"&gt;o&lt;/strong&gt;r&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;st&lt;strong style="color: #ad4400;"&gt;ø&lt;/strong&gt;rr&lt;strong style="color: #ad4400;"&gt;e&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;st&lt;strong style="color: #ad4400;"&gt;ø&lt;/strong&gt;r&lt;strong style="color: #ad4400;"&gt;st&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px;"&gt;ung&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;yng&lt;strong style="color: #ad4400;"&gt;re&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;yng&lt;strong style="color: #ad4400;"&gt;st&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div style="background-color: #ffc87c; border-left: 5px solid #ad4400; padding: 10px 15px; border-radius: 5px; margin-bottom: 10px;"&gt;&lt;strong style="color: #510000; font-size: 1.05rem;"&gt;2. Ulike stammer (uregelmessig)&lt;/strong&gt;
+&lt;p style="margin: 5px 0 0 0; line-height: 1.4;"&gt;En gruppe adjektiver endrer ordstamme helt når de gradbøyes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; margin-bottom: 25px; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 33%;"&gt;Positiv&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 33%;"&gt;Komparativ&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 34%;"&gt;Superlativ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;liten&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;mindre&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;minst&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px;"&gt;gammel&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;eldre&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;eldst&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div style="background-color: #ffc87c; border-left: 5px solid #ad4400; padding: 10px 15px; border-radius: 5px; margin-bottom: 10px;"&gt;&lt;strong style="color: #510000; font-size: 1.05rem;"&gt;3. Bøying med «mer» og «mest»&lt;/strong&gt;
+&lt;p style="margin: 5px 0 0 0; line-height: 1.4;"&gt;Noen grupper adjektiver bøyes med hjelpeordene &lt;strong&gt;mer&lt;/strong&gt; og &lt;strong&gt;mest&lt;/strong&gt;. Som oftest å er adjektiv som kommer fra latin (liknende på italiensk og spansk) bøyd med&amp;nbsp;&lt;strong&gt;mer&lt;/strong&gt; og&amp;nbsp;&lt;strong&gt;mest&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 33%;"&gt;Positiv&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 33%;"&gt;Komparativ&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 34%;"&gt;Superlativ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;krydret&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;mer&lt;/strong&gt; krydret&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;mest&lt;/strong&gt; krydret&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px;"&gt;praktisk&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;mer&lt;/strong&gt; praktisk&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;mest&lt;/strong&gt; praktisk&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px;"&gt;elegant&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;mer&lt;/strong&gt; elegant&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;mest&lt;/strong&gt; elegant&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px;"&gt;pikant&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;mer&lt;/strong&gt; pikant&lt;/td&gt;
+&lt;td style="padding: 10px;"&gt;&lt;strong style="color: #ad4400;"&gt;mest&lt;/strong&gt; pikant&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+        </presentation>
+      </item>
+      <item ident="g9ca79511971b2752ef5ac4286333c974" title="Sammenlikning 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5540,5448,6022,5234,8980,831</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb8d74881354851ca52e87593f61eecfd</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;Sammenlikning og gradbøying&lt;/h3&gt;
+&lt;p style="margin-bottom: 20px; line-height: 1.5;"&gt;I disse oppgavene skal du øve på å bruke komparativ og superlativ til å sammenlikne de italienske råvarene.&lt;/p&gt;
+&lt;div style="background-color: #ffc87c; border-left: 5px solid #ad4400; padding: 12px 15px; border-radius: 5px; margin-bottom: 12px;"&gt;&lt;strong style="color: #510000; font-size: 1.05rem;"&gt;Oppgave 1: Fyll inn riktig form (komparativ eller superlativ)&lt;/strong&gt;
+&lt;p style="margin: 5px 0 0 0;"&gt;Les setningene og fyll inn riktig gradbøyd form av adjektivet i parentes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="background-color: #ffffff; border-radius: 6px; padding: 15px; margin-bottom: 25px; border: 1.5px solid #f4c430;"&gt;
+&lt;ol style="padding-left: 20px; margin: 0; line-height: 1.8;"&gt;
+&lt;li style="margin-bottom: 8px;"&gt;(mild) Mozzarella er mye [mildere] enn den lagrede Pecorino-osten.&lt;/li&gt;
+&lt;li style="margin-bottom: 8px;"&gt;(hard) Pecorino Stagionato er en [hardere] ost enn fersk Mozzarella.&lt;/li&gt;
+&lt;li style="margin-bottom: 8px;"&gt;(sterk) Sugo alla Norma er god, men Sugo all’arrabbiata er mye [sterkere].&lt;/li&gt;
+&lt;li style="margin-bottom: 8px;"&gt;(sterk) Av alle råvarene er ’Nduja di Spilinga den [sterkeste] spesialiteten.&lt;/li&gt;
+&lt;li style="margin-bottom: 8px;"&gt;(rik) Guanciale har mye hvitt fett og er mye [rikere] enn magert kjøtt.&lt;/li&gt;
+&lt;li style="margin-bottom: 8px;"&gt;(stram) Siden Pecorino er vellagret og speket, og [strammere] enn fersk Mozzarella.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_mildere">
+            <material>
+              <mattext>mildere</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5540">
+                <material>
+                  <mattext texttype="text/plain">mildere</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_hardere">
+            <material>
+              <mattext>hardere</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5448">
+                <material>
+                  <mattext texttype="text/plain">hardere</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_sterkere">
+            <material>
+              <mattext>sterkere</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6022">
+                <material>
+                  <mattext texttype="text/plain">sterkere</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_sterkeste">
+            <material>
+              <mattext>sterkeste</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5234">
+                <material>
+                  <mattext texttype="text/plain">sterkeste</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_rikere">
+            <material>
+              <mattext>rikere</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8980">
+                <material>
+                  <mattext texttype="text/plain">rikere</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_strammere">
+            <material>
+              <mattext>strammere</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="831">
+                <material>
+                  <mattext texttype="text/plain">strammere</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_mildere">5540</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_hardere">5448</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_sterkere">6022</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_sterkeste">5234</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_rikere">8980</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_strammere">831</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g8b4b6c0aefbd17d317ca90af2a70f06b" title="Sammenlikning 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5338,2565,8817,6706</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1ecf4f2b0409173bf8aad2fcdcfac96f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffc87c; border-left: 5px solid #ad4400; padding: 12px 15px; border-radius: 5px; margin-bottom: 12px;"&gt;&lt;strong style="color: #510000; font-size: 1.05rem;"&gt;Skriv sammenlikningssetninger (Bruk «enn»)&lt;/strong&gt;
+&lt;p style="margin: 5px 0 0 0;"&gt;Bruk de oppgitte produktene og adjektivet i parentes til å skrive en hel setning der du sammenlikner råvarene. Husk å bruke &lt;strong&gt;komparativ + enn&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="background-color: #ffffff; border-radius: 6px; padding: 15px; margin-bottom: 25px; border: 1.5px solid #f4c430;"&gt;
+&lt;p style="margin-top: 0px; margin-bottom: 12px; background-color: #fff6ed; padding: 8px 12px; border-radius: 4px; border: 1px dashed #ad4400;"&gt;&lt;em&gt;Eksempel:&lt;/em&gt; Mozzarella / Pecorino (myk) → &lt;strong&gt;Mozzarella er mykere enn Pecorino.&lt;/strong&gt;&lt;/p&gt;
+&lt;ol style="padding-left: 20px; margin: 0; line-height: 2;"&gt;
+&lt;li style="margin-bottom: 10px;"&gt;Sugo all’arrabbiata / Sugo alla Norma (pikant)&lt;br&gt;Svar: [ermerpikant]&amp;nbsp;&lt;/li&gt;
+&lt;li style="margin-bottom: 10px;"&gt;’Nduja di Spilinga / Guanciale (sterk)&lt;br&gt;Svar: [sterkere]&amp;nbsp;&lt;/li&gt;
+&lt;li style="margin-bottom: 10px;"&gt;Pecorino Stagionato / Mozzarella (smaksrik)&lt;br&gt;Svar:&amp;nbsp; [mersmaksrik]&amp;nbsp;&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;Sugo alla Norma / Sugo all’arrabbiata (kjedelig)&lt;br&gt;Svar: [kjedeligere]&amp;nbsp;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_ermerpikant">
+            <material>
+              <mattext>ermerpikant</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5338">
+                <material>
+                  <mattext texttype="text/plain">Sugo all’arrabbiata er mer pikant enn Sugo alla Norma</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_sterkere">
+            <material>
+              <mattext>sterkere</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2565">
+                <material>
+                  <mattext texttype="text/plain">'Nduja er sterkere enn guanciale</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_mersmaksrik">
+            <material>
+              <mattext>mersmaksrik</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8817">
+                <material>
+                  <mattext texttype="text/plain">Pecorino Stagionato mer smaksrik enn Mozzarella</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_kjedeligere">
+            <material>
+              <mattext>kjedeligere</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6706">
+                <material>
+                  <mattext texttype="text/plain">Sugo alla Norma er kjedeligere enn sugo all'arrabbiata</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_ermerpikant">5338</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_sterkere">2565</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_mersmaksrik">8817</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_kjedeligere">6706</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g5a163a79e084bd719a0448f1dc8fa4e7" title="Rollespill">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gdf7845d3250972f3c9a1b49f858b7ae2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;Rollespill eller skriv en anbefaling&lt;/h3&gt;
+&lt;p style="margin-bottom: 20px; line-height: 1.5;"&gt;&lt;strong&gt;Les kundeprofilene nedenfor og velg hvilken rolle du vil spille:&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="background-color: #ffc87c; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 2px solid #ad4400;"&gt;
+&lt;div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;"&gt;
+&lt;h4 style="color: #ad4400; margin: 0; font-size: 1.15rem;"&gt;Kundeprofil 1: Øyvind (34 år) – Skal ha «Italiensk aften» for venner&lt;/h4&gt;
+&lt;/div&gt;
+&lt;p style="margin-top: 0; margin-bottom: 10px; line-height: 1.5;"&gt;&lt;strong&gt;Ønsker og preferanser:&lt;/strong&gt; Øyvind liker sterk mat. Han ønsker å lage en pastasaus som er skikkelig sterk, og ser etter et pølsepålegg eller spekekjøtt som er røkt. Når det gjelder ost, vil han unngå de milde variantene; han foretrekker oster som er vellagrete. Til aperitivo har han også lyst på noe med en litt bitter smak.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="background-color: #ffc87c; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 2px solid #ad4400;"&gt;
+&lt;div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;"&gt;
+&lt;h4 style="color: #ad4400; margin: 0; font-size: 1.15rem;"&gt;Kundeprofil 2: Karoline (43 år) – Lager koselig middag til familien&lt;/h4&gt;
+&lt;/div&gt;
+&lt;p style="margin-top: 0; margin-bottom: 10px; line-height: 1.5;"&gt;&lt;strong&gt;Ønsker og preferanser:&lt;/strong&gt; Karoline skal lage en pizza til familien, men barna liker ikke mat som er for sterk eller har «voksne smaker». Hun vil ha en pizzasaus og toppinger som er barnevennlige, men heller ikke kjedelige. Hun lurer også på om hun bør kjøpe pizzabunn eller lage en selv.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="background-color: #ffffff; border-radius: 8px; padding: 15px 20px; margin-bottom: 0px; color: #510000; border: 2px solid #f4c430;"&gt;
+&lt;h4 style="color: #ad4400; margin-top: 0; font-size: 1.15rem; border-bottom: 1.5px solid #f4c430; padding-bottom: 5px;"&gt;Instruksjoner:&lt;/h4&gt;
+&lt;ol style="margin: 10px 0 0 0; padding-left: 20px; line-height: 1.6;"&gt;
+&lt;li style="margin-bottom: 8px;"&gt;&lt;strong&gt;Del dere opp i par:&lt;/strong&gt; Én spiller butikkmedarbeider, og den andre spiller en av kundene (Øyvind eller Karoline).
+&lt;ol style="margin: 10px 0 0 0; padding-left: 20px; line-height: 1.6;"&gt;
+&lt;li style="margin-bottom: 8px;"&gt;&lt;strong&gt;Hvis du ikke kan ha rollespill: &lt;/strong&gt;Skriv en anbefaling!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li style="margin-bottom: 8px;"&gt;&lt;strong&gt;Bruk vokabularet aktivt:&lt;/strong&gt; Medarbeideren må veilede kunden og foreslå spesifikke produkter ved å bruke adjektiver for smak, lukt, konsistens og matopplevelse.&lt;/li&gt;
+&lt;li style="margin-bottom: 8px;"&gt;&lt;strong&gt;Sammenlikn produktene:&lt;/strong&gt; Bruk gradbøyning i samtalen når det passer.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong&gt;Bytt roller:&lt;/strong&gt; Når dialogen er ferdig, bytter dere roller!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gf7b1c6ad1fe6d9fd645bf81fe5288b99" title="Føroppgaver">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gaa90d94e88492f98e686a0ba13d9cde0" title="Spørsmål 1: Å lære norsk for jobb og hverdag">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g449da015637d484a2a05c9fe67a73538</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;&lt;strong&gt;Å lære norsk for jobb og hverdag&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style="margin-bottom: 10px; line-height: 1.5;"&gt;Tenk over din egen reise i norsklæringen.&lt;/p&gt;
+&lt;p style="margin-bottom: 8px; line-height: 1.5; color: #ad4400;"&gt;&lt;strong&gt;Hvorfor vil du eller trenger du å lære norsk?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="margin: 0; padding-left: 20px; line-height: 1.6; color: #510000;"&gt;
+&lt;li style="margin-bottom: 4px;"&gt;&lt;strong&gt;Jobb og karriere&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="margin-bottom: 4px;"&gt;&lt;strong&gt;Barn og familieliv&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong&gt;Venner og kolleger&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong&gt;Skole og utdanning&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong&gt;Annet?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g187062ff05231e17253382c32a9664b4" title="Spørsmål 2: Utfordringer">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ge0a00b9c81c53ab1ec82b77aa134a191</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;Utfordringer&lt;/h3&gt;
+&lt;p style="margin-bottom: 10px; line-height: 1.5; color: #ad4400;"&gt;&lt;strong&gt;Hva synes du er vanskelig med å lære norsk? Har du noen konkrete eksempler?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="margin: 0; padding-left: 20px; line-height: 1.6; color: #510000;"&gt;
+&lt;li style="margin-bottom: 4px;"&gt;&lt;strong&gt;Ordforråd / vokabular&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="margin-bottom: 4px;"&gt;&lt;strong&gt;Grammatikk&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="margin-bottom: 4px;"&gt;&lt;strong&gt;Uttale&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong&gt;Dialekter&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong&gt;Andre utfordringer?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g66909b83db475ec8ed0c830656099747" title="Spørsmål 3: Interesser">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g4d64be8ddb18fbd800da5ed1620c24dd</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;Interesser&lt;/h3&gt;
+&lt;p style="margin-bottom: 10px; line-height: 1.5; color: #ad4400;"&gt;&lt;strong&gt;Hva synes du er mest interessant eller morsomt med å lære norsk?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="margin: 0; padding-left: 20px; line-height: 1.6; color: #510000;"&gt;
+&lt;li style="margin-bottom: 4px;"&gt;Forstå &lt;strong&gt;dialekter&lt;/strong&gt; og talemål&lt;/li&gt;
+&lt;li style="margin-bottom: 4px;"&gt;Lære om &lt;strong&gt;kultur&lt;/strong&gt; og samfunn&lt;/li&gt;
+&lt;li style="margin-bottom: 4px;"&gt;Bruke språket i &lt;strong&gt;hverdagen&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;Lære nye &lt;strong&gt;ord og uttrykk&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong&gt;Annet?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

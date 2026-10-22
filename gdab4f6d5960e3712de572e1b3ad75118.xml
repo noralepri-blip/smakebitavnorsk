@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gdab4f6d5960e3712de572e1b3ad75118" title="Unnskyld, kan du si det igjen?​ - lytteoppgaver">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7ef250ecbfb49a2b2650f558a9a152c8" title="Sammensatte verb">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>text_only_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>passage</fieldlabel>
+              <fieldentry>true</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gf47b767d37e06559ff801f2d253307ba</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;Grammatikk: Sammensatte verb&lt;/h3&gt;
+&lt;div style="background-color: #ffc87c; border-left: 5px solid #ad4400; padding: 12px 15px; border-radius: 5px; margin-bottom: 15px;"&gt;
+&lt;ul style="padding-left: 20px; margin-bottom: 20px; line-height: 1.5;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Sammensatte verb består ofte av &lt;strong&gt;verb + adverb&lt;/strong&gt; eller &lt;strong&gt;verb + preposisjon&lt;/strong&gt;. Disse kalles også &lt;em&gt;partikkelverb&lt;/em&gt;.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Partiklene endrer ofte hele betydningen av verbet.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;De sammensatte verbene bøyes på samme måte som det usammensatte verbet f.eks. ta - tok blir til innta - inntok&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h4 style="color: #510000; margin-bottom: 10px; font-size: 1.05rem;"&gt;Høyfrekvente partikkelverb med verbet &lt;em&gt;«å holde»&lt;/em&gt;:&lt;/h4&gt;
+&lt;table style="border-collapse: collapse; width: 100%; background-color: #ffffff; border-color: #f4c430; border-style: solid; float: right;" cellpadding="10px"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 15.5409%;"&gt;Verb + partikkel&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 21.9337%;"&gt;Betydning&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 20.6503%;"&gt;Italiensk&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 41.8683%;"&gt;Eksempel i setning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px; width: 15.5409%;"&gt;&lt;strong style="color: #ad4400;"&gt;holde av&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 21.9337%;"&gt;reservere&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.6503%;"&gt;prenotare, mettere da parte&lt;/td&gt;
+&lt;td style="padding: 10px; width: 41.8683%;"&gt;«Kan du &lt;em&gt;holde av&lt;/em&gt; en gaveboks til meg?»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px; width: 15.5409%;"&gt;&lt;strong style="color: #ad4400;"&gt;holde på med&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 21.9337%;"&gt;være opptatt med, drive med&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.6503%;"&gt;combinare&amp;nbsp;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 41.8683%;"&gt;«Hva &lt;em&gt;holder du på med&lt;/em&gt;?» «Che combini?»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px; width: 15.5409%;"&gt;&lt;strong style="color: #ad4400;"&gt;holde ut&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 21.9337%;"&gt;tåle, takle&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.6503%;"&gt;resistere, sopportare&lt;/td&gt;
+&lt;td style="padding: 10px; width: 41.8683%;"&gt;«Det blir en vanskelig måned på jobb. Jeg vet ikke om jeg &lt;em&gt;holder ut&lt;/em&gt;!»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; width: 15.5409%;"&gt;&lt;strong style="color: #ad4400;"&gt;holde opp&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 21.9337%;"&gt;slutte, gi seg&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.6503%;"&gt;smettere&lt;/td&gt;
+&lt;td style="padding: 10px; width: 41.8683%;"&gt;«Hun må &lt;em&gt;holde opp&lt;/em&gt; med den klaginga, jeg orker ikke å høre på lenger.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 style="color: #510000; margin-bottom: 10px; font-size: 1.05rem;"&gt;Høyfrekvente med verbet &lt;em&gt;«å komme»&lt;/em&gt;:&lt;/h4&gt;
+&lt;table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; margin-bottom: 25px; height: 180.267px; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left; height: 45.0667px;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 15.4897%; height: 45.0667px;"&gt;Verb + partikkel&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 22.1866%; height: 45.0667px;"&gt;Betydning&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 20.6478%; height: 45.0667px;"&gt;Italiensk&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 41.6691%; height: 45.0667px;"&gt;Eksempel i setning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; height: 45.0667px;"&gt;
+&lt;td style="padding: 10px; width: 15.4897%; height: 45.0667px;"&gt;&lt;strong style="color: #ad4400;"&gt;komme på&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 22.1866%; height: 45.0667px;"&gt;få en tanke / idé, huske&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.6478%; height: 45.0667px;"&gt;rammentare&lt;/td&gt;
+&lt;td style="padding: 10px; width: 41.6691%; height: 45.0667px;"&gt;«Ida &lt;em&gt;kom på&lt;/em&gt; en kjempeidé til en salgskampanje i går!»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed; height: 45.0667px;"&gt;
+&lt;td style="padding: 10px; width: 15.4897%; height: 45.0667px;"&gt;&lt;strong style="color: #ad4400;"&gt;komme an på&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 22.1866%; height: 45.0667px;"&gt;være avhengig av, spørs&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.6478%; height: 45.0667px;"&gt;dipendere&lt;/td&gt;
+&lt;td style="padding: 10px; width: 41.6691%; height: 45.0667px;"&gt;«Vi får kanskje inn ny olivenolje i morgen, men det &lt;em&gt;kommer an på&lt;/em&gt; om logistikk får hentet leveransen.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 45.0667px;"&gt;
+&lt;td style="padding: 10px; width: 15.4897%; height: 45.0667px;"&gt;&lt;strong style="color: #ad4400;"&gt;komme fram&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 22.1866%; height: 45.0667px;"&gt;bli kjent / avslørt, oppstå&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.6478%; height: 45.0667px;"&gt;riuscire, rivelare&lt;/td&gt;
+&lt;td style="padding: 10px; width: 41.6691%; height: 45.0667px;"&gt;«Det har &lt;em&gt;kommet fram&lt;/em&gt; at de ansatte er misfornøyde med hvordan ledelsen håndterer konflikter.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 style="color: #510000; margin-bottom: 10px; font-size: 1.05rem;"&gt;Høyfrekvente med verbet &lt;em&gt;«å gå»&lt;/em&gt;:&lt;/h4&gt;
+&lt;table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; margin-bottom: 25px; height: 181.267px; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left; height: 46.0667px;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 15.4897%; height: 46.0667px;"&gt;Verb + partikkel&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 22.4934%; height: 46.0667px;"&gt;Betydning&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 20.2953%; height: 46.0667px;"&gt;Italiensk&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 41.7148%; height: 46.0667px;"&gt;Eksempel i setning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; height: 45.0667px;"&gt;
+&lt;td style="padding: 10px; width: 15.4897%; height: 45.0667px;"&gt;&lt;strong style="color: #ad4400;"&gt;gå ut fra&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 22.4934%; height: 45.0667px;"&gt;anta, regne med&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.2953%; height: 45.0667px;"&gt;assumere&lt;/td&gt;
+&lt;td style="padding: 10px; width: 41.7148%; height: 45.0667px;"&gt;«Jeg &lt;em&gt;går ut fra&lt;/em&gt; at alle har levert oppgaven sin innen fristen.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; height: 45.0667px;"&gt;
+&lt;td style="padding: 10px; width: 15.4897%; height: 45.0667px;"&gt;&lt;strong style="color: #ad4400;"&gt;gå bort&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 22.4934%; height: 45.0667px;"&gt;dø (mild uttrykksmåte)&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.2953%; height: 45.0667px;"&gt;mancare (morire)&lt;/td&gt;
+&lt;td style="padding: 10px; width: 41.7148%; height: 45.0667px;"&gt;«Det var trist å høre at bestemoren hennes &lt;em&gt;gikk bort&lt;/em&gt; i helgen.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 45.0667px;"&gt;
+&lt;td style="padding: 10px; width: 15.4897%; height: 45.0667px;"&gt;&lt;strong style="color: #ad4400;"&gt;gå over&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 22.4934%; height: 45.0667px;"&gt;ta slutt, forsvinne (f.eks. smerte)&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.2953%; height: 45.0667px;"&gt;passare&lt;/td&gt;
+&lt;td style="padding: 10px; width: 41.7148%; height: 45.0667px;"&gt;«Ta en smertestillende, så &lt;em&gt;går&lt;/em&gt; hodepinen sikkert &lt;em&gt;over&lt;/em&gt; snart.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div style="background-color: #ffc87c; border-left: 5px solid #ad4400; padding: 12px 15px; border-radius: 5px; margin-bottom: 15px;"&gt;
+&lt;h4 style="color: #510000; margin: 0 0 5px 0; font-size: 1.05rem;"&gt;Løst og fast sammensatte verb&lt;/h4&gt;
+&lt;p style="margin: 0; line-height: 1.4;"&gt;I verbene over er verb og partikkel to frittstående ord. Vi kaller slike verb &lt;strong&gt;løst sammensatte verb&lt;/strong&gt;.&lt;br&gt;I &lt;strong&gt;fast sammensatte verb&lt;/strong&gt; skrives de to delene sammen til ett ord:&lt;/p&gt;
+&lt;/div&gt;
+&lt;table style="width: 99.7748%; border-collapse: collapse; background-color: #ffffff; border-radius: 6px; overflow: hidden; height: 261px; border: 1.5px solid #f4c430;"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #f4c430; color: #510000; text-align: left;"&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 9.41775%;"&gt;Løst&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 9.34901%;"&gt;Fast&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 20.0729%;"&gt;Betydning&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 15.9517%;"&gt;Italiensk&lt;/th&gt;
+&lt;th style="padding: 10px; border-bottom: 2px solid #ad4400; width: 45.1605%;"&gt;Eksempel i setning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px; width: 9.41775%;"&gt;&lt;strong style="color: #ad4400;"&gt;gå gjennom&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 9.34901%;"&gt;gjennomgå&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.0729%;"&gt;lese gjennom, oppleve/erfare&lt;/td&gt;
+&lt;td style="padding: 10px; width: 15.9517%;"&gt;rivedere, esaminare&lt;/td&gt;
+&lt;td style="padding: 10px; width: 45.1605%;"&gt;«Vi må &lt;em&gt;gå gjennom&lt;/em&gt; rapporten før møtet.» / «Bedriften har &lt;em&gt;gjennomgått&lt;/em&gt; store endringer.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430; background-color: #fff6ed;"&gt;
+&lt;td style="padding: 10px; width: 9.41775%;"&gt;&lt;strong style="color: #ad4400;"&gt;gå ut&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 9.34901%;"&gt;utgå&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.0729%;"&gt;utløpe på dato, avsluttes&lt;/td&gt;
+&lt;td style="padding: 10px; width: 15.9517%;"&gt;scadere&lt;/td&gt;
+&lt;td style="padding: 10px; width: 45.1605%;"&gt;«Mozzarellaene har &lt;em&gt;gått ut&lt;/em&gt; på dato, vi må kaste dem.» / «Dette produktet er &lt;em&gt;utgått&lt;/em&gt;.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="border-bottom: 1px solid #f4c430;"&gt;
+&lt;td style="padding: 10px; width: 9.41775%;"&gt;&lt;strong style="color: #ad4400;"&gt;si opp&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 9.34901%;"&gt;oppsi&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.0729%;"&gt;slutte i jobben, avslutte avtale&lt;/td&gt;
+&lt;td style="padding: 10px; width: 15.9517%;"&gt;licenziare&lt;/td&gt;
+&lt;td style="padding: 10px; width: 45.1605%;"&gt;«Rossana har &lt;em&gt;sagt opp&lt;/em&gt; stillingen sin, hun kommer ikke tilbake etter sykemeldingen.» / «Kontrakten er &lt;em&gt;oppsagt&lt;/em&gt;.»&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; width: 9.41775%;"&gt;&lt;strong style="color: #ad4400;"&gt;ta inn&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="padding: 10px; width: 9.34901%;"&gt;innta&lt;/td&gt;
+&lt;td style="padding: 10px; width: 20.0729%;"&gt;ta imot, importere / bestille&lt;/td&gt;
+&lt;td style="padding: 10px; width: 15.9517%;"&gt;importare, prendere&lt;/td&gt;
+&lt;td style="padding: 10px; width: 45.1605%;"&gt;«Vi har &lt;em&gt;tatt inn&lt;/em&gt; flere nye oster fra Toscana denne måneden.» / «Bedriften har &lt;em&gt;intatt&lt;/em&gt; flere nye medarbeidere til jul.»&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div style="background-color: #a0d6b4; border-left: 5px solid #264348; padding: 12px 15px; border-radius: 5px; margin-bottom: 15px;"&gt;
+&lt;p style="margin: 0px; line-height: 1.4; text-align: center;"&gt;&lt;span style="color: #0e4c3f;"&gt;&lt;strong&gt;Dette er bare en oversikt over de mest brukte partikkelverbene du vil høre i dagligtale på jobb. Sammensatte verb og partikkelverb er en stor utfordring for mange som lærer seg norsk.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin: 0px; line-height: 1.4; text-align: center;"&gt;&lt;span style="color: #0e4c3f;"&gt;&lt;strong&gt;Ikke få panikk!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+        </presentation>
+      </item>
+      <item ident="g367675609fc47d411e2d0ac15870b87d" title="Norske dialekter og talespråk">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ge231f4179e7b1f1fe452116d5b6a3e4f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+&lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;Norske dialekter og talespråk&lt;/h3&gt;
+&lt;div style="background-color: #ffc87c; border-left: 5px solid #ad4400; padding: 12px 15px; border-radius: 5px; margin-bottom: 20px;"&gt;
+&lt;ul style="padding-left: 20px; margin: 0; line-height: 1.5;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;I Norge har vi ikke et offisielt standardtalespråk, og vi bruker dialekt i nær sagt alle sammenhenger.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hver nordmann snakker sin «egen» versjon av norsk, som kan være en blanding av ulike talemål.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;Muntlig norsk varierer veldig fra skriftspråkene, noe som betyr at andrespråkselever ofte møter på utfordringer i sosiale sammenhenger.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h4 style="color: #510000; margin-bottom: 10px; font-size: 1.05rem;"&gt;&lt;span style="font-size: 14pt;"&gt;Fem målmerker ved norske dialekter:&lt;/span&gt;&lt;/h4&gt;
+&lt;ol style="padding-left: 20px; margin-bottom: 25px; line-height: 1.6; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong&gt;Tonefall (melodi):&lt;/strong&gt; Hvorvidt ordene har lav tone i starten (østnorsk/trøndersk) eller høy tone (vestnorsk/nordnorsk).&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong&gt;Trykk:&lt;/strong&gt; Hvor i ordet vi setter mest vekt (for eksempel trykk på første eller andre stavelse).&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong&gt;Retrofleksen «tjukk l»:&lt;/strong&gt; Særlig utbredt på Østlandet og i Trøndelag (f.eks. i ord som &lt;em&gt;sol&lt;/em&gt;, &lt;em&gt;vise&lt;/em&gt;).&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong&gt;Andre retroflekser:&lt;/strong&gt; Sammensmeltning av konsonantene «d», «l», «t», «n» etter «r» (som i &lt;em&gt;barn&lt;/em&gt;, &lt;em&gt;svart&lt;/em&gt;) samt «sl».&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong&gt;Infinitivsending:&lt;/strong&gt; Bruk av e-ending (e-mål), a-ending (a-mål), apokope (ingen ending) eller kløyvd infinitiv.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 style="color: #510000; margin-bottom: 12px; font-size: 1.05rem; border-top: 2px solid #f4c430; padding-top: 15px;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Her er fire dialekteksempler fra Trøndelag (Bjugn), Innlandet (Stange), Rogaland (Bryne) og Troms (Senja)&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;h4 style="color: #510000; margin-top: 0; margin-bottom: 8px; font-size: 1.1rem;"&gt;Noter ned det du hører:&lt;/h4&gt;
+&lt;ul style="padding-left: 20px; margin: 0; line-height: 1.5;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Hører du forskjeller i tonefallet (melodien)?&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;Klarer du å høre hvilken av dialektene som har «tjukk l»? Er det noen av dialektene som ikke har "retrofleks"?&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;Hvilken av disse fire dialektene synes du var lettest eller vanskeligst å forstå, og hvorfor?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 10px; margin-bottom: 20px;"&gt;
+&lt;div style="background-color: #1e1e1e; border-radius: 6px; padding: 10px; flex: 1 1 180px; border: 2px solid #ad4400;"&gt;&lt;strong style="color: #ffc87c; display: block; margin-bottom: 8px; font-size: 1rem;"&gt;Bjugn&lt;/strong&gt;&amp;nbsp;&lt;video style="width: 930px; height: 300px; display: inline-block;" title="Video avspiller for Bjung - Trøndelag.mp4" data-media-type="video" loading="lazy" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-3BYKPPcCQab4MeVCG2VD4cnTSMAMPKhx"&gt;&lt;source src="$IMS-CC-FILEBASE$/Uploaded%20Media/Bjung%20-%20Tr%C3%B8ndelag.mp4?canvas_=1&amp;amp;canvas_qs_type=video&amp;amp;canvas_qs_embedded=true" data-media-id="m-3BYKPPcCQab4MeVCG2VD4cnTSMAMPKhx" data-media-type="video"&gt;&lt;/video&gt;&lt;/div&gt;
+&lt;div style="background-color: #1e1e1e; border-radius: 6px; padding: 12px; flex: 1 1 180px; border: 2px solid #ad4400;"&gt;&lt;strong style="color: #ffc87c; display: block; margin-bottom: 8px; font-size: 1rem;"&gt;Stange&lt;/strong&gt;&amp;nbsp;&lt;video style="width: 930px; height: 300px; display: inline-block;" title="Video avspiller for Stange.mp4" data-media-type="video" loading="lazy" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-53xZbu3Ff7Ue22h2gk1S7rAsH2bn3RUj"&gt;&lt;source src="$IMS-CC-FILEBASE$/Uploaded%20Media/Stange-1.mp4?canvas_=1&amp;amp;canvas_qs_type=video&amp;amp;canvas_qs_embedded=true" data-media-id="m-53xZbu3Ff7Ue22h2gk1S7rAsH2bn3RUj" data-media-type="video"&gt;&lt;/video&gt;&lt;/div&gt;
+&lt;div style="background-color: #1e1e1e; border-radius: 6px; padding: 12px; flex: 1 1 180px; border: 2px solid #ad4400;"&gt;&lt;strong style="color: #ffc87c; display: block; margin-bottom: 8px; font-size: 1rem;"&gt;Bryne&lt;/strong&gt;&amp;nbsp;&lt;video style="width: 930px; height: 300px; display: inline-block;" title="Video avspiller for Bryne lyd og tekst.mp4" data-media-type="video" loading="lazy" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-2TT9sgw7L9ZApW3kiNEAh9EVLQLFn93h"&gt;&lt;source src="$IMS-CC-FILEBASE$/Uploaded%20Media/Bryne%20lyd%20og%20tekst-1.mp4?canvas_=1&amp;amp;canvas_qs_type=video&amp;amp;canvas_qs_embedded=true" data-media-id="m-2TT9sgw7L9ZApW3kiNEAh9EVLQLFn93h" data-media-type="video"&gt;&lt;/video&gt;&lt;/div&gt;
+&lt;div style="background-color: #1e1e1e; border-radius: 6px; padding: 12px; flex: 1 1 180px; border: 2px solid #ad4400;"&gt;&lt;strong style="color: #ffc87c; display: block; margin-bottom: 8px; font-size: 1rem;"&gt;Senja&lt;/strong&gt;&amp;nbsp;&lt;video style="width: 930px; height: 300px; display: inline-block;" title="Video avspiller for Senja.mp4" data-media-type="video" loading="lazy" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-3V6ERm5gvejVkgZ2cyJRJrAspVFwL249"&gt;&lt;source src="$IMS-CC-FILEBASE$/Uploaded%20Media/Senja-1.mp4?canvas_=1&amp;amp;canvas_qs_type=video&amp;amp;canvas_qs_embedded=true" data-media-id="m-3V6ERm5gvejVkgZ2cyJRJrAspVFwL249" data-media-type="video"&gt;&lt;/video&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 8px; padding: 15px 20px; color: #510000;"&gt;
+&lt;p&gt;&lt;span style="color: #0e68b3;"&gt;&lt;strong&gt;Tekst:&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #0e68b3;"&gt;Nordavinden og sola&lt;/span&gt;&lt;br&gt;&lt;span style="color: #0e68b3;"&gt;Nordavinden og sola kjekla/kjeklet om kven/hvem av dei/dem som var den sterkaste/sterkeste. Da kom det en mann gåande/gående med en varm frakk på seg. Dei vart samde/De blei enige om at han/den som først kunne få mannen til å ta av seg frakken skulle gjelde for sterkare/sterkere enn den andre. Så blåste nordavinden av all si makt, men dess meir/mer han blåste, dess tettare/tettere trakk mannen frakken rundt seg, og til sist gav nordavinden opp. Da skinte sola fram så godt og varmt, og straks tok mannen av seg frakken. Og så måtte nordavinden innrømme at sola var den sterkaste/sterkeste av dei/dem.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="background-color: #a0d6b4; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #264348; border-radius: 8px; padding: 15px 20px; color: #264348;"&gt;
+&lt;h4 style="color: #264348; margin-top: 0px; margin-bottom: 8px; font-size: 1.1rem; text-align: center;"&gt;&lt;strong&gt;Hvis du er interessert i å lytte til flere dialekter så kan du finne mange eksempler her: &lt;a class="inline_disabled" href="https://www.hf.ntnu.no/nos/list.php" target="_blank"&gt;Nordavinden og sola&lt;/a&gt;.&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g8412e3b5fe8170cce0273082507ebb1d" title="Velg riktig betydning">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>20.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4582,6661,7788,8065,5470,771,1572,3249,8841,386</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g38288e00d17e0d80c3ddb9e88abf6d34</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;h2 style="color: #510000; border-bottom: 4px solid #f4c430; padding-bottom: 8px; margin-top: 30px; margin-bottom: 20px;"&gt;Ord og uttrykk fra dialogen&lt;/h2&gt;
+&lt;h4 style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 15px; padding: 20px; margin-bottom: 25px; color: #510000;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Før du lytter til dialogen mellom Nora og Tinka gjør deg kjent med uttrykkene og definisjonene.&amp;nbsp;&lt;/h4&gt;
+&lt;div class="accordion-gruppe"&gt;&lt;details style="background-color: #ffffff; border-radius: 6px; margin-bottom: 10px; padding: 10px 15px; border: 2.5px solid #f4c430;"&gt;
+&lt;summary style="color: #510000; cursor: pointer;"&gt;Sammensatte verb&lt;/summary&gt;
+&lt;ul style="padding-left: 25px; margin-top: 12px; margin-bottom: 5px; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;drive med&lt;/strong&gt; – holde på med. «Hva driver du med?»&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;ta imot&lt;/strong&gt; – motta noe. «De tok imot gaven.»&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;ta opp&lt;/strong&gt; – begynne å snakke om et tema eller problem.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;gå bort&lt;/strong&gt; – dø. Dette er en mildere måte å si at noen er død på.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;fikse opp i&lt;/strong&gt; – ordne eller løse et problem.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;kle seg pent&lt;/strong&gt; – ta på fine klær, for eksempel til fest.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;skjerpe seg&lt;/strong&gt; – prøve å oppføre seg bedre eller gjøre en større innsats.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;details style="background-color: #ffffff; border-radius: 6px; margin-bottom: 10px; padding: 10px 15px; border: 2.5px solid #f4c430;"&gt;
+&lt;summary style="color: #510000; cursor: pointer;"&gt;Idiomatiske uttrykk&lt;/summary&gt;
+&lt;ul style="padding-left: 25px; margin-top: 12px; margin-bottom: 5px; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;mange baller i lufta&lt;/strong&gt; – ha mange oppgaver og ting å passe på samtidig.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;etter mye om og men&lt;/strong&gt; – etter mange problemer, forsinkelser eller diskusjoner.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;det var ikke bare bare&lt;/strong&gt; – det var ikke enkelt; det var vanskelig.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;At det går an!&lt;/strong&gt; – uttrykk for irritasjon eller overraskelse: «Hvordan er det mulig?»&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;is i magen&lt;/strong&gt; – evnen til å være rolig i en vanskelig eller stressende situasjon.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;holde hodet kaldt&lt;/strong&gt; – beholde roen og tenke klart.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;bruke en evighet&lt;/strong&gt; – bruke svært lang tid.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;tida er ute&lt;/strong&gt; – det er ikke mer tid igjen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;details style="background-color: #ffffff; border-radius: 6px; margin-bottom: 10px; padding: 10px 15px; border: 2.5px solid #f4c430;"&gt;
+&lt;summary style="color: #510000; cursor: pointer;"&gt;Følelser, reaksjoner og vurderinger&lt;/summary&gt;
+&lt;ul style="padding-left: 25px; margin-top: 12px; margin-bottom: 5px; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;irriterende / irriterandes&lt;/strong&gt; – noe som gjør deg irritert. &lt;em&gt;Irriterandes&lt;/em&gt; er en dialektform.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;klikke for noen&lt;/strong&gt; – miste kontrollen, ofte fordi man blir veldig sint eller frustrert.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;gi deg!&lt;/strong&gt; – slutt! Kan også brukes for å vise overraskelse eller at noe er vanskelig å tro.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;kan du godt si&lt;/strong&gt; – ja, det stemmer; det er jeg enig i.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;kjipt&lt;/strong&gt; – trist, dumt eller uheldig.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;bare bra&lt;/strong&gt; – veldig bra / helt fint.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;sånn passe&lt;/strong&gt; – verken veldig bra eller veldig dårlig.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;details style="background-color: #ffffff; border-radius: 6px; margin-bottom: 10px; padding: 10px 15px; border: 2.5px solid #f4c430;"&gt;
+&lt;summary style="color: #510000; cursor: pointer;"&gt;Muntlig språk og dialektord&lt;/summary&gt;
+&lt;ul style="padding-left: 25px; margin-top: 12px; margin-bottom: 5px; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;trøbbel&lt;/strong&gt; – problemer eller vanskeligheter.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;kar&lt;/strong&gt; – mann, ofte en ukjent mann eller gutt.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;ikkeno&lt;/strong&gt; – muntlig form av «ikke noe» eller «ingenting».&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;tia&lt;/strong&gt; – muntlig form av «tida» eller «tiden».&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;hauet&lt;/strong&gt; – muntlig form av «hodet».&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;magan&lt;/strong&gt; – muntlig form av «magen».&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;skravle / skravling&lt;/strong&gt; – snakke mye og uformelt, ofte om småting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;details style="background-color: #ffffff; border-radius: 6px; margin-bottom: 10px; padding: 10px 15px; border: 2.5px solid #f4c430;"&gt;
+&lt;summary style="color: #510000; cursor: pointer;"&gt;Nyttige faste formuleringer&lt;/summary&gt;
+&lt;ul style="padding-left: 25px; margin-top: 12px; margin-bottom: 5px; color: #510000;"&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;måtte til&lt;/strong&gt; – være nødvendig for at noe skal skje eller lykkes.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;koke over for noen&lt;/strong&gt; – bli så sint eller frustrert at følelsene tar overhånd.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;sette seg fast&lt;/strong&gt; – ikke komme videre; for eksempel når papir sitter fast i en printer.&lt;/li&gt;
+&lt;li style="margin-bottom: 6px;"&gt;&lt;strong style="color: #ad4400;"&gt;få noe løs&lt;/strong&gt; – klare å frigjøre noe som sitter fast.&lt;/li&gt;
+&lt;li style="margin-bottom: 0;"&gt;&lt;strong style="color: #ad4400;"&gt;ut på byen&lt;/strong&gt; – dra ut for å møte folk, spise, gå på kafé, bar eller fest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;/div&gt;
+&lt;div style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;h3 style="color: #510000; margin-top: 0; font-size: 1.3rem;"&gt;Matcheoppgave: Ord og uttrykk&lt;/h3&gt;
+&lt;p style="margin-bottom: 0;"&gt;&lt;strong&gt;Instruksjon:&lt;/strong&gt; Velg riktig definisjon basert på ord- og uttrykkslista ovenfor&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_4582">
+            <material>
+              <mattext texttype="text/plain">Å holde på med noe</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3498">
+                <material>
+                  <mattext>Å drive med noe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7723">
+                <material>
+                  <mattext>Prøve å oppføre seg bedre eller gjøre en større innsats</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2616">
+                <material>
+                  <mattext>Etter mange problemer, forsinkelser eller diskusjoner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1813">
+                <material>
+                  <mattext>Evnen til å være rolig i en vanskelig eller stressende situasjon</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8819">
+                <material>
+                  <mattext>Trist, dumt eller uheldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="664">
+                <material>
+                  <mattext>Hodet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4609">
+                <material>
+                  <mattext>Bli så sint eller frustrert at følelsene tar overhånd</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7814">
+                <material>
+                  <mattext>Mann, ofte en ukjent mann eller gutt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="142">
+                <material>
+                  <mattext>Ikke komme videre; for eksempel når papir sitter fast i en printer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4397">
+                <material>
+                  <mattext>dra ut for å møte folk, spise, gå på kafé, bar eller fest</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6661">
+            <material>
+              <mattext texttype="text/plain">Skjerpe seg</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3498">
+                <material>
+                  <mattext>Å drive med noe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7723">
+                <material>
+                  <mattext>Prøve å oppføre seg bedre eller gjøre en større innsats</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2616">
+                <material>
+                  <mattext>Etter mange problemer, forsinkelser eller diskusjoner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1813">
+                <material>
+                  <mattext>Evnen til å være rolig i en vanskelig eller stressende situasjon</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8819">
+                <material>
+                  <mattext>Trist, dumt eller uheldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="664">
+                <material>
+                  <mattext>Hodet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4609">
+                <material>
+                  <mattext>Bli så sint eller frustrert at følelsene tar overhånd</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7814">
+                <material>
+                  <mattext>Mann, ofte en ukjent mann eller gutt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="142">
+                <material>
+                  <mattext>Ikke komme videre; for eksempel når papir sitter fast i en printer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4397">
+                <material>
+                  <mattext>dra ut for å møte folk, spise, gå på kafé, bar eller fest</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7788">
+            <material>
+              <mattext texttype="text/plain">Etter mye om og men</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3498">
+                <material>
+                  <mattext>Å drive med noe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7723">
+                <material>
+                  <mattext>Prøve å oppføre seg bedre eller gjøre en større innsats</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2616">
+                <material>
+                  <mattext>Etter mange problemer, forsinkelser eller diskusjoner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1813">
+                <material>
+                  <mattext>Evnen til å være rolig i en vanskelig eller stressende situasjon</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8819">
+                <material>
+                  <mattext>Trist, dumt eller uheldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="664">
+                <material>
+                  <mattext>Hodet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4609">
+                <material>
+                  <mattext>Bli så sint eller frustrert at følelsene tar overhånd</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7814">
+                <material>
+                  <mattext>Mann, ofte en ukjent mann eller gutt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="142">
+                <material>
+                  <mattext>Ikke komme videre; for eksempel når papir sitter fast i en printer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4397">
+                <material>
+                  <mattext>dra ut for å møte folk, spise, gå på kafé, bar eller fest</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8065">
+            <material>
+              <mattext texttype="text/plain">Is i magen</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3498">
+                <material>
+                  <mattext>Å drive med noe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7723">
+                <material>
+                  <mattext>Prøve å oppføre seg bedre eller gjøre en større innsats</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2616">
+                <material>
+                  <mattext>Etter mange problemer, forsinkelser eller diskusjoner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1813">
+                <material>
+                  <mattext>Evnen til å være rolig i en vanskelig eller stressende situasjon</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8819">
+                <material>
+                  <mattext>Trist, dumt eller uheldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="664">
+                <material>
+                  <mattext>Hodet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4609">
+                <material>
+                  <mattext>Bli så sint eller frustrert at følelsene tar overhånd</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7814">
+                <material>
+                  <mattext>Mann, ofte en ukjent mann eller gutt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="142">
+                <material>
+                  <mattext>Ikke komme videre; for eksempel når papir sitter fast i en printer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4397">
+                <material>
+                  <mattext>dra ut for å møte folk, spise, gå på kafé, bar eller fest</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5470">
+            <material>
+              <mattext texttype="text/plain">Kjipt</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3498">
+                <material>
+                  <mattext>Å drive med noe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7723">
+                <material>
+                  <mattext>Prøve å oppføre seg bedre eller gjøre en større innsats</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2616">
+                <material>
+                  <mattext>Etter mange problemer, forsinkelser eller diskusjoner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1813">
+                <material>
+                  <mattext>Evnen til å være rolig i en vanskelig eller stressende situasjon</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8819">
+                <material>
+                  <mattext>Trist, dumt eller uheldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="664">
+                <material>
+                  <mattext>Hodet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4609">
+                <material>
+                  <mattext>Bli så sint eller frustrert at følelsene tar overhånd</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7814">
+                <material>
+                  <mattext>Mann, ofte en ukjent mann eller gutt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="142">
+                <material>
+                  <mattext>Ikke komme videre; for eksempel når papir sitter fast i en printer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4397">
+                <material>
+                  <mattext>dra ut for å møte folk, spise, gå på kafé, bar eller fest</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_771">
+            <material>
+              <mattext texttype="text/plain">Hauet</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3498">
+                <material>
+                  <mattext>Å drive med noe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7723">
+                <material>
+                  <mattext>Prøve å oppføre seg bedre eller gjøre en større innsats</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2616">
+                <material>
+                  <mattext>Etter mange problemer, forsinkelser eller diskusjoner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1813">
+                <material>
+                  <mattext>Evnen til å være rolig i en vanskelig eller stressende situasjon</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8819">
+                <material>
+                  <mattext>Trist, dumt eller uheldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="664">
+                <material>
+                  <mattext>Hodet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4609">
+                <material>
+                  <mattext>Bli så sint eller frustrert at følelsene tar overhånd</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7814">
+                <material>
+                  <mattext>Mann, ofte en ukjent mann eller gutt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="142">
+                <material>
+                  <mattext>Ikke komme videre; for eksempel når papir sitter fast i en printer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4397">
+                <material>
+                  <mattext>dra ut for å møte folk, spise, gå på kafé, bar eller fest</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1572">
+            <material>
+              <mattext texttype="text/plain">Koke over for noen</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3498">
+                <material>
+                  <mattext>Å drive med noe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7723">
+                <material>
+                  <mattext>Prøve å oppføre seg bedre eller gjøre en større innsats</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2616">
+                <material>
+                  <mattext>Etter mange problemer, forsinkelser eller diskusjoner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1813">
+                <material>
+                  <mattext>Evnen til å være rolig i en vanskelig eller stressende situasjon</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8819">
+                <material>
+                  <mattext>Trist, dumt eller uheldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="664">
+                <material>
+                  <mattext>Hodet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4609">
+                <material>
+                  <mattext>Bli så sint eller frustrert at følelsene tar overhånd</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7814">
+                <material>
+                  <mattext>Mann, ofte en ukjent mann eller gutt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="142">
+                <material>
+                  <mattext>Ikke komme videre; for eksempel når papir sitter fast i en printer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4397">
+                <material>
+                  <mattext>dra ut for å møte folk, spise, gå på kafé, bar eller fest</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3249">
+            <material>
+              <mattext texttype="text/plain">Kar</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3498">
+                <material>
+                  <mattext>Å drive med noe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7723">
+                <material>
+                  <mattext>Prøve å oppføre seg bedre eller gjøre en større innsats</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2616">
+                <material>
+                  <mattext>Etter mange problemer, forsinkelser eller diskusjoner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1813">
+                <material>
+                  <mattext>Evnen til å være rolig i en vanskelig eller stressende situasjon</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8819">
+                <material>
+                  <mattext>Trist, dumt eller uheldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="664">
+                <material>
+                  <mattext>Hodet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4609">
+                <material>
+                  <mattext>Bli så sint eller frustrert at følelsene tar overhånd</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7814">
+                <material>
+                  <mattext>Mann, ofte en ukjent mann eller gutt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="142">
+                <material>
+                  <mattext>Ikke komme videre; for eksempel når papir sitter fast i en printer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4397">
+                <material>
+                  <mattext>dra ut for å møte folk, spise, gå på kafé, bar eller fest</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8841">
+            <material>
+              <mattext texttype="text/plain">Sette seg fast</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3498">
+                <material>
+                  <mattext>Å drive med noe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7723">
+                <material>
+                  <mattext>Prøve å oppføre seg bedre eller gjøre en større innsats</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2616">
+                <material>
+                  <mattext>Etter mange problemer, forsinkelser eller diskusjoner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1813">
+                <material>
+                  <mattext>Evnen til å være rolig i en vanskelig eller stressende situasjon</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8819">
+                <material>
+                  <mattext>Trist, dumt eller uheldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="664">
+                <material>
+                  <mattext>Hodet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4609">
+                <material>
+                  <mattext>Bli så sint eller frustrert at følelsene tar overhånd</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7814">
+                <material>
+                  <mattext>Mann, ofte en ukjent mann eller gutt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="142">
+                <material>
+                  <mattext>Ikke komme videre; for eksempel når papir sitter fast i en printer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4397">
+                <material>
+                  <mattext>dra ut for å møte folk, spise, gå på kafé, bar eller fest</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_386">
+            <material>
+              <mattext texttype="text/plain">Ut på byen</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3498">
+                <material>
+                  <mattext>Å drive med noe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7723">
+                <material>
+                  <mattext>Prøve å oppføre seg bedre eller gjøre en større innsats</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2616">
+                <material>
+                  <mattext>Etter mange problemer, forsinkelser eller diskusjoner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1813">
+                <material>
+                  <mattext>Evnen til å være rolig i en vanskelig eller stressende situasjon</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8819">
+                <material>
+                  <mattext>Trist, dumt eller uheldig</mattext>
+                </material>
+              </response_label>
+              <response_label ident="664">
+                <material>
+                  <mattext>Hodet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4609">
+                <material>
+                  <mattext>Bli så sint eller frustrert at følelsene tar overhånd</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7814">
+                <material>
+                  <mattext>Mann, ofte en ukjent mann eller gutt</mattext>
+                </material>
+              </response_label>
+              <response_label ident="142">
+                <material>
+                  <mattext>Ikke komme videre; for eksempel når papir sitter fast i en printer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4397">
+                <material>
+                  <mattext>dra ut for å møte folk, spise, gå på kafé, bar eller fest</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4582">3498</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">10.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6661">7723</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">10.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7788">2616</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">10.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8065">1813</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">10.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5470">8819</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">10.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_771">664</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">10.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1572">4609</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">10.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3249">7814</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">10.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8841">142</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">10.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_386">4397</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">10.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g3ea1bf4daf667c4088ac2f57be3fd6df" title="Fyll inn riktig svar: Ord og uttrykk">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>short_answer_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5101,2662,9654</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1dc71e4eea8adf9705675c31c8e80739</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffc87c; border-width: 3px 3px 3px 8px; border-style: solid; border-color: #ad4400; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;h3 style="color: #510000; margin-top: 0; font-size: 1.3rem;"&gt;Fyll inn riktig svar: Ord og uttrykk&lt;/h3&gt;
+&lt;p style="margin-bottom: 0;"&gt;&lt;strong&gt;Instruksjon:&lt;/strong&gt; Skriv inn riktig svar basert på ord- og uttrykklistene&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;
+&lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;&lt;span style="color: #69300d;"&gt;Papiret hadde ____________ i printeren, men vaktmesteren klarte til slutt å rive det løst.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <varequal respident="response1">satt fast seg</varequal>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="2662_fb"/>
+          </respcondition>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <varequal respident="response1">sitte seg fast</varequal>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="9654_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">satt seg fast</varequal>
+              <varequal respident="response1">satt fast seg</varequal>
+              <varequal respident="response1">sitte seg fast</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="2662_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;Nesten! Svaret er satt&amp;nbsp;&lt;strong&gt;seg&lt;/strong&gt; fast.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="9654_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;Nesten! Verbet må bøyes, svaret er&amp;nbsp;&lt;strong&gt;satt &lt;/strong&gt;seg fast.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <section ident="g06bef3b8938a392355af534b63782f1c" title="Fyll inn riktig svar">
+        <selection_ordering>
+          <selection>
+            <selection_number>6</selection_number>
+            <selection_extension>
+              <points_per_item>1.0</points_per_item>
+            </selection_extension>
+          </selection>
+        </selection_ordering>
+        <item ident="g2889e5a91c4240b8502cdaec5d3a4424" title="Spørsmål 4">
+          <itemmetadata>
+            <qtimetadata>
+              <qtimetadatafield>
+                <fieldlabel>question_type</fieldlabel>
+                <fieldentry>short_answer_question</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>points_possible</fieldlabel>
+                <fieldentry>1.0</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>original_answer_ids</fieldlabel>
+                <fieldentry>8530</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>assessment_question_identifierref</fieldlabel>
+                <fieldentry>ge81245bb8b4cc30e725aa777256be7c8</fieldentry>
+              </qtimetadatafield>
+            </qtimetadata>
+          </itemmetadata>
+          <presentation>
+            <material>
+              <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;
+&lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;Når du både har eksamen, jobb og familieforpliktelser, kan det føles som om du har __________________________.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+            </material>
+            <response_str ident="response1" rcardinality="Single">
+              <render_fib>
+                <response_label ident="answer1" rshuffle="No"/>
+              </render_fib>
+            </response_str>
+          </presentation>
+          <resprocessing>
+            <outcomes>
+              <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+            </outcomes>
+            <respcondition continue="No">
+              <conditionvar>
+                <varequal respident="response1">mange baller i lufta</varequal>
+              </conditionvar>
+              <setvar action="Set" varname="SCORE">100</setvar>
+            </respcondition>
+          </resprocessing>
+        </item>
+        <item ident="g51c43a7fcfa1612d822edcdea7204222" title="Spørsmål 5">
+          <itemmetadata>
+            <qtimetadata>
+              <qtimetadatafield>
+                <fieldlabel>question_type</fieldlabel>
+                <fieldentry>short_answer_question</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>points_possible</fieldlabel>
+                <fieldentry>1.0</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>original_answer_ids</fieldlabel>
+                <fieldentry>8647,6092,4809,6200,8535</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>assessment_question_identifierref</fieldlabel>
+                <fieldentry>g8ff42da5378ec527e658ef16c98aad63</fieldentry>
+              </qtimetadatafield>
+            </qtimetadata>
+          </itemmetadata>
+          <presentation>
+            <material>
+              <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;&amp;nbsp; &lt;span style="font-size: 1rem;"&gt;Da han hørte den høye musikken midt på natta, ropte han: «__________________________! Folk prøver å sove!»&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+            </material>
+            <response_str ident="response1" rcardinality="Single">
+              <render_fib>
+                <response_label ident="answer1" rshuffle="No"/>
+              </render_fib>
+            </response_str>
+          </presentation>
+          <resprocessing>
+            <outcomes>
+              <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+            </outcomes>
+            <respcondition continue="Yes">
+              <conditionvar>
+                <varequal respident="response1">gi seg</varequal>
+              </conditionvar>
+              <displayfeedback feedbacktype="Response" linkrefid="8535_fb"/>
+            </respcondition>
+            <respcondition continue="No">
+              <conditionvar>
+                <varequal respident="response1">gi dere</varequal>
+                <varequal respident="response1">hold opp</varequal>
+                <varequal respident="response1">slutt</varequal>
+                <varequal respident="response1">di deg</varequal>
+                <varequal respident="response1">gi seg</varequal>
+              </conditionvar>
+              <setvar action="Set" varname="SCORE">100</setvar>
+            </respcondition>
+          </resprocessing>
+          <itemfeedback ident="8535_fb">
+            <flow_mat>
+              <material>
+                <mattext texttype="text/html">&lt;p&gt;Nesten! Svaret er gi&amp;nbsp;&lt;strong&gt;deg/dere.&lt;/strong&gt;&lt;/p&gt;</mattext>
+              </material>
+            </flow_mat>
+          </itemfeedback>
+        </item>
+        <item ident="g67630ccb3904e007d0400bc9c4dc86dc" title="Spørsmål 6">
+          <itemmetadata>
+            <qtimetadata>
+              <qtimetadatafield>
+                <fieldlabel>question_type</fieldlabel>
+                <fieldentry>short_answer_question</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>points_possible</fieldlabel>
+                <fieldentry>1.0</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>original_answer_ids</fieldlabel>
+                <fieldentry>4277</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>assessment_question_identifierref</fieldlabel>
+                <fieldentry>g6cb4e59602b13e7ff7d9f272c995ae58</fieldentry>
+              </qtimetadatafield>
+            </qtimetadata>
+          </itemmetadata>
+          <presentation>
+            <material>
+              <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;
+&lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;Vi har ikke snakket om uenigheten ennå, men kanskje vi bør __________________________ på møtet i morgen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+            </material>
+            <response_str ident="response1" rcardinality="Single">
+              <render_fib>
+                <response_label ident="answer1" rshuffle="No"/>
+              </render_fib>
+            </response_str>
+          </presentation>
+          <resprocessing>
+            <outcomes>
+              <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+            </outcomes>
+            <respcondition continue="Yes">
+              <conditionvar>
+                <varequal respident="response1">ta opp det</varequal>
+              </conditionvar>
+              <displayfeedback feedbacktype="Response" linkrefid="4277_fb"/>
+            </respcondition>
+            <respcondition continue="No">
+              <conditionvar>
+                <varequal respident="response1">ta opp det</varequal>
+              </conditionvar>
+              <setvar action="Set" varname="SCORE">100</setvar>
+            </respcondition>
+          </resprocessing>
+          <itemfeedback ident="4277_fb">
+            <flow_mat>
+              <material>
+                <mattext texttype="text/html">&lt;p&gt;Dette er ikke helt riktig, svaret er ta&amp;nbsp;&lt;strong&gt;det&lt;/strong&gt; opp.&amp;nbsp;&lt;/p&gt;</mattext>
+              </material>
+            </flow_mat>
+          </itemfeedback>
+        </item>
+        <item ident="gb94879d1b17c906a518f6dda4ff0b869" title="Spørsmål 7">
+          <itemmetadata>
+            <qtimetadata>
+              <qtimetadatafield>
+                <fieldlabel>question_type</fieldlabel>
+                <fieldentry>short_answer_question</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>points_possible</fieldlabel>
+                <fieldentry>1.0</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>original_answer_ids</fieldlabel>
+                <fieldentry>9001</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>assessment_question_identifierref</fieldlabel>
+                <fieldentry>ge97a3283a09d4e493ca5acb8fed5ca7b</fieldentry>
+              </qtimetadatafield>
+            </qtimetadata>
+          </itemmetadata>
+          <presentation>
+            <material>
+              <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;
+&lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;Han sa at formen var __________________________: Han var ikke syk, men han følte seg heller ikke helt frisk.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+            </material>
+            <response_str ident="response1" rcardinality="Single">
+              <render_fib>
+                <response_label ident="answer1" rshuffle="No"/>
+              </render_fib>
+            </response_str>
+          </presentation>
+          <resprocessing>
+            <outcomes>
+              <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+            </outcomes>
+            <respcondition continue="No">
+              <conditionvar>
+                <varequal respident="response1">sånn passe</varequal>
+              </conditionvar>
+              <setvar action="Set" varname="SCORE">100</setvar>
+            </respcondition>
+          </resprocessing>
+        </item>
+        <item ident="g3f70ecd9c59b82306da6539ed8f1b282" title="Spørsmål 3">
+          <itemmetadata>
+            <qtimetadata>
+              <qtimetadatafield>
+                <fieldlabel>question_type</fieldlabel>
+                <fieldentry>short_answer_question</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>points_possible</fieldlabel>
+                <fieldentry>1.0</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>original_answer_ids</fieldlabel>
+                <fieldentry>2475</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>assessment_question_identifierref</fieldlabel>
+                <fieldentry>ge3cb6909b2bc8a1c5885c4a0157713d7</fieldentry>
+              </qtimetadatafield>
+            </qtimetadata>
+          </itemmetadata>
+          <presentation>
+            <material>
+              <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;
+&lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;Selv om hun var stresset, klarte hun å __________________________ og ta en rolig beslutning.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+            </material>
+            <response_str ident="response1" rcardinality="Single">
+              <render_fib>
+                <response_label ident="answer1" rshuffle="No"/>
+              </render_fib>
+            </response_str>
+          </presentation>
+          <resprocessing>
+            <outcomes>
+              <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+            </outcomes>
+            <respcondition continue="No">
+              <conditionvar>
+                <varequal respident="response1">is i magen</varequal>
+              </conditionvar>
+              <setvar action="Set" varname="SCORE">100</setvar>
+            </respcondition>
+          </resprocessing>
+        </item>
+        <item ident="g3c0ab59adb305083047448cc02ee771e" title="Spørsmål 2">
+          <itemmetadata>
+            <qtimetadata>
+              <qtimetadatafield>
+                <fieldlabel>question_type</fieldlabel>
+                <fieldentry>short_answer_question</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>points_possible</fieldlabel>
+                <fieldentry>1.0</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>original_answer_ids</fieldlabel>
+                <fieldentry>8752</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>assessment_question_identifierref</fieldlabel>
+                <fieldentry>gbcc9f8cc23d6de657ef0c49ab19a38b5</fieldentry>
+              </qtimetadatafield>
+            </qtimetadata>
+          </itemmetadata>
+          <presentation>
+            <material>
+              <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;
+&lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;Etter mye _______________________________, kom de fram til en ny løsning for overtidsbetaling.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+            </material>
+            <response_str ident="response1" rcardinality="Single">
+              <render_fib>
+                <response_label ident="answer1" rshuffle="No"/>
+              </render_fib>
+            </response_str>
+          </presentation>
+          <resprocessing>
+            <outcomes>
+              <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+            </outcomes>
+            <respcondition continue="No">
+              <conditionvar>
+                <varequal respident="response1">om og men</varequal>
+              </conditionvar>
+              <setvar action="Set" varname="SCORE">100</setvar>
+            </respcondition>
+          </resprocessing>
+        </item>
+      </section>
+      <section ident="g79dbad3c4518509e9edd91b38c3fd8b7" title="Lytt til dialogen på nytt​  Beskriv dialogen:​">
+        <selection_ordering>
+          <selection>
+            <selection_number>3</selection_number>
+            <selection_extension>
+              <points_per_item>1.0</points_per_item>
+            </selection_extension>
+          </selection>
+        </selection_ordering>
+        <item ident="g2d7f54c79c693ee9b3ec654c061a8e2a" title="Dialog og spørsmål">
+          <itemmetadata>
+            <qtimetadata>
+              <qtimetadatafield>
+                <fieldlabel>question_type</fieldlabel>
+                <fieldentry>essay_question</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>points_possible</fieldlabel>
+                <fieldentry>1.0</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>original_answer_ids</fieldlabel>
+                <fieldentry></fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>assessment_question_identifierref</fieldlabel>
+                <fieldentry>gf1bf2ee2a1b01032bd7f334b7207962c</fieldentry>
+              </qtimetadatafield>
+            </qtimetadata>
+          </itemmetadata>
+          <presentation>
+            <material>
+              <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;&lt;br&gt;
+&lt;div style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 25px;"&gt;
+&lt;div style="background-color: #1e1e1e; border-radius: 6px; padding: 12px; width: 100%; max-width: 800px; margin: 0px auto; border: 2px solid #ad4400;"&gt;&lt;strong style="color: #ffc87c; display: block; margin-bottom: 8px; font-size: 1rem; text-align: center;"&gt;Nora og Tinka snakker sammen i pausen&lt;/strong&gt; &lt;video style="width: 100%; height: 400px; display: block; border: medium none currentcolor;" title="Video avspiller for Smakebit av norsk lydopptak.mp4" data-media-type="video" loading="lazy" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-5iMDMTdC7abXxc897sdJA7No6Z6BVGZT"&gt;&lt;source src="$IMS-CC-FILEBASE$/Uploaded%20Media/Smakebit%20av%20norsk%20lydopptak.mp4?canvas_=1&amp;amp;canvas_qs_type=video&amp;amp;canvas_qs_embedded=true" data-media-id="m-5iMDMTdC7abXxc897sdJA7No6Z6BVGZT" data-media-type="video"&gt;&lt;/video&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;
+&lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;&lt;strong&gt;Snakker de om planer i framtida, eller noe som har skjedd? Hvordan vet du det?&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+            </material>
+            <response_str ident="response1" rcardinality="Single">
+              <render_fib>
+                <response_label ident="answer1" rshuffle="No"/>
+              </render_fib>
+            </response_str>
+          </presentation>
+          <resprocessing>
+            <outcomes>
+              <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+            </outcomes>
+            <respcondition continue="No">
+              <conditionvar>
+                <other/>
+              </conditionvar>
+            </respcondition>
+          </resprocessing>
+        </item>
+        <item ident="g027b2ec5017fd564d0c95f38017b8119" title="Spørsmål om dialogen">
+          <itemmetadata>
+            <qtimetadata>
+              <qtimetadatafield>
+                <fieldlabel>question_type</fieldlabel>
+                <fieldentry>essay_question</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>points_possible</fieldlabel>
+                <fieldentry>1.0</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>original_answer_ids</fieldlabel>
+                <fieldentry></fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>assessment_question_identifierref</fieldlabel>
+                <fieldentry>ga966645a33456e67573cbfd351423eea</fieldentry>
+              </qtimetadatafield>
+            </qtimetadata>
+          </itemmetadata>
+          <presentation>
+            <material>
+              <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;
+&lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;&lt;strong&gt;Hvilken relasjon har Nora og Tinka til hverandre? Er de venner, kolleger, familie? Hvorfor tror du det?&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+            </material>
+            <response_str ident="response1" rcardinality="Single">
+              <render_fib>
+                <response_label ident="answer1" rshuffle="No"/>
+              </render_fib>
+            </response_str>
+          </presentation>
+          <resprocessing>
+            <outcomes>
+              <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+            </outcomes>
+            <respcondition continue="No">
+              <conditionvar>
+                <other/>
+              </conditionvar>
+            </respcondition>
+          </resprocessing>
+        </item>
+        <item ident="g1f2e4689650826772724be93d75149fc" title="Spørsmål om dialogen">
+          <itemmetadata>
+            <qtimetadata>
+              <qtimetadatafield>
+                <fieldlabel>question_type</fieldlabel>
+                <fieldentry>essay_question</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>points_possible</fieldlabel>
+                <fieldentry>1.0</fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>original_answer_ids</fieldlabel>
+                <fieldentry></fieldentry>
+              </qtimetadatafield>
+              <qtimetadatafield>
+                <fieldlabel>assessment_question_identifierref</fieldlabel>
+                <fieldentry>g09231ec4157506e77be426ca319ccc5d</fieldentry>
+              </qtimetadatafield>
+            </qtimetadata>
+          </itemmetadata>
+          <presentation>
+            <material>
+              <mattext texttype="text/html">&lt;div&gt;&lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;
+&lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;&lt;strong&gt;Hvem var vanskeligst å forstå Nora eller Tinka? Hvorfor?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;&lt;strong&gt;Hvilken dialekt fra de tidligere eksemplene (Bjugn, Stange, Bryne, Senja) liknet mest på Noras dialekt?&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+            </material>
+            <response_str ident="response1" rcardinality="Single">
+              <render_fib>
+                <response_label ident="answer1" rshuffle="No"/>
+              </render_fib>
+            </response_str>
+          </presentation>
+          <resprocessing>
+            <outcomes>
+              <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+            </outcomes>
+            <respcondition continue="No">
+              <conditionvar>
+                <other/>
+              </conditionvar>
+            </respcondition>
+          </resprocessing>
+        </item>
+      </section>
+      <item ident="g5bedd4cffab115936dd5ab3ba832a982" title="Nora og Tinka snakker sammen i pausen">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g88fcd3b3def25c9a949cca602dc5ffd2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;
+    &lt;h3 style="color: #ad4400; margin-top: 0; font-size: 1.3rem; border-bottom: 2px solid #f4c430; padding-bottom: 6px;"&gt;&lt;span style="color: #000000;"&gt;Lytt til dialogen en gang til med teksten:&lt;/span&gt;&lt;/h3&gt;
+    &lt;div style="line-height: 1.6;"&gt;
+        &lt;div style="background-color: #fff6ed; border-radius: 8px; padding: 20px; margin-bottom: 25px; color: #510000; border: 3px solid #ad4400;"&gt;&lt;br&gt;
+            &lt;div style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 25px;"&gt;
+                &lt;div style="background-color: #1e1e1e; border-radius: 6px; padding: 12px; width: 100%; max-width: 800px; margin: 0px auto; border: 2px solid #ad4400;"&gt;&lt;strong style="color: #ffc87c; display: block; margin-bottom: 8px; font-size: 1rem; text-align: center;"&gt;Nora og Tinka snakker sammen i pausen&lt;/strong&gt; &lt;video style="width: 100%; height: 400px; display: block; border: medium none currentcolor;" title="Video avspiller for Smakebit av norsk lydopptak.mp4" data-media-type="video" loading="lazy" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-5iMDMTdC7abXxc897sdJA7No6Z6BVGZT"&gt;&lt;source src="$IMS-CC-FILEBASE$/Uploaded%20Media/Smakebit%20av%20norsk%20lydopptak.mp4?canvas_=1&amp;amp;canvas_qs_type=video&amp;amp;canvas_qs_embedded=true" data-media-id="m-5iMDMTdC7abXxc897sdJA7No6Z6BVGZT" data-media-type="video"&gt;&lt;/video&gt;&lt;/div&gt;
+    &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Nora:&lt;/strong&gt; &lt;strong&gt;Kors'n e det&lt;/strong&gt; med deg? &lt;strong&gt;Ka du driv med?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Tinka:&lt;/strong&gt; Hei Nora! Jo, &lt;strong&gt;bare bra&lt;/strong&gt;! Det er mye skolearbeid for &lt;strong&gt;tia&lt;/strong&gt; da. Hva med deg?&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Nora:&lt;/strong&gt; Neida, det går &lt;strong&gt;sånn passe&lt;/strong&gt;. &lt;strong&gt;Mange balla i lufta&lt;/strong&gt; med skole og jobb og greier.&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Tinka:&lt;/strong&gt; Ja stemmer. Hadde &lt;strong&gt;trøbbel&lt;/strong&gt; med ene printeren på jobb i går. Det var skikkelig &lt;strong&gt;irriterendes&lt;/strong&gt;, jeg sto i 3 timer me'n.&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Nora:&lt;/strong&gt; Æsj! &lt;strong&gt;Gje deg!&lt;/strong&gt; Ka det va som &lt;strong&gt;måtte tell&lt;/strong&gt; for å få den fiksa?&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Tinka:&lt;/strong&gt; Papira hadde &lt;strong&gt;satt seg ordentli fast&lt;/strong&gt;, så &lt;strong&gt;etter mye om og men&lt;/strong&gt; fikk jeg den &lt;strong&gt;løs&lt;/strong&gt; så den ihvertfall funker, men det er mye papirrester igjen – men jeg gadd ikke mer. Det var &lt;strong&gt;ikke bare bare&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Nora:&lt;/strong&gt; Det kan eg godt tru. Eg har også hadd nån frustreranes daga. I går &lt;strong&gt;klikka det heilt for meg&lt;/strong&gt; da en &lt;strong&gt;kar&lt;/strong&gt; på elsparkesykkel kjørte forbi meg på fortauet i full fart, og skulle da ringe med den fæle bjella si. Det &lt;strong&gt;kokte over førr meg&lt;/strong&gt; og eg begynte å kjefte ut i gata. Eg skjønne ikkje &lt;strong&gt;at det går an!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Tinka:&lt;/strong&gt; Nei, jeg ser den. Det er skikkelig unødvendig. Da var det altså &lt;strong&gt;ikkeno&lt;/strong&gt; &lt;strong&gt;is i magan&lt;/strong&gt; da på deg?&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Nora:&lt;/strong&gt; Nei, &lt;strong&gt;det kan du godt sei&lt;/strong&gt;. Burde &lt;strong&gt;skjerpe meg&lt;/strong&gt;. Men iblant så e det vanskelig å &lt;strong&gt;holde hauet kaldt&lt;/strong&gt; når det e så mykkje som skjer ellers. Kors'n e det med familien? Blei fredsgaven godt &lt;strong&gt;tadd imot&lt;/strong&gt;?&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Tinka:&lt;/strong&gt; Ja, nå var det faktisk god stemning når jeg kom hjem, og det ble nå &lt;strong&gt;tatt godt imot&lt;/strong&gt;, særlig pizzan. Vi har ikke snakka no om det og jeg har ikke tenkt å &lt;strong&gt;ta det opp&lt;/strong&gt;, så det får nå heller være.&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Nora:&lt;/strong&gt; Det høres lurt ut. Best å ikkje ødelegge stemninga i heimen. Men du! Ka du gjorde i helga?&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Tinka:&lt;/strong&gt; Nei, jeg løpte veldedighetsløp for sarkomkreft etter kompisen til broren min som &lt;strong&gt;gikk bort&lt;/strong&gt; til det. På kvelden dro jeg på jentekveld med to fra jobben så det var kos. Det ble nok mye &lt;strong&gt;skravling&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Nora:&lt;/strong&gt; Kor artig! Men bei du ikkje &lt;strong&gt;fråsen &lt;/strong&gt;av å springe ut i det været?&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Tinka:&lt;/strong&gt; Jo, jeg var iskald, men en varm dusj &lt;strong&gt;fiksa opp i&lt;/strong&gt; det før jeg &lt;strong&gt;kledde meg pent&lt;/strong&gt; igjen for å føle meg litt bedre. Vi gjorde ikke så mye uansett bortsett fra å &lt;strong&gt;bruke en evighet&lt;/strong&gt; på å finne ut hva vi skulle spise. Hva med deg? Gjorde du no spennende?&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #f4c430;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Nora:&lt;/strong&gt; Jau, det va bursdagen tell søstera mi i helga. Så eg dro også &lt;strong&gt;ut på byen&lt;/strong&gt;. Vi hadde det ganske fint, men så begynte søstera mi å føle seg sjuk, så ho måtte heim tidlig. Det va &lt;strong&gt;kjipt&lt;/strong&gt; førr ho, men resten av oss koste oss. Eg tok meg et par forferdelig onde støveletta og eg har enno ondt i føten sia lørdagen.&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 0;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Tinka:&lt;/strong&gt; Ahh, den er vond. Bra det ikke ødela kvelden helt da. Nei, vi får vel komme oss inn til timen før &lt;strong&gt;tia er helt ute&lt;/strong&gt; på pausen.&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 0;"&gt;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div style="background-color: #ffe4b5; border-radius: 8px; padding: 15px 20px; margin-bottom: 20px; color: #510000; border: 3px solid #da8a67;"&gt;
+        &lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;&lt;strong&gt;Etter å ha lest teksten, er det noe som fortsatt er vanskelig å forstå?&lt;/strong&gt;&lt;/p&gt;
+        &lt;p style="margin-bottom: 0; line-height: 1.5;"&gt;&lt;strong&gt; Hvilke ord og uttrykk fra dialogen tror du at du vil ha mest bruk for i jobben din?&lt;/strong&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
