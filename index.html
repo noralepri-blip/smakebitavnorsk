@@ -1,26 +1,46 @@
 <!DOCTYPE html>
 <html lang="no">
 <head>
+
 <meta charset="UTF-8">
+
 <title>Smakebit av norsk</title>
+
 </head>
 
 <body>
 
 <h1>🇳🇴 Smakebit av norsk</h1>
 
-<h2>Føroppgaver</h2>
+<button onclick="
+loadQuiz(
+'quizzes/gf7b1c6ad1fe6d9fd645bf81fe5288b99.xml'
+)
+">
+Føroppgaver
+</button>
 
-<p>Hvorfor vil du lære norsk?</p>
+<button onclick="
+loadQuiz(
+'quizzes/gdab4f6d5960e3712de572e1b3ad75118.xml'
+)
+">
+Lytteoppgaver
+</button>
 
-<textarea rows="6" cols="80"></textarea>
+<button onclick="
+loadQuiz(
+'quizzes/g88cf9271f6700b9cee02be43ede68a9e.xml'
+)
+">
+Adjektiver
+</button>
 
-<h2>Ordforråd</h2>
+<hr>
 
-<p>Hva betyr "vellagret"?</p>
+<div id="quiz"></div>
 
-<input type="radio"> Fersk<br>
-<input type="radio"> Modnet over tid<br>
+<script src="app.js"></script>
 
 </body>
 </html>
