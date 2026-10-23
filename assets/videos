@@ -1,1 +1,4 @@
-
+<video width="100%" controls style="border-radius: 8px; margin: 20px 0;">
+  <source src="{{ <iframe width="560" height="315" src="https://www.youtube.com/embed/xLrqo2ee_Jg?si=fXYXc_ZTLltOwquR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>>
+  Nettleseren din støtter ikke videoavspilling.
+</video>
