@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Oppgave 2: Smaker det?"
+title: "Oppgave 1: Introduksjon og grunnleggende norsk"
 has_children: true
 nav_order: 1
 ---
