@@ -1,120 +1,108 @@
 ---
 layout: default
-title: "Modul 2: Kan du beskrive det?"
+title: "Modul 2: Smaker det?"
 nav_order: 2
 ---
 
-# Modul 2: Kan du beskrive det?
-*Lær om adjektiver, gradbøying og ordforråd for mat, råvarer og sanseinntrykk.*
+# Modul 2: Smaker det?
+*Lær om adjektiver, gradbøying, sanseinntrykk og italienske spesialiteter.*
 
 ---
 
-## 🧀 Grammatikk: Adjektiver og matbeskrivelser
+## 📖 Ordforklaring: Adjektiver for smak, lukt, konsistens og matopplevelse
 
-Adjektivene hjelper oss med å beskrive farger, smaker, konsistenser og egenskaper ved maten og råvarene i butikken. 
+Når vi snakker om mat, drikke og sanseinntrykk, bruker vi spesifikke adjektiver[cite: 2].
 
-I denne modulen ser vi nærmere på klassiske råvarer som:
-- **Pecorino Stagionato**[cite: 1]
-- **Sugo alla Norma** og **Sugo all'arrabbiata**[cite: 1]
-- **Guanciale** og **'Nduja di Spilinga**[cite: 1]
-- **Mozzarella**[cite: 1]
+### 1. Smak (hvordan det smaker på tungen)[cite: 2]
+
+| Adjektiv | Forklaring / Betydning | Eksempel i setning |
+| :--- | :--- | :--- |
+| **Søt** | Smaker sukker eller honning[cite: 2] | *«Eplekaken er søt og god.»*[cite: 2] |
+| **Surt / Syrlig** | Frisk eller skarp smak som sitron[cite: 2] | *«Appelsinmarmelade har en syrlig smak.»*[cite: 2] |
+| **Salt** | Har mye salt[cite: 2] | *«Guanciale gir carbonara en salt smak.»*[cite: 2] |
+| **Bitter** | Skarp og mørk smak (som kaffe eller mørk sjokolade)[cite: 2] | *«Mørk sjokolade har en litt bitter smak.»*[cite: 2] |
+| **Sterk / Krydret / Pikant** | Mye chili, pepper eller krydder[cite: 2] | *«'Nduja di Spilinga er en mørk, rød og sterk pølse.»*[cite: 2] |
+| **Mild** | Rolig og svak kryddersmak[cite: 2] | *«Rifor Tormellino er en mild ost.»*[cite: 2] |
+| **Smaksrik / Rik** | Har mye, dypt og fyldig smaksuttrykk[cite: 2] | *«Ragu har en veldig rik og smaksrik aroma.»*[cite: 2] |
+| **Fersk** | Nylaget, ubrunt eller usyrnet råvare[cite: 3] | *«Vi kjøpte fersk mozzarella til pizzaen.»*[cite: 3] |
+| **Lagret / Vellagret** | Har modnet over tid for å få mer kraftig smak[cite: 3] | *«Pecorino er en vellagret og spiss ost.»*[cite: 3] |
+| **Smakløs / Kjedelig** | Mangler smak, lite krydret[cite: 3] | *«Uten salt blir maten helt smakløs.»*[cite: 3] |
+
+---
+
+### 2. Lukt (aromatiske inntrykk)[cite: 3]
+
+| Adjektiv | Forklaring / Betydning | Eksempel i setning |
+| :--- | :--- | :--- |
+| **Fruktig** | Tydelig duft eller smak av frukt og bær[cite: 3] | *«Dette er en ung og fruktig rødvin.»*[cite: 3] |
+| **Frisk** | Ren og god lukt/smak (f.eks. sitron, sjø eller ren luft)[cite: 3] | *«Eplemost har en frisk og søt smak.»*[cite: 3] |
+| **Stram / Spiss / Skarp** | Veldig kraftig lukt/smak som merkes fort[cite: 3] | *«Taleggio har en veldig stram lukt.»*[cite: 3] |
+| **Røkt** | Lukt av røyk eller røykeri[cite: 3] | *«Scamorza har en god, røkt aroma.»*[cite: 3] |
+
+---
+
+### 3. Konsistens / Tekstur (følelse i munnen)[cite: 3]
+
+| Adjektiv | Forklaring / Betydning | Eksempel i setning |
+| :--- | :--- | :--- |
+| **Sprø** | Lager knaselyd når du tygger (hard og tørr)[cite: 3] | *«Crostini er sprø, tørre skiver laget av forskjellige typer brød.»*[cite: 3] |
+| **Mør** | Veldig lett å tygge (spesielt om kjøtt)[cite: 3] | *«Kjøttet var så mørt at det smeltet på tungen.»*[cite: 3] |
+| **Myk / Kremet / Smørbar** | Glatt, tykk og lett å smøre/svelge[cite: 3] | *«Stracciatella har en myk og kremet konsistens.»*[cite: 3] |
+| **Tørr** | Mangler fuktighet, føles tørkende i munnen[cite: 3] | *«Focacciaen har stått ute for lenge og blitt tørr.»*[cite: 3] |
+| **Klumpete / Fettete / Oljete** | Har ujevne biter eller for mye olje/fett[cite: 3] | *«Rør godt om slik at sausen ikke blir klumpete.»*[cite: 3] |
+
+---
+
+### 4. Matopplevelse, stemning og vurdering[cite: 3]
+
+| Adjektiv | Forklaring / Betydning | Eksempel i setning |
+| :--- | :--- | :--- |
+| **Nydelig / Deilig / Herlig** | Smaker eller føles utrolig godt[cite: 3] | *«Dette var et helt nydelig måltid!»*[cite: 3] |
+| **Koselig** | Hyggelig, behagelig og avslappende stemning[cite: 3] | *«Vi spiste på en liten og koselig restaurant.»*[cite: 3] |
+| **Fantastisk / Utsøkt** | Av svært høy kvalitet, toppklasse[cite: 3] | *«Kjøkkensjefen serverte en utsøkt pastarett.»*[cite: 3] |
+| **Smakfull / Velsmakende** | Har en god, balansert og behagelig smak[cite: 3] | *«Suppa var veldig fyldig og smakfull.»*[cite: 3] |
 
 ---
 
 ## 🧩 Oppgave 1: Koble adjektiv og substantiv
 
-Velg det substantivet som passer best til adjektivet:
+Koble sammen hvert adjektiv med et passende substantiv slik at det danner en naturlig beskrivelse[cite: 4]:
 
 <div class="quiz-box" style="background: #fff6ed; border: 2px solid #ad4400; padding: 20px; border-radius: 8px; margin: 20px 0;">
-<div style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="margin-bottom: 10px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
 <label style="min-width: 100px; font-weight: bold;">Rosa:</label>
-<select id="match-1" style="padding: 6px;">
-<option value="">-- Velg substantiv --</option>
-<option value="gris">Gris</option>
-<option value="ferrari">Ferrari</option>
-<option value="mus">Mus</option>
-<option value="kake">Kake</option>
-</select>
+<select id="m-1"><option value="">[ Velg ]</option><option value="gris">Gris</option><option value="bil">Bil</option><option value="kake">Kake</option></select>
 </div>
-<div style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="margin-bottom: 10px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
 <label style="min-width: 100px; font-weight: bold;">Rød:</label>
-<select id="match-2" style="padding: 6px;">
-<option value="">-- Velg substantiv --</option>
-<option value="gris">Gris</option>
-<option value="ferrari">Ferrari</option>
-<option value="mus">Mus</option>
-<option value="kake">Kake</option>
-</select>
+<select id="m-2"><option value="">[ Velg ]</option><option value="ferrari">Ferrari</option><option value="gris">Gris</option><option value="kake">Kake</option></select>
 </div>
-<div style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="margin-bottom: 10px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
 <label style="min-width: 100px; font-weight: bold;">Liten:</label>
-<select id="match-3" style="padding: 6px;">
-<option value="">-- Velg substantiv --</option>
-<option value="gris">Gris</option>
-<option value="ferrari">Ferrari</option>
-<option value="mus">Mus</option>
-<option value="kake">Kake</option>
-</select>
+<select id="m-3"><option value="">[ Velg ]</option><option value="mus">Mus</option><option value="ferrari">Ferrari</option></select>
 </div>
-<div style="margin-bottom: 15px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-<label style="min-width: 100px; font-weight: bold;">Søt:</label>
-<select id="match-4" style="padding: 6px;">
-<option value="">-- Velg substantiv --</option>
-<option value="gris">Gris</option>
-<option value="ferrari">Ferrari</option>
-<option value="mus">Mus</option>
-<option value="kake">Kake</option>
-</select>
+<div style="margin-bottom: 10px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<label style="min-width: 100px; font-weight: bold;">Sliten:</label>
+<select id="m-4"><option value="">[ Velg ]</option><option value="kropp">Kropp</option><option value="mus">Mus</option></select>
 </div>
-<button onclick="checkMatching()" style="background: #ad4400; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-weight: bold;">Sjekk svar</button>
-<div id="feedback-matching" style="margin-top: 10px; font-weight: bold;"></div>
+<div style="margin-bottom: 10px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<label style="min-width: 100px; font-weight: bold;">Stort:</label>
+<select id="m-5"><option value="">[ Velg ]</option><option value="hus">Hus</option><option value="kropp">Kropp</option></select>
 </div>
-
----
-
-## ✏️ Oppgave 2: Fyll inn riktig adjektiv
-
-*Ordbank: italienske • koselig • varm • sprø • søt • sterk*
-
-<div class="quiz-box" style="background: #fff6ed; border: 2px solid #ad4400; padding: 20px; border-radius: 8px; margin: 20px 0;">
-<p style="line-height: 2.2;">
-Italia er kjent for sin <input type="text" id="blank-1" style="padding: 6px; width: 120px;"> mat. 
-På en <input type="text" id="blank-2" style="padding: 6px; width: 110px;"> restaurant kan du spise pizza. 
-Pizzaen er ofte <input type="text" id="blank-3" style="padding: 6px; width: 90px;"> og sprø. 
-Til dessert spiser mange en <input type="text" id="blank-4" style="padding: 6px; width: 90px;"> iskrem, 
-og kaffen er ofte god og <input type="text" id="blank-5" style="padding: 6px; width: 90px;">.
-</p>
-<button onclick="checkBlanks()" style="background: #ad4400; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-weight: bold;">Sjekk svar</button>
-<div id="feedback-blanks" style="margin-top: 10px; font-weight: bold;"></div>
+<div style="margin-bottom: 10px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<label style="min-width: 100px; font-weight: bold;">Lyst:</label>
+<select id="m-6"><option value="">[ Velg ]</option><option value="rom">Rom</option><option value="hus">Hus</option></select>
 </div>
-
-<script>
-function checkMatching() {
-    const m1 = document.getElementById('match-1').value;
-    const m2 = document.getElementById('match-2').value;
-    const m3 = document.getElementById('match-3').value;
-    const m4 = document.getElementById('match-4').value;
-    const fb = document.getElementById('feedback-matching');
-
-    if (m1 === 'gris' && m2 === 'ferrari' && m3 === 'mus' && m4 === 'kake') {
-        fb.innerHTML = "<span style='color: green;'>Helt riktig! Flott jobbet 🎉</span>";
-    } else {
-        fb.innerHTML = "<span style='color: red;'>Noen av koblingene var ikke helt riktige. Prøv igjen!</span>";
-    }
-}
-
-function checkBlanks() {
-    const b1 = document.getElementById('blank-1').value.trim().toLowerCase();
-    const b2 = document.getElementById('blank-2').value.trim().toLowerCase();
-    const b3 = document.getElementById('blank-3').value.trim().toLowerCase();
-    const b4 = document.getElementById('blank-4').value.trim().toLowerCase();
-    const b5 = document.getElementById('blank-5').value.trim().toLowerCase();
-    const fb = document.getElementById('feedback-blanks');
-
-    if (b1 === 'italienske' && b2 === 'koselig' && b3 === 'varm' && b4 === 'søt' && b5 === 'sterk') {
-        fb.innerHTML = "<span style='color: green;'>Utmerket! Alt var helt korrekt plassert 🌟</span>";
-    } else {
-        fb.innerHTML = "<span style='color: red;'>Sjekk skrivemåten eller rekkefølgen på ordene og prøv en gang til.</span>";
-    }
-}
-</script>
+<div style="margin-bottom: 10px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<label style="min-width: 100px; font-weight: bold;">Stripete:</label>
+<select id="m-7"><option value="">[ Velg ]</option><option value="katt">Katt</option><option value="rom">Rom</option></select>
+</div>
+<div style="margin-bottom: 10px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<label style="min-width: 100px; font-weight: bold;">Rutete:</label>
+<select id="m-8"><option value="">[ Velg ]</option><option value="skjorte">Skjorte</option><option value="katt">Katt</option></select>
+</div>
+<div style="margin-bottom: 10px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<label style="min-width: 100px; font-weight: bold;">Sunn:</label>
+<select id="m-9"><option value="">[ Velg ]</option><option value="mat">Mat</option><option value="skjorte">Skjorte</option></select>
+</div>
+<div style="margin-bottom: 10px; display
