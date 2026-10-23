@@ -22,8 +22,10 @@
             border: 3px solid #ad4400;
             box-shadow: 0 4px 10px rgba(81, 0, 0, 0.1);
         }
-        h1, h2, h3 {
+        h1, h2, h3, h4 {
             color: #ad4400;
+        }
+        h1, h2 {
             border-bottom: 2px solid #f4c430;
             padding-bottom: 8px;
         }
@@ -34,12 +36,46 @@
             margin-bottom: 25px;
             border: 3px solid #ad4400;
         }
-        .task-box {
+        .prep-box {
             background-color: #ffc87c;
             border-left: 5px solid #ad4400;
-            padding: 20px;
+            padding: 15px 20px;
             border-radius: 6px;
             margin-bottom: 25px;
+        }
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            border: 2px solid #ad4400;
+            background-color: #000;
+        }
+        .video-container iframe, .video-container video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .step-box {
+            background-color: #fff6ed;
+            border: 2px solid #ad4400;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 25px;
+        }
+        .scenario-card {
+            background-color: #ffffff;
+            border: 1.5px solid #f4c430;
+            border-radius: 6px;
+            padding: 15px;
+            margin-bottom: 15px;
+            display: flex;
+            gap: 15px;
+            align-items: center;
         }
         .submission-box {
             background-color: #fff6ed;
@@ -48,19 +84,6 @@
             padding: 20px;
             text-align: center;
             margin-top: 30px;
-        }
-        .button {
-            display: inline-block;
-            background-color: #ad4400;
-            color: #fff6ed;
-            padding: 12px 20px;
-            text-decoration: none;
-            border-radius: 6px;
-            font-weight: bold;
-            margin-top: 10px;
-        }
-        .button:hover {
-            background-color: #803200;
         }
         .back-link {
             display: inline-block;
@@ -85,34 +108,98 @@
 <div class="container">
     <a href="index.html" class="back-link">← Tilbake til forsiden</a>
 
-    <div class="intro-box">
-        <h1>Modul 4: Karl selger ost (Salgspitch)</h1>
-        <p>I denne modulen skal du ta i bruk vokabularet og adjektivene du har lært om smak, lukt, konsistens og matopplevelser[cite: 1]. Du skal øve deg på å overbevise en kunde gjennom en kort og engasjerende salgspitch!</p>
+    <h1>Karl selger ost</h1>
+
+    <!-- Før du ser på videoen -->
+    <div class="prep-box">
+        <h3 style="margin-top: 0; color: #510000;">Før du ser på videoen tenk over disse spørsmålene:</h3>
+        <ul style="color: #510000; margin-bottom: 0;">
+            <li>Hvordan kan man veilede kunden om et produkts opprinnelse, modning og smak?</li>
+            <li>Hvilke attributter er viktig å legge vekt på?</li>
+            <li>Hva gjør man når en kunde leter et produkt som ikke finnes i butikken?</li>
+        </ul>
     </div>
 
-    <div class="task-box">
-        <h3 style="margin-top: 0; color: #510000;">Oppgave: Lag din egen salgspitch</h3>
-        <p style="color: #510000;">Forestill deg at du er Karl (eller en lokal selger) som skal selge et spesielt matprodukt eller en ost på et marked[cite: 1].</p>
-        
-        <h4 style="color: #510000;">Innholdet i pitchen bør inneholde:</h4>
-        <ol style="color: #510000;">
-            <li><strong>Introduksjon:</strong> Hvilket produkt selger du, og hvorfor bør kunden stoppe opp?</li>
-            <li><strong>Beskrivelse:</strong> Bruk varierte adjektiver til å beskrive smak, lukt og tekstur (f.eks. <em>«kremet»</em>, <em>«vellagret»</em>, <em>«frisk»</em>).</li>
-            <li><strong>Anbefaling:</strong> Hva passer produktet sammen med? (F.eks. kjeks, rødvin, frukt).</li>
-            <li><strong>Avslutning:</strong> Et godt tilbud eller en hyggelig oppfordring til å smake!</li>
+    <!-- Strukturgjennomgang før/med video -->
+    <div class="step-box">
+        <h3 style="margin-top: 0;">Strukturen i pitchen</h3>
+        <p>Slik bygger Karl opp samtalen og salget trinn for trinn:</p>
+        <ol>
+            <li><strong>Avklaring av behov og fellesk (0:05 – 0:25)</strong></li>
+            <li><strong>Forslag til alternativ og faglig begrunnelse (0:25 – 1:00)</strong></li>
+            <li><strong>Muntlig smaksprøve og sanseinvolvering (1:00 – 1:45)</strong></li>
+            <li><strong>Merverdi og mat-tips (1:45 – 3:15)</strong></li>
+            <li><strong>Prisargumentasjon og lukking av salget (3:15 – 3:42)</strong></li>
         </ol>
     </div>
 
-    <h3>Gode tips for fremføringen:</h3>
-    <ul>
-        <li>Snakk rolig og med god artikulasjon.</li>
-        <li>Bruk variasjon i stemmen for å skape engasjement.</li>
-        <li>Pass på riktig uttale av adjektivene fra modul 2.</li>
-    </ul>
+    <!-- Videospiller -->
+    <div class="prep-box" style="background-color: #ffc87c; padding: 20px;">
+        <h3 style="margin-top: 0; color: #510000; text-align: center;">Se gjennom videoen igjen:</h3>
+        <div class="video-container" style="margin-bottom: 0;">
+            <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://uio.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=325f4a46-ba47-423f-ae30-b4e900c2f0a7&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Karl selger ost med tittel"></iframe>
+</div>
+    </div>
 
+    <!-- Skriveøvelse -->
+    <div class="step-box">
+        <h3 style="margin-top: 0;">Skriv ned en setning for hvert trinn i salgspitchen:</h3>
+        <ul>
+            <li>Hva snakker han om?</li>
+            <li>Hvilke uttrykk og ord brukes?</li>
+            <li>Hvordan er pitchen strukturert?</li>
+        </ul>
+    </div>
+
+    <div class="intro-box">
+        <h2 style="margin-top: 0;">Oppgave: Lag din egen salgspitch</h2>
+        <p>Etter å ha sett hvordan Karl i videoen veileder kunden, er det nå din tur til å spille inn en salgspitch!</p>
+    </div>
+
+    <!-- Trinn 1: Velg scenario -->
+    <div class="step-box">
+        <h3 style="margin-top: 0;">Trinn 1: Velg vare og scenario</h3>
+        <p>Velg ett av disse scenariene for din salgspitch:</p>
+
+        <div class="scenario-card">
+            <div>
+                <h4 style="margin: 0 0 5px 0;">Scenario A: Frescolio eller Olio Nuovo</h4>
+                <p style="margin: 0;">Det er olivenoljesesong! Gi kunden en smaksprøve og forklar hva forskjellene er på nyolje og andre typer olivenolje.</p>
+            </div>
+        </div>
+
+        <div class="scenario-card">
+            <div>
+                <h4 style="margin: 0 0 5px 0;">Scenario B: Capriccio di Capra</h4>
+                <p style="margin: 0;">En kunde leter etter en kuost, men du må kvitte deg med geitosten Capriccio di Capra. Hvordan kan du overtale kunden?</p>
+            </div>
+        </div>
+
+        <div class="scenario-card">
+            <div>
+                <h4 style="margin: 0 0 5px 0;">Scenario C: Valgfritt produkt</h4>
+                <p style="margin: 0;">Velg et annet produkt som du har lyst til å selge. Bruk fantasien!</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Trinn 2: Følg strukturen -->
+    <div class="step-box">
+        <h3 style="margin-top: 0;">Trinn 2: Følg Karls struktur i pitchen</h3>
+        <p>Sørg for at pitchen din inneholder følgende elementer:</p>
+        <ol>
+            <li><strong>Hils og tilby smaksprøver:</strong> Hils på kunden og tilby en smaksprøve, forklar hvordan den er tilberedt. <em>(f.eks. «Dette er focaccia med fersk olivenolje og balsamico...»)</em></li>
+            <li><strong>Presentasjon:</strong> Presenter produktet og forklar opprinnelsen. <em>(f.eks. «Frescolio kommer fra Sicilia... olivene er kaldpresset...»)</em></li>
+            <li><strong>Egenskaper og smak:</strong> Bruk adjektiver <em>(f.eks. fersk, myk, smaksrik)</em> og demonstrativer <em>(denne osten, hele klassen, liten/stor flaske osv.)</em>.</li>
+            <li><strong>Oppskrifter, anbefalinger og pris:</strong> Gi konkrete tips til matlaging og nevn pris eller vekt <em>(f.eks. per hekto eller flaske)</em>.</li>
+        </ol>
+    </div>
+
+    <!-- Innsending -->
     <div class="submission-box">
         <h3>Klar til å levere?</h3>
-        <p>Når du har spilt inn eller skrevet ned din salgspitch, sender du den inn via skjemaet nedenfor[cite: 1].</p>
+        <p>Spill inn lydfilen din med salgspitchen og send den inn via skjemaet nedenfor.</p>
         <p><em>(Innsendingsskjema vil bli tilgjengelig her)</em></p>
     </div>
 
