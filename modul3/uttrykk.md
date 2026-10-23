@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Oppgave: Ord og uttrykk"
-parent: "Modul 3"
+title: "Ord og uttrykk fra dialogen"
+parent: "Oppgave 3: Hæ? Hva sa du nå?"
 nav_order: 3
 ---
 
