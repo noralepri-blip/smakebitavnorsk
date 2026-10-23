@@ -4,13 +4,13 @@ description: "Et moderne nettkurs i norsk språk, matkultur og fagspråk"
 # Tema
 remote_theme: just-the-docs/just-the-docs
 
-# Aktiver søkefelt
+# Søk
 search_enabled: true
 
-# Fargeoppsett (valgfritt)
-color_scheme: light
+# Sortering i sidemeny
+nav_sort: nav_order
 
-# Definer at mappelayoutene skal behandles som samlinger/moduler
+# Samlinger / Moduler
 collections:
   modul1:
     output: true
@@ -28,7 +28,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Tilpass navnene i sidemenyen for Just the Docs
+# Navn i menyen
 just_the_docs:
   collections:
     modul1:
