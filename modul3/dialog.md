@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lytteoppgave: Nora og Tinka"
-parent: "Modul 3"
+parent: "Oppgave 3: Hæ? Hva sa du nå?"
 nav_order: 4
 ---
 
