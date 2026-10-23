@@ -3,138 +3,132 @@
 
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Smakebit av norsk</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
-      rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <style>
 
-body{
-    background:#efefef;
-    font-family:'Inter',sans-serif;
-    margin:0;
-    padding:30px;
-    color:#222;
+body {
+    background: #fff6ed;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 30px;
+    color: #510000;
 }
 
-.container{
-    max-width:1450px;
-    margin:auto;
+.container {
+    max-width: 1450px;
+    margin: auto;
 }
 
-.hero{
-    background:#aed0ab;
-    border:3px solid #315957;
-    border-radius:18px;
-    padding:35px;
-    margin-bottom:30px;
+.hero {
+    background: #ffffff;
+    border: 3px solid #ad4400;
+    border-radius: 18px;
+    padding: 35px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 10px rgba(81, 0, 0, 0.05);
 }
 
-.hero h1{
-    margin-top:0;
-    font-size:3rem;
-    font-weight:600;
+.hero h1 {
+    margin-top: 0;
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #ad4400;
 }
 
-.hero h2{
-    margin-top:0;
+.hero h2 {
+    margin-top: 0;
+    color: #ad4400;
 }
 
-.hero hr{
-    border:none;
-    border-top:2px solid rgba(0,0,0,.15);
-    margin:25px 0;
+.hero hr {
+    border: none;
+    border-top: 2px solid #f4c430;
+    margin: 20px 0;
 }
 
-.cards{
-    display:grid;
-    grid-template-columns:repeat(5,1fr);
-    gap:20px;
-    margin-bottom:30px;
+.hero ul {
+    line-height: 1.8;
 }
 
-.card{
-    background:#f7f2ec;
-    border:2px solid #d46d00;
-    border-radius:10px;
-    padding:20px;
-    min-height:270px;
-
-    display:flex;
-    flex-direction:column;
-
-    box-shadow:0 2px 6px rgba(0,0,0,.08);
+.cards {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    margin-bottom: 30px;
 }
 
-.card h2{
-    color:#c76700;
-    border-bottom:2px solid #d8b200;
-    padding-bottom:10px;
-    margin-top:0;
-    margin-bottom:20px;
-    font-size:1.7rem;
+.card {
+    background: #ffffff;
+    border: 3px solid #ad4400;
+    border-radius: 12px;
+    padding: 22px;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 3px 8px rgba(81, 0, 0, 0.08);
 }
 
-.card p{
-    line-height:1.5;
+.card h2 {
+    color: #ad4400;
+    border-bottom: 2px solid #f4c430;
+    padding-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.4rem;
 }
 
-.card button{
-    margin-top:auto;
-
-    background:#c76700;
-    color:white;
-
-    border:none;
-    border-radius:5px;
-
-    padding:12px 20px;
-
-    font-weight:600;
-    cursor:pointer;
-
-    width:100%;
+.card p {
+    line-height: 1.5;
+    flex-grow: 1;
+    color: #510000;
 }
 
-.card button:hover{
-    background:#a65000;
+.card a.button, .card button {
+    margin-top: auto;
+    background: #ad4400;
+    color: #fff6ed;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 15px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    width: 100%;
+    box-sizing: border-box;
+    display: inline-block;
+    transition: background-color 0.2s ease;
 }
 
-.question{
-    background:white;
-    border:1px solid #ccc;
-    border-radius:10px;
-    padding:20px;
-    margin-bottom:20px;
+.card a.button:hover, .card button:hover {
+    background: #803200;
 }
 
-.question h3{
-    margin-top:0;
+.card button:disabled {
+    background: #ccc;
+    color: #666;
+    cursor: not-allowed;
 }
 
-#quiz{
-    margin-top:30px;
-}
-
-@media(max-width:1200px){
-
-    .cards{
-        grid-template-columns:repeat(2,1fr);
+@media(max-width: 1200px) {
+    .cards {
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
-@media(max-width:700px){
-
-    .cards{
-        grid-template-columns:1fr;
+@media(max-width: 700px) {
+    .cards {
+        grid-template-columns: 1fr;
     }
 
-    .hero h1{
-        font-size:2rem;
+    .hero h1 {
+        font-size: 2rem;
     }
 }
 
@@ -146,14 +140,11 @@ body{
 
 <div class="container">
 
+    <!-- Velkomstsiden -->
     <div class="hero">
-
         <h1>Velkommen til «Smakebit av norsk»</h1>
-
         <hr>
-
-        <p>På denne reisen skal vi:</p>
-
+        <p><strong>På denne reisen skal vi:</strong></p>
         <ul>
             <li>Beskrive vår språkreise og utfordringer med å lære norsk</li>
             <li>Utvide det kulinariske ordforrådet vårt</li>
@@ -161,102 +152,38 @@ body{
             <li>Prøve oss fram på å spille inn en egen salgspitch</li>
             <li>Reflektere over hva vi har lært</li>
         </ul>
-
     </div>
 
+    <!-- Modulkort -->
     <div class="cards">
 
+        <!-- Modul 1 -->
         <div class="card">
-
             <h2>1. Min språkreise</h2>
-
             <p>
                 Reflekter over din egen reise med å lære norsk.
             </p>
-
-            <button onclick="loadQuiz('quizzes/gf7b1c6ad1fe6d9fd645bf81fe5288b99.xml')">
+            <a href="https://forms.microsoft.com" target="_blank" class="button">
                 Gå til oppgaven →
-            </button>
-
+            </a>
         </div>
 
+        <!-- Modul 2 -->
         <div class="card">
-
             <h2>2. Kan du beskrive det?</h2>
-
             <p>
                 Lær adjektiver for smak, lukt og konsistens.
             </p>
-
-            <button onclick="loadQuiz('quizzes/g88cf9271f6700b9cee02be43ede68a9e.xml')">
-                Gå til oppgaven →
-            </button>
-
+            <a href="modul2.html" class="button">
+                Gå til modulen →
+            </a>
         </div>
 
+        <!-- Modul 3 -->
         <div class="card">
-
             <h2>3. Hæ? Hva sa du nå?</h2>
-
             <p>
                 Utforsk norske dialektmerker og lytteforståelse.
             </p>
-
-            <button onclick="loadQuiz('quizzes/gdab4f6d5960e3712de572e1b3ad75118.xml')">
-                Gå til oppgaven →
-            </button>
-
-        </div>
-
-        <div class="card">
-
-            <h2>4. Karl selger ost</h2>
-
-            <p>
-                Bruk vokabularet i praksis.
-            </p>
-
-            <button>
-                Kommer snart
-            </button>
-
-        </div>
-
-        <div class="card">
-
-            <h2>5. Refleksjon og evaluering</h2>
-
-            <p>
-                Oppsummer hva du har lært.
-            </p>
-
-            <button>
-                Kommer snart
-            </button>
-
-        </div>
-
-    </div>
-
-    <div class="hero">
-
-        <h2>Dagens læringsmål</h2>
-
-        <hr>
-
-        <ul>
-            <li>Lære adjektiver for smak og anbefalinger</li>
-            <li>Forstå flere norske dialekter</li>
-            <li>Reflektere over egen språkprogresjon</li>
-        </ul>
-
-    </div>
-
-    <div id="quiz"></div>
-
-</div>
-
-<script src="app.js"></script>
-
-</body>
-</html>
+            <a href="modul3.html" class="button">
+                Gå til modulen →
