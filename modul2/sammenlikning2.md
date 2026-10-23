@@ -2,7 +2,7 @@
 layout: default
 title: "Oppgave: Sammenlikning 2"
 parent: "Modul 2"
-nav_order: 6
+nav_order: 7
 ---
 
 # Sammenlikning og gradbøying (Del 2)
