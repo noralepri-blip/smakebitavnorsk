@@ -1,0 +1,11 @@
+title: "Smakebit av Norsk"
+description: "Et moderne nettkurs i norsk språk og kultur"
+
+# Velg et Jekyll-tema (f.eks. just-the-docs eller jekyll-theme-primer)
+theme: just-the-docs
+
+# Innstillinger for navigeringsmenyen
+just_the_docs:
+  collections:
+    modul2:
+      name: "Modul 2"
