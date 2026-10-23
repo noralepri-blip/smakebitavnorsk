@@ -22,8 +22,10 @@
             border: 3px solid #ad4400;
             box-shadow: 0 4px 10px rgba(81, 0, 0, 0.1);
         }
-        h1, h2, h3 {
+        h1, h2, h3, h4 {
             color: #ad4400;
+        }
+        h1, h2 {
             border-bottom: 2px solid #f4c430;
             padding-bottom: 8px;
         }
@@ -34,38 +36,64 @@
             margin-bottom: 25px;
             border: 3px solid #ad4400;
         }
-        .highlight-box {
+        .info-box {
             background-color: #ffc87c;
             border-left: 5px solid #ad4400;
             padding: 15px 20px;
             border-radius: 6px;
             margin-bottom: 25px;
         }
-        .text-box {
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border: 2px solid #ad4400;
+            background-color: #000;
+        }
+        .video-container iframe, .video-container video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #ffffff;
+            border-radius: 6px;
+            overflow: hidden;
+            margin-bottom: 25px;
+            border: 1.5px solid #f4c430;
+        }
+        th {
+            background-color: #f4c430;
+            color: #510000;
+            text-align: left;
+            padding: 10px;
+            border-bottom: 2px solid #ad4400;
+        }
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #f4c430;
+        }
+        tr:nth-child(even) {
             background-color: #fff6ed;
-            border-width: 3px 3px 3px 8px;
-            border-style: solid;
-            border-color: #ad4400;
+        }
+        .transcript-box {
+            background-color: #fff6ed;
+            border: 2px solid #ad4400;
             border-radius: 8px;
             padding: 20px;
             margin-bottom: 25px;
         }
-        .link-box {
-            background-color: #a0d6b4;
-            border-width: 3px 3px 3px 8px;
-            border-style: solid;
-            border-color: #264348;
-            border-radius: 8px;
-            padding: 15px 20px;
-            text-align: center;
-        }
-        .link-box a {
-            color: #264348;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        .link-box a:hover {
-            text-decoration: underline;
+        .transcript-line {
+            margin-bottom: 12px;
+            padding-bottom: 8px;
+            border-bottom: 1px dashed #f4c430;
         }
         .back-link {
             display: inline-block;
@@ -90,38 +118,101 @@
 <div class="container">
     <a href="index.html" class="back-link">← Tilbake til forsiden</a>
 
+    <h1>Modul 3: Hæ? Hva sa du nå?</h1>
+    <p>Utforsk norske dialekter, partikkelverb og lytteforståelse i dagligtalen[cite: 7].</p>
+
+    <!-- Del 1: Sammensatte verb -->
     <div class="intro-box">
-        <h1>Norske dialekter og talespråk</h1>
-        <p>I Norge har vi ikke et offisielt standardtalespråk, og vi bruker dialekt i nær sagt alle sammenhenger[cite: 3]. Hver nordmann snakker sin «egen» versjon av norsk, som kan være en blanding av ulike talemål[cite: 3]. Muntlig norsk varierer veldig fra skriftspråkene, noe som betyr at andrespråkselever ofte møter på utfordringer i sosiale sammenhenger[cite: 3].</p>
+        <h2>Grammatikk: Sammensatte verb</h2>
+        <div class="info-box">
+            <ul>
+                <li>Sammensatte verb består ofte av <strong>verb + adverb</strong> eller <strong>verb + preposisjon</strong> (partikkelverb)[cite: 7].</li>
+                <li>Partiklene endrer ofte hele betydningen av verbet[cite: 7].</li>
+            </ul>
+        </div>
+
+        <h3>Høyfrekvente partikkelverb</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Verb + partikkel</th>
+                    <th>Betydning</th>
+                    <th>Italiensk</th>
+                    <th>Eksempel i setning</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>holde av</strong></td>
+                    <td>reservere</td>
+                    <td>prenotare</td>
+                    <td>«Kan du <em>holde av</em> en gaveboks til meg?»[cite: 7]</td>
+                </tr>
+                <tr>
+                    <td><strong>holde på med</strong></td>
+                    <td>være opptatt med</td>
+                    <td>combinare</td>
+                    <td>«Hva <em>holder du på med</em>?»[cite: 7]</td>
+                </tr>
+                <tr>
+                    <td><strong>komme på</strong></td>
+                    <td>få en idé / huske</td>
+                    <td>rammentare</td>
+                    <td>«Ida <em>kom på</em> en kjempeidé i går!»[cite: 7]</td>
+                </tr>
+                <tr>
+                    <td><strong>gå ut fra</strong></td>
+                    <td>anta, regne med</td>
+                    <td>assumere</td>
+                    <td>«Jeg <em>går ut fra</em> at alle har levert.»[cite: 7]</td>
+                </tr>
+            </tbody>
+        </table>
     </div>
 
-    <div class="highlight-box">
-        <h3 style="margin-top: 0; color: #510000;">Fem målmerker ved norske dialekter:</h3>
-        <ol style="color: #510000; margin: 0;">
-            <li><strong>Tonefall (melodi):</strong> Hvorvidt ordene har lav tone i starten (østnorsk/trøndersk) eller høy tone (vestnorsk/nordnorsk)[cite: 3].</li>
-            <li><strong>Trykk:</strong> Hvor i ordet vi setter mest vekt (for eksempel trykk på første eller andre stavelse)[cite: 3].</li>
-            <li><strong>Retrofleksen «tjukk l»:</strong> Særlig utbredt på Østlandet og i Trøndelag (f.eks. i ord som <em>sol</em>, <em>vise</em>)[cite: 3].</li>
-            <li><strong>Andre retroflekser:</strong> Sammensmeltning av konsonantene «d», «l», «t», «n» etter «r» (som i <em>barn</em>, <em>svart</em>) samt «sl»[cite: 3].</li>
-            <li><strong>Infinitivsending:</strong> Bruk av e-ending (e-mål), a-ending (a-mål), apokope (ingen ending) eller kløyvd infinitiv[cite: 3].</li>
-        </ol>
+    <!-- Del 2: Norske dialekter -->
+    <div class="intro-box">
+        <h2>Norske dialekter og talespråk</h2>
+        <div class="info-box">
+            <ul>
+                <li>I Norge har vi ikke et offisielt standardtalespråk, og vi bruker dialekt i de fleste sammenhenger[cite: 7].</li>
+                <li><strong>Fem målmerker:</strong> Tonefall (melodi), trykk, retrofleksen «tjukk l», andre retroflekser og infinitivsending[cite: 7].</li>
+            </ul>
+        </div>
+
+        <h3>Lytteeksempler (Dialekter)</h3>
+        <p>Her kan du lytte til hvordan setningen <em>«Nordavinden og sola»</em> uttales i ulike deler av landet[cite: 7]:</p>
+        
+        <ul>
+            <li><strong>Bjugn (Trøndelag)</strong>[cite: 7]</li>
+            <li><strong>Stange (Innlandet)</strong>[cite: 7]</li>
+            <li><strong>Bryne (Rogaland)</strong>[cite: 7]</li>
+            <li><strong>Senja (Troms)</strong>[cite: 7]</li>
+        </ul>
     </div>
 
-    <h3>Noter ned det du hører:</h3>
-    <ul>
-        <li>Hører du forskjeller i tonefallet (melodien)?[cite: 3]</li>
-        <li>Klarer du å høre hvilken av dialektene som har «tjukk l»? Er det noen av dialektene som ikke har "retrofleks"?[cite: 3]</li>
-        <li>Hvilken av disse fire dialektene synes du var lettest eller vanskeligst å forstå, og hvorfor?[cite: 3]</li>
-    </ul>
+    <!-- Del 3: Lytteopptak Nora og Tinka -->
+    <div class="intro-box">
+        <h2>Lytteoppgave: Nora og Tinka snakker sammen i pausen</h2>
+        <p>Lytt til dialogen mellom de to kollegene/vennene[cite: 7]:</p>
 
-    <div class="text-box">
-        <h4 style="color: #0e68b3; margin-top: 0;">Tekst: Nordavinden og sola</h4>
-        <p style="color: #0e68b3; line-height: 1.6;">
-            Nordavinden og sola kjekla om kven av dei som var den sterkaste. Da kom det en mann gåande med en varm frakk på seg. Dei vart samde om at han som først kunne få mannen til å ta av seg frakken skulle gjelde for sterkare enn den andre. Så blåste nordavinden av all si makt, men dess meir han blåste, dess tettare trakk mannen frakken rundt seg, og til sist gav nordavinden opp. Da skinte sola fram så godt og varmt, og straks tok mannen av seg frakken. Og så måtte nordavinden innrømme at sola var den sterkaste av dei[cite: 3].
-        </p>
+        <div class="video-container">
+            <iframe src="https://uio.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=placeholder" title="Nora og Tinka" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        <h3>Tekst / Transkripsjon</h3>
+        <div class="transcript-box">
+            <div class="transcript-line"><strong>Nora:</strong> Kors'n e det med deg? Ka du driv med?[cite: 7]</div>
+            <div class="transcript-line"><strong>Tinka:</strong> Hei Nora! Jo, bare bra! Det er mye skolearbeid for tia da. Hva med deg?[cite: 7]</div>
+            <div class="transcript-line"><strong>Nora:</strong> Neida, det går sånn passe. Mange balla i lufta med skole og jobb og greier.[cite: 7]</div>
+            <div class="transcript-line"><strong>Tinka:</strong> Ja stemmer. Hadde trøbbel med ene printeren på jobb i går. Det var skikkelig irriterendes...[cite: 7]</div>
+        </div>
     </div>
 
-    <div class="link-box">
-        <p style="margin: 0;">Hvis du er interessert i å lytte til flere dialekter, kan du finne mange eksempler her: <a href="https://www.hf.ntnu.no/nos/list.php" target="_blank">Nordavinden og sola (NTNU)</a>[cite: 3].</p>
+    <!-- Innsending / Avslutning -->
+    <div class="submission-box" style="background-color: #fff6ed; border: 2px dashed #ad4400; border-radius: 8px; padding: 20px; text-align: center; margin-top: 30px;">
+        <h3>Oppsummering</h3>
+        <p>Gjennomgå gjerne oppgavene knyttet til ord og uttrykk for å styrke lytteforståelsen din.</p>
     </div>
 
 </div>
