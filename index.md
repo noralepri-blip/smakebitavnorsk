@@ -52,4 +52,11 @@ Dette kurset er delt inn i Oppgaveer som tar for seg praktiske språksituasjoner
     <a href="modul4/refleksjonssporsmal.html" style="background: #ad4400; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; white-space: nowrap;">start oppgave 4 →</a>
   </div>
 
+  <!-- Modul 5 -->
+  <div style="margin: 20px 0; padding: 20px; background-color: #fff6ed; border: 2px solid #ad4400; border-radius: 6px;">
+  <h3 style="margin-top: 0; color: #ad4400;">Oppgave 5: Refleksjon og evaluering</h3>
+  <p>Egenevaluering av egen læring og tilbakemelding på kurset.</p>
+  <p><a href="modul5/refleksjon.html" style="background-color: #ad4400; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: bold; display: inline-block;">Start oppgave 5 →</a></p>
+</div>
+
 </div>
