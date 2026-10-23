@@ -1,18 +1,57 @@
-for(let i = 0; i < items.length; i++){
+async function loadQuiz(file) {
 
-    const title =
-        items[i].getAttribute("title") ||
-        "Uten tittel";
+    try {
 
-    html += `
-    <div class="question">
+        const response = await fetch(file);
 
-        <h3>${title}</h3>
+        const xmlText = await response.text();
 
-        <p>
-        Canvas-spørsmål lastet inn.
-        </p>
+        const parser = new DOMParser();
 
-    </div>
-    `;
+        const xml =
+            parser.parseFromString(
+                xmlText,
+                "text/xml"
+            );
+
+        const items =
+            xml.getElementsByTagName("item");
+
+        let html = "";
+
+        html += `<h2>Fant ${items.length} spørsmål</h2>`;
+
+        for(let i = 0; i < items.length; i++){
+
+            const title =
+                items[i].getAttribute("title") ||
+                "Uten tittel";
+
+            html += `
+            <div class="question">
+
+                <h3>${title}</h3>
+
+                <p>
+                Canvas-spørsmål lastet inn.
+                </p>
+
+            </div>
+            `;
+        }
+
+        document
+            .getElementById("quiz")
+            .innerHTML = html;
+
+    }
+    catch(error){
+
+        document
+            .getElementById("quiz")
+            .innerHTML =
+            "<p>Feil: " + error + "</p>";
+
+        console.error(error);
+    }
 }
