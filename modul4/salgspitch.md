@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Oppgave: Lag din egen salgspitch"
-parent: "Modul 4"
+title: "Lag din egen salgspitch"
+parent: "Oppgave 4: Karl selger ost"
 nav_order: 3
 ---
 
