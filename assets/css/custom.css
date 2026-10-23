@@ -1,0 +1,9 @@
+:root {
+  --link-color: #ad4400;
+  --btn-primary-color: #ad4400;
+}
+
+.nav-list .nav-list-link.active {
+  color: #ad4400 !important;
+  font-weight: bold;
+}
