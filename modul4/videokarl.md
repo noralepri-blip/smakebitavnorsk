@@ -27,7 +27,7 @@ nav_order: 1
 
 ---
 
-## 📝 Observasjoner
+## Observasjoner
 
 Noter ned det du observerer mens du ser på videoen:
 - Hvilke adjektiver bruker Karl for å beskrive ostene?
