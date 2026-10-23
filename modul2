@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kan du beskrive det? - Smakebit av norsk</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff6ed;
+            color: #510000;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            border: 3px solid #ad4400;
+            box-shadow: 0 4px 10px rgba(81, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #ad4400;
+            border-bottom: 2px solid #f4c430;
+            padding-bottom: 8px;
+        }
+        .intro-box {
+            background-color: #fff6ed;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 25px;
+            border: 3px solid #ad4400;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #ffffff;
+            border-radius: 6px;
+            overflow: hidden;
+            margin-bottom: 30px;
+            border: 1.5px solid #f4c430;
+        }
+        th {
+            background-color: #f4c430;
+            color: #510000;
+            text-align: left;
+            padding: 12px;
+            border-bottom: 2px solid #ad4400;
+        }
+        td {
+            padding: 10px 12px;
+            border-bottom: 1px solid #f4c430;
+        }
+        tr:nth-child(even) {
+            background-color: #fff6ed;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #ad4400;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <a href="index.html" class="back-link">← Tilbake til forsiden</a>
+
+    <div class="intro-box">
+        <h1>Kan du beskrive det? – Adjektiv og gradbøying</h1>
+        <p><strong>Når vi snakker om mat, drikke og sanseinntrykk, bruker vi spesifikke adjektiver. Les gjennom og noter ord som er nye for deg:</strong></p>
+    </div>
+
+    <!-- 1. Smak -->
+    <h3>1. Smak (hvordan det smaker på tunga)</h3>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 25%;">Adjektiv</th>
+                <th style="width: 35%;">Forklaring / Betydning</th>
+                <th style="width: 40%;">Eksempel i setning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong style="color: #ad4400;">Søt</strong></td>
+                <td>Smaker sukker eller honning</td>
+                <td>«Pistasjkrem er et <em>søtt</em> pålegg.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Sur / Syrlig</strong></td>
+                <td>Frisk eller skarp smak (som sitron)</td>
+                <td>«Appelsinmarmelade har en <em>syrlig</em> smak.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Salt</strong></td>
+                <td>Har mye salt i seg</td>
+                <td>«Guanciale gir carbonara en <em>salt</em> smak.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Bitter</strong></td>
+                <td>Skarp og mørk smak (som kaffe eller mørk sjokolade)</td>
+                <td>«Mørk sjokolade har en litt <em>bitter</em> smak.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Sterk / Krydret / Pikant</strong></td>
+                <td>Mye chili, pepper eller krydder</td>
+                <td>«Peperoncini er en chili som kan gi maten et ganske <em>sterkt</em> kick.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Mild</strong></td>
+                <td>Rolig og svakt krydret smak</td>
+                <td>«Barna foretrekker en <em>mild</em> ost.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Smaksrik / Rik</strong></td>
+                <td>Har mye, dypt og fyldig smaksuttrykk</td>
+                <td>«Ragù har en veldig <em>rik</em> og <em>smaksrik</em> aroma.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Fersk</strong></td>
+                <td>Nylaget, ubrukt eller usyrnet råvare</td>
+                <td>«Vi kjøpte <em>fersk</em> mozzarella til pizzaen.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Lagret / Vellagret</strong></td>
+                <td>Har modnet over tid for å få mer kraftig smak</td>
+                <td>«Pecorino er en <em>vellagret</em> og spiss ost.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Smakløs / Kjedelig</strong></td>
+                <td>Mangler smak, lite krydret</td>
+                <td>«Uten salt blir maten helt <em>smakløs</em>.»</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- 2. Lukt -->
+    <h3>2. Lukt (aromatiske inntrykk)</h3>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 25%;">Adjektiv</th>
+                <th style="width: 35%;">Forklaring / Betydning</th>
+                <th style="width: 40%;">Eksempel i setning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong style="color: #ad4400;">Fruktig</strong></td>
+                <td>Tydelig duft eller smak av frukt og bær</td>
+                <td>«Dette er en ung og <em>fruktig</em> rødvin.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Frisk</strong></td>
+                <td>Ren og god lukt/smak (f.eks. sitron eller ren luft)</td>
+                <td>«Cedrata har en <em>frisk</em> og søt smak.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Stram / Spiss / Skarp</strong></td>
+                <td>Veldig kraftig lukt/smak som merkes fort</td>
+                <td>«Taleggio har en veldig <em>stram</em> lukt.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Røkt</strong></td>
+                <td>Lukt av røyk eller røykeri</td>
+                <td>«Scamorza har en god, <em>røkt</em> aroma.»</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- 3. Konsistens -->
+    <h3>3. Konsistens / Tekstur (følelse i munnen)</h3>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 25%;">Adjektiv</th>
+                <th style="width: 35%;">Forklaring / Betydning</th>
+                <th style="width: 40%;">Eksempel i setning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong style="color: #ad4400;">Sprø</strong></td>
+                <td>Lager knaselyd når du tygger (hard og tørr)</td>
+                <td>«Crostini er <em>sprøe</em> skiver laget av brød.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Mør</strong></td>
+                <td>Veldig lett å tygge (spesielt om kjøtt)</td>
+                <td>«Kjøttet var så <em>mørt</em> at det smeltet på tungen.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Myk / Kremet / Smørbar</strong></td>
+                <td>Glatt, tykk og lett å svelge/smøre</td>
+                <td>«Stracciatella har en myk og <em>kremet</em> konsistens.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Tørr</strong></td>
+                <td>Mangler fuktighet, føles melete i munnen</td>
+                <td>«Focacciaen har stått ute for lenge og blitt <em>tørr</em>.»</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- 4. Matopplevelse -->
+    <h3>4. Matopplevelse, stemning og vurdering</h3>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 25%;">Adjektiv</th>
+                <th style="width: 35%;">Forklaring / Betydning</th>
+                <th style="width: 40%;">Eksempel i setning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong style="color: #ad4400;">Nydelig / Deilig / Herlig</strong></td>
+                <td>Smaker eller føles utrolig godt</td>
+                <td>«Dette var et helt <em>nydelig</em> måltid.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Koselig</strong></td>
+                <td>Hyggelig, behagelig og avslappende stemning</td>
+                <td>«Vi spiste på en liten og <em>koselig</em> restaurant.»</td>
+            </tr>
+            <tr>
+                <td><strong style="color: #ad4400;">Fantastisk / Utsøkt</strong></td>
+                <td>Av svært høy kvalitet, toppklasse</td>
+                <td>«Kjøkkensjefen serverte en <em>utsøkt</em> pastarett.»</td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>
+
+</body>
+</html>
