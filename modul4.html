@@ -5,104 +5,162 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Karl selger ost - Smakebit av norsk</title>
     <style>
+        :root {
+            --bg-color: #fff6ed;
+            --primary: #ad4400;
+            --primary-hover: #803200;
+            --accent-yellow: #ffc87c;
+            --accent-gold: #f4c430;
+            --text-dark: #510000;
+            --white: #ffffff;
+        }
+
         body {
-            font-family: Arial, sans-serif;
-            background-color: #fff6ed;
-            color: #510000;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-dark);
             margin: 0;
             padding: 20px;
             line-height: 1.6;
         }
+
         .container {
             max-width: 900px;
             margin: 0 auto;
-            background-color: #ffffff;
-            padding: 30px;
-            border-radius: 12px;
-            border: 3px solid #ad4400;
-            box-shadow: 0 4px 10px rgba(81, 0, 0, 0.1);
+            background-color: var(--white);
+            padding: 40px;
+            border-radius: 16px;
+            border: 3px solid var(--primary);
+            box-shadow: 0 6px 20px rgba(81, 0, 0, 0.08);
         }
-        h1, h2, h3, h4 {
-            color: #ad4400;
-        }
-        h1, h2 {
-            border-bottom: 2px solid #f4c430;
-            padding-bottom: 8px;
-        }
-        .intro-box, .step-box {
-            background-color: #fff6ed;
-            border-radius: 8px;
-            padding: 20px;
+
+        .back-link {
+            display: inline-block;
             margin-bottom: 25px;
-            border: 3px solid #ad4400;
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.2s;
         }
-        .prep-box {
-            background-color: #ffc87c;
-            border-left: 5px solid #ad4400;
-            padding: 15px 20px;
-            border-radius: 6px;
-            margin-bottom: 25px;
+
+        .back-link:hover {
+            color: var(--primary-hover);
+            text-decoration: underline;
         }
-        .video-container {
+
+        h1 {
+            color: var(--primary);
+            font-size: 2.2rem;
+            margin-top: 0;
+            border-bottom: 3px solid var(--accent-gold);
+            padding-bottom: 12px;
+        }
+
+        h2, h3 {
+            color: var(--primary);
+        }
+
+        /* Kort-elementer for moderne layout */
+        .card {
+            background-color: var(--bg-color);
+            border-radius: 10px;
+            padding: 25px;
+            margin-bottom: 30px;
+            border: 2px solid var(--accent-gold);
+        }
+
+        .card-accent {
+            background-color: var(--accent-yellow);
+            border-left: 6px solid var(--primary);
+            border-top: none;
+            border-right: none;
+            border-bottom: none;
+        }
+
+        /* Video-wrapper */
+        .video-wrapper {
             position: relative;
             padding-bottom: 56.25%;
             height: 0;
             overflow: hidden;
-            border-radius: 8px;
-            margin-bottom: 30px;
-            border: 2px solid #ad4400;
+            border-radius: 10px;
+            margin: 30px 0;
+            border: 2px solid var(--primary);
             background-color: #000;
         }
-        .video-container iframe, .video-container video {
+
+        .video-wrapper iframe, .video-wrapper video {
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
         }
+
+        /* Responsivt rutenett for scenarioer (bruker flex-wrap) */
+        .scenario-grid {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
         .scenario-card {
-            background-color: #ffffff;
-            border: 1.5px solid #f4c430;
-            border-radius: 6px;
-            padding: 15px;
-            margin-bottom: 15px;
-        }
-        textarea {
-            width: 100%;
-            height: 90px;
-            padding: 10px;
-            border: 1px solid #ad4400;
-            border-radius: 6px;
-            background-color: #ffffff;
-            color: #510000;
-            font-family: Arial, sans-serif;
-            box-sizing: border-box;
-            resize: vertical;
-            margin-top: 8px;
-        }
-        .submission-box {
-            background-color: #fff6ed;
-            border: 2px dashed #ad4400;
+            flex: 1 1 260px;
+            background-color: var(--white);
+            border: 2px solid var(--accent-gold);
             border-radius: 8px;
             padding: 20px;
-            text-align: center;
-            margin-top: 30px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.03);
         }
-        .back-link {
-            display: inline-block;
-            margin-bottom: 20px;
-            color: #ad4400;
-            text-decoration: none;
-            font-weight: bold;
+
+        .scenario-card h4 {
+            color: var(--primary);
+            margin-top: 0;
+            font-size: 1.1rem;
+            border-bottom: 1px solid var(--accent-gold);
+            padding-bottom: 8px;
         }
-        .back-link:hover {
-            text-decoration: underline;
+
+        /* Tekstfelt */
+        textarea {
+            width: 100%;
+            height: 120px;
+            padding: 12px;
+            border: 1.5px solid var(--primary);
+            border-radius: 8px;
+            background-color: var(--white);
+            color: var(--text-dark);
+            font-family: inherit;
+            font-size: 1rem;
+            box-sizing: border-box;
+            resize: vertical;
+            margin-top: 12px;
         }
-        ul, ol {
+
+        textarea:focus {
+            outline: none;
+            border-color: var(--primary-hover);
+            box-shadow: 0 0 0 3px rgba(173, 68, 0, 0.15);
+        }
+
+        /* Stil for trinn / lister */
+        ol, ul {
             padding-left: 20px;
         }
+
         li {
-            margin-bottom: 8px;
+            margin-bottom: 10px;
+        }
+
+        /* Innsendingsboks */
+        .submission-card {
+            background-color: var(--bg-color);
+            border: 2px dashed var(--primary);
+            border-radius: 10px;
+            padding: 30px;
+            text-align: center;
+            margin-top: 40px;
         }
     </style>
 </head>
@@ -113,69 +171,70 @@
 
     <h1>Karl selger ost</h1>
 
-    <div class="prep-box">
-        <h3 style="margin-top: 0; color: #510000;">Før du ser på videoen tenk over disse spørsmålene:</h3>
-        <ul style="color: #510000; margin-bottom: 0;">
-            <li>Hvordan kan man veilede kunden om et produkts opprinnelse, modning og smak?[cite: 6]</li>
-            <li>Hvilke attributter er viktig å legge vekt på?[cite: 6]</li>
-            <li>Hva gjør man når en kunde leter et produkt som ikke finnes i butikken?[cite: 6]</li>
+    <!-- Forberedelse -->
+    <div class="card card-accent">
+        <h3 style="margin-top: 0;">Før du ser på videoen</h3>
+        <p>Tenk gjennom følgende spørsmål:</p>
+        <ul>
+            <li>Hvordan kan man veilede kunden om et produkts opprinnelse, modning og smak?</li>
+            <li>Hvilke attributter er viktig å legge vekt på?</li>
+            <li>Hva gjør man når en kunde leter etter et produkt som ikke finnes i butikken?</li>
         </ul>
     </div>
 
-    <div class="step-box">
-        <h3 style="margin-top: 0;">Strukturen i pitchen</h3>
-        <p>Slik bygger Karl opp samtalen og salget trinn for trinn[cite: 6]:</p>
+    <!-- Struktur i pitchen -->
+    <div class="card">
+        <h3>Strukturen i salgspitchen</h3>
+        <p>Slik bygger Karl opp samtalen og salget trinn for trinn:</p>
         <ol>
-            <li><strong>Avklaring av behov og feilsøk</strong> (0:05 – 0:25)[cite: 6]</li>
-            <li><strong>Forslag til alternativ og faglig begrunnelse</strong> (0:25 – 1:05)[cite: 6]</li>
-            <li><strong>Muntlig smaksprøve og lavterskel-involvering</strong> (1:00 – 1:10)[cite: 6]</li>
-            <li><strong>Mer merverdi og mat-tips</strong> (2:45 – 3:05)[cite: 6]</li>
-            <li><strong>Prisargumentasjon og lukking av salget</strong> (3:15 – 3:42)[cite: 6]</li>
+            <li><strong>Avklaring av behov og feilsøk</strong> (0:05 – 0:25)</li>
+            <li><strong>Forslag til alternativ og faglig begrunnelse</strong> (0:25 – 1:05)</li>
+            <li><strong>Muntlig smaksprøve og lavterskel-involvering</strong> (1:00 – 1:10)</li>
+            <li><strong>Mer merverdi og mat-tips</strong> (2:45 – 3:05)</li>
+            <li><strong>Prisargumentasjon og lukking av salget</strong> (3:15 – 3:42)</li>
         </ol>
     </div>
 
-    <!-- Videospiller (Panopto iframe erstattes her ved behov) -->
-    <div class="video-container">
+    <!-- Video -->
+    <div class="video-wrapper">
         <iframe src="https://uio.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=325f4a46-ba47-423f-ae30-b4e900c2f0a7&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" title="Ostedisk og salgspitch" frameborder="0" allowfullscreen></iframe>
     </div>
 
-    <div class="step-box">
-        <h3 style="margin-top: 0;">Noter ned det du observerer:</h3>
+    <!-- Observasjoner -->
+    <div class="card">
+        <h3>Noter ned det du observerer:</h3>
         <ul>
-            <li>Hvilke adjektiver bruker Karl for å beskrive ostene?[cite: 6]</li>
-            <li>Hvorfor anbefaler han akkurat de produktene?[cite: 6]</li>
+            <li>Hvilke adjektiver bruker Karl for å beskrive ostene?</li>
+            <li>Hvorfor anbefaler han akkurat de produktene?</li>
         </ul>
-        <textarea placeholder="Skriv dine observasjoner her..."></textarea>
+        <textarea placeholder="Skriv dine observasjoner og notater her..."></textarea>
     </div>
 
-    <div class="intro-box">
-        <h2 style="margin-top: 0;">Oppgave: Lag din egen salgspitch</h2>
-        <p>Etter å ha sett hvordan Karl i videoen veileder kunden, er det nå din tur til å spille inn en salgspitch[cite: 6]!</p>
-    </div>
-
-    <div class="step-box">
-        <h3 style="margin-top: 0;">Trinn 1: Velg vare og scenario[cite: 6]</h3>
+    <!-- Scenarioer -->
+    <div class="card card-accent">
+        <h3 style="margin-top: 0;">Oppgave: Lag din egen salgspitch</h3>
+        <p>Etter å ha sett hvordan Karl veileder kunden, er det din tur til å spille inn en salgspitch! Velg ett av disse scenarioene:</p>
         
-        <div class="scenario-card">
-            <h4 style="margin: 0 0 5px 0;">Scenario A: Frescolio eller Olio Nuovo</h4>
-            <p style="margin: 0;">Det er olivenoljesesong! Gi kunden en smaksprøve og forklar hva forskjellene er på nyolje og andre typer olivenolje[cite: 6].</p>
-        </div>
-
-        <div class="scenario-card">
-            <h4 style="margin: 0 0 5px 0;">Scenario B: Capriccio di Capra</h4>
-            <p style="margin: 0;">En kunde leter etter en kuost, men du må kvitte deg med geitosten Capriccio di Capra. Hvordan kan du overtale kunden?[cite: 6]</p>
-        </div>
-
-        <div class="scenario-card">
-            <h4 style="margin: 0 0 5px 0;">Scenario C: Valgfritt produkt</h4>
-            <p style="margin: 0;">Velg et annet produkt som du har lyst til å selge. Bruk fantasien![cite: 6]</p>
+        <div class="scenario-grid">
+            <div class="scenario-card">
+                <h4>Scenario A</h4>
+                <p><strong>Frescolio / Olio Nuovo:</strong> Det er olivenoljesesong! Gi kunden en smaksprøve og forklar forskjellen på nyolje og andre typer.</p>
+            </div>
+            <div class="scenario-card">
+                <h4>Scenario B</h4>
+                <p><strong>Capriccio di Capra:</strong> En kunde leter etter kuost, men du må selge unna geitosten. Hvordan overtaler du kunden?</p>
+            </div>
+            <div class="scenario-card">
+                <h4>Scenario C</h4>
+                <p><strong>Valgfritt produkt:</strong> Velg en annen vare du har lyst til å selge. Bruk fantasi og fagterminologi!</p>
+            </div>
         </div>
     </div>
 
-    <div class="submission-box">
-        <h3>Klar til å levere?</h3>
-        <p>Spill inn lyd- eller videofilen din med salgspitchen og send den inn via skjemaet[cite: 6].</p>
-        <p><em>(Innsendingsskjema vil bli tilgjengelig her)</em></p>
+    <!-- Innsending -->
+    <div class="submission-card">
+        <h3 style="color: var(--primary); margin-top: 0;">Klar til å levere?</h3>
+        <p>Spill inn lyd- eller videofilen din med salgspitchen (1–2 minutter) og last den opp.</p>
     </div>
 
 </div>
