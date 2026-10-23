@@ -28,14 +28,17 @@ async function loadQuiz(file) {
                 "Uten tittel";
 
             html += `
-                <div style="
-                    border:1px solid #ccc;
-                    padding:15px;
-                    margin:10px 0;
-                ">
-                    <strong>${title}</strong>
-                </div>
-            `;
+              html += `
+<div class="question">
+
+<h3>${title}</h3>
+
+<p>
+Canvas-spørsmål lastet inn.
+</p>
+
+</div>
+`;
         }
 
         document
