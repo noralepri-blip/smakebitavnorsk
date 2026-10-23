@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Produkter fra Smak av Italia"
+title: "Beskriv produktene"
 parent: "Oppgave 2: Smaker det?"
 nav_order: 4
 ---
