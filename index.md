@@ -5,10 +5,16 @@ nav_order: 1
 has_children: false
 ---
 
-# Smakebit av Norsk
+# Smakebit av norsk
 *Velkommen til et moderne og fleksibelt nettkurs i norsk språk, matkultur og fagspråk.*
 
-Dette kurset er delt inn i Oppgaveer som tar for seg praktiske språksituasjoner, grammatikk, faguttrykk og lytteøvelser fra hverdagen og arbeidslivet.
+På denne reisen skal vi:
+
+Beskrive vår språkreise og utfordringer med å lære norsk
+Utvide det kulinariske ordforrådet vårt
+Utforske norske dialekter
+Prøve oss fram på å spille inn en egen salgspitch
+Reflektere over hva vi har lær
 
 ---
 
