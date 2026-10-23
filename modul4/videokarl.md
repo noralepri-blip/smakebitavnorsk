@@ -14,9 +14,9 @@ nav_order: 1
 
 ---
 
-## 🎬 Video: Ostedisk og salgspitch[cite: 33]
+## Video: Ostedisk og salgspitch[cite: 33]
 
-*(Her spilles videoen om ostedisk og salgspitch)*[cite: 33]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xLrqo2ee_Jg?si=fXYXc_ZTLltOwquR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
