@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Norske dialekter og talespråk"
-parent: "Modul 3"
+parent: "Oppgave 3: Hæ? Hva sa du nå?"
 nav_order: 2
 ---
 
