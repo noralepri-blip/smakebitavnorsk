@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Oppgave: Fyll inn riktig adjektiv"
-parent: "Modul 2"
+title: "Fyll inn riktig form"
+parent: "Oppgave 2: Smaker det?"
 nav_order: 3
 ---
 
