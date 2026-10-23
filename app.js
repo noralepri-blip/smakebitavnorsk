@@ -1,58 +1,18 @@
-async function loadQuiz(file) {
+for(let i = 0; i < items.length; i++){
 
-    try {
+    const title =
+        items[i].getAttribute("title") ||
+        "Uten tittel";
 
-        const response = await fetch(file);
+    html += `
+    <div class="question">
 
-        const xmlText = await response.text();
+        <h3>${title}</h3>
 
-        const parser = new DOMParser();
+        <p>
+        Canvas-spørsmål lastet inn.
+        </p>
 
-        const xml =
-            parser.parseFromString(
-                xmlText,
-                "text/xml"
-            );
-
-        const items =
-            xml.getElementsByTagName("item");
-
-        let html = "";
-
-        html += `<h2>Fant ${items.length} spørsmål</h2>`;
-
-        for(let i = 0; i < items.length; i++){
-
-            const title =
-                items[i].getAttribute("title") ||
-                "Uten tittel";
-
-            html += `
-              html += `
-<div class="question">
-
-<h3>${title}</h3>
-
-<p>
-Canvas-spørsmål lastet inn.
-</p>
-
-</div>
-`;
-        }
-
-        document
-            .getElementById("quiz")
-            .innerHTML = html;
-
-    }
-    catch(error){
-
-        document
-            .getElementById("quiz")
-            .innerHTML =
-            "<p>Feil: " + error + "</p>";
-
-        console.error(error);
-    }
+    </div>
+    `;
 }
