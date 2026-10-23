@@ -1,17 +1,43 @@
 title: "Smakebit av Norsk"
 description: "Et moderne nettkurs i norsk språk, matkultur og fagspråk"
 
+# Tema
 remote_theme: just-the-docs/just-the-docs
 
-# Slå på automatisk søkefelt
+# Aktiver søkefelt
 search_enabled: true
 
-# Aktiver at mapper og underfiler behandles som nav-hierarki
+# Fargeoppsett (valgfritt)
+color_scheme: light
+
+# Definer at mappelayoutene skal behandles som samlinger/moduler
+collections:
+  modul1:
+    output: true
+    permalink: /:collection/:path/
+  modul2:
+    output: true
+    permalink: /:collection/:path/
+  modul3:
+    output: true
+    permalink: /:collection/:path/
+  modul4:
+    output: true
+    permalink: /:collection/:path/
+  modul5:
+    output: true
+    permalink: /:collection/:path/
+
+# Tilpass navnene i sidemenyen for Just the Docs
 just_the_docs:
   collections:
+    modul1:
+      name: "Oppgave 1"
     modul2:
-      name: "Modul 2"
+      name: "Oppgave 2"
     modul3:
-      name: "Modul 3"
+      name: "Oppgave 3"
     modul4:
-      name: "Modul 4"
+      name: "Oppgave 4"
+    modul5:
+      name: "Oppgave 5"
