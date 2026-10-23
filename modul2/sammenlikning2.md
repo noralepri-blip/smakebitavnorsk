@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Oppgave: Sammenlikning 2"
-parent: "Modul 2"
+parent: "Oppgave 2: Smaker det?"
 nav_order: 7
 ---
 
