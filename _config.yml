@@ -4,31 +4,13 @@ description: "Et moderne nettkurs i norsk språk, matkultur og fagspråk"
 # Tema
 remote_theme: just-the-docs/just-the-docs
 
-# Søk
+# Søkefelt
 search_enabled: true
 
-# Sortering i sidemeny
+# Sorter sidemenyen strengt etter nav_order
 nav_sort: nav_order
 
-# Samlinger / Moduler
-collections:
-  modul1:
-    output: true
-    permalink: /:collection/:path/
-  modul2:
-    output: true
-    permalink: /:collection/:path/
-  modul3:
-    output: true
-    permalink: /:collection/:path/
-  modul4:
-    output: true
-    permalink: /:collection/:path/
-  modul5:
-    output: true
-    permalink: /:collection/:path/
-
-# Navn i menyen
+# Deaktiver automatisk listing av collections i bunnen av menyen
 just_the_docs:
   collections:
     modul1:
