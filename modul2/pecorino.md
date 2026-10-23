@@ -11,7 +11,8 @@ Gjør deg kjent med adjektiver fordelt på italienske produktkategorier og matva
 
 ---
 
-### 1. Pecorino Stagionato (Vellagret saueost)
+### 1. Pecorino Stagionato 
+<img src="{{ /assets/Pecorino - stagionato del fiorini.jpg | relative_url }}" alt="Beskrivelse av bildet" style="width: 100%; max-width: 600px; border-radius: 8px; border: 2px solid #ad4400; margin: 15px 0;">
 Hvordan kan man beskrive smaken og konsistensen på denne osten[cite: 6]?[cite: 1]
 
 *(Hvilke adjektiver for smak vil du bruke om en slik vellagret saueost, og hvordan vil du beskrive konsistensen[cite: 6]?)*[cite: 1]
