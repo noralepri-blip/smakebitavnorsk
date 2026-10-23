@@ -14,10 +14,10 @@ nav_order: 2
 Adjektivene hjelper oss med å beskrive farger, smaker, konsistenser og egenskaper ved maten og råvarene i butikken. 
 
 I denne modulen ser vi nærmere på klassiske råvarer som:
-* **Pecorino Stagionato**[cite: 1]
-* **Sugo alla Norma** og **Sugo all'arrabbiata**[cite: 1]
-* **Guanciale** og **'Nduja di Spilinga**[cite: 1]
-* **Mozzarella**[cite: 1]
+- **Pecorino Stagionato**[cite: 1]
+- **Sugo alla Norma** og **Sugo all'arrabbiata**[cite: 1]
+- **Guanciale** og **'Nduja di Spilinga**[cite: 1]
+- **Mozzarella**[cite: 1]
 
 ---
 
@@ -26,52 +26,48 @@ I denne modulen ser vi nærmere på klassiske råvarer som:
 Velg det substantivet som passer best til adjektivet:
 
 <div class="quiz-box" style="background: #fff6ed; border: 2px solid #ad4400; padding: 20px; border-radius: 8px; margin: 20px 0;">
-  <div style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <label style="min-width: 100px; font-weight: bold;">Rosa:</label>
-    <select id="match-1" style="padding: 6px;">
-      <option value="">-- Velg substantiv --</option>
-      <option value="gris">Gris</option>
-      <option value="ferrari">Ferrari</option>
-      <option value="mus">Mus</option>
-      <option value="kake">Kake</option>
-    </select>
-  </div>
-
-  <div style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <label style="min-width: 100px; font-weight: bold;">Rød:</label>
-    <select id="match-2" style="padding: 6px;">
-      <option value="">-- Velg substantiv --</option>
-      <option value="gris">Gris</option>
-      <option value="ferrari">Ferrari</option>
-      <option value="mus">Mus</option>
-      <option value="kake">Kake</option>
-    </select>
-  </div>
-
-  <div style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <label style="min-width: 100px; font-weight: bold;">Liten:</label>
-    <select id="match-3" style="padding: 6px;">
-      <option value="">-- Velg substantiv --</option>
-      <option value="gris">Gris</option>
-      <option value="ferrari">Ferrari</option>
-      <option value="mus">Mus</option>
-      <option value="kake">Kake</option>
-    </select>
-  </div>
-
-  <div style="margin-bottom: 15px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <label style="min-width: 100px; font-weight: bold;">Søt:</label>
-    <select id="match-4" style="padding: 6px;">
-      <option value="">-- Velg substantiv --</option>
-      <option value="gris">Gris</option>
-      <option value="ferrari">Ferrari</option>
-      <option value="mus">Mus</option>
-      <option value="kake">Kake</option>
-    </select>
-  </div>
-
-  <button onclick="checkMatching()" style="background: #ad4400; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-weight: bold;">Sjekk svar</button>
-  <div id="feedback-matching" style="margin-top: 10px; font-weight: bold;"></div>
+<div style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<label style="min-width: 100px; font-weight: bold;">Rosa:</label>
+<select id="match-1" style="padding: 6px;">
+<option value="">-- Velg substantiv --</option>
+<option value="gris">Gris</option>
+<option value="ferrari">Ferrari</option>
+<option value="mus">Mus</option>
+<option value="kake">Kake</option>
+</select>
+</div>
+<div style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<label style="min-width: 100px; font-weight: bold;">Rød:</label>
+<select id="match-2" style="padding: 6px;">
+<option value="">-- Velg substantiv --</option>
+<option value="gris">Gris</option>
+<option value="ferrari">Ferrari</option>
+<option value="mus">Mus</option>
+<option value="kake">Kake</option>
+</select>
+</div>
+<div style="margin-bottom: 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<label style="min-width: 100px; font-weight: bold;">Liten:</label>
+<select id="match-3" style="padding: 6px;">
+<option value="">-- Velg substantiv --</option>
+<option value="gris">Gris</option>
+<option value="ferrari">Ferrari</option>
+<option value="mus">Mus</option>
+<option value="kake">Kake</option>
+</select>
+</div>
+<div style="margin-bottom: 15px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<label style="min-width: 100px; font-weight: bold;">Søt:</label>
+<select id="match-4" style="padding: 6px;">
+<option value="">-- Velg substantiv --</option>
+<option value="gris">Gris</option>
+<option value="ferrari">Ferrari</option>
+<option value="mus">Mus</option>
+<option value="kake">Kake</option>
+</select>
+</div>
+<button onclick="checkMatching()" style="background: #ad4400; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-weight: bold;">Sjekk svar</button>
+<div id="feedback-matching" style="margin-top: 10px; font-weight: bold;"></div>
 </div>
 
 ---
@@ -81,16 +77,15 @@ Velg det substantivet som passer best til adjektivet:
 *Ordbank: italienske • koselig • varm • sprø • søt • sterk*
 
 <div class="quiz-box" style="background: #fff6ed; border: 2px solid #ad4400; padding: 20px; border-radius: 8px; margin: 20px 0;">
-  <p style="line-height: 2.2;">
-    Italia er kjent for sin <input type="text" id="blank-1" style="padding: 6px; width: 120px;"> mat. 
-    På en <input type="text" id="blank-2" style="padding: 6px; width: 110px;"> restaurant kan du spise pizza. 
-    Pizzaen er ofte <input type="text" id="blank-3" style="padding: 6px; width: 90px;"> og sprø. 
-    Til dessert spiser mange en <input type="text" id="blank-4" style="padding: 6px; width: 90px;"> iskrem, 
-    og kaffen er ofte god og <input type="text" id="blank-5" style="padding: 6px; width: 90px;">.
-  </p>
-
-  <button onclick="checkBlanks()" style="background: #ad4400; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-weight: bold;">Sjekk svar</button>
-  <div id="feedback-blanks" style="margin-top: 10px; font-weight: bold;"></div>
+<p style="line-height: 2.2;">
+Italia er kjent for sin <input type="text" id="blank-1" style="padding: 6px; width: 120px;"> mat. 
+På en <input type="text" id="blank-2" style="padding: 6px; width: 110px;"> restaurant kan du spise pizza. 
+Pizzaen er ofte <input type="text" id="blank-3" style="padding: 6px; width: 90px;"> og sprø. 
+Til dessert spiser mange en <input type="text" id="blank-4" style="padding: 6px; width: 90px;"> iskrem, 
+og kaffen er ofte god og <input type="text" id="blank-5" style="padding: 6px; width: 90px;">.
+</p>
+<button onclick="checkBlanks()" style="background: #ad4400; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-weight: bold;">Sjekk svar</button>
+<div id="feedback-blanks" style="margin-top: 10px; font-weight: bold;"></div>
 </div>
 
 <script>
