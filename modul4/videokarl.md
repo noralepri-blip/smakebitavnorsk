@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Karl selger ost: Video og observasjoner"
-parent: "Modul 4"
+title: "Oppgave 4: Karl selger ost"
+has_children: true
 nav_order: 1
 ---
 
 # Karl selger ost[cite: 33]
 
-## 💡 Før du ser på videoen, tenk over disse spørsmålene:[cite: 33]
+## Før du ser på videoen, tenk over disse spørsmålene:[cite: 33]
 * Hvordan kan man veilede kunden om et produkts opprinnelse, modning og smak[cite: 33]?
 * Hvilke attributter er viktig å legge vekt på[cite: 33]?
 * Hva gjør man dersom en kunde viser et produkt man ikke finner i butikken[cite: 33]?
