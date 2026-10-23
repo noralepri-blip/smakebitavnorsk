@@ -1,11 +1,20 @@
 title: "Smakebit av Norsk"
 description: "Et moderne nettkurs i norsk språk og kultur"
 
-# Velg et Jekyll-tema (f.eks. just-the-docs eller jekyll-theme-primer)
-theme: just-the-docs
+# Bruk Just the Docs som eksternt tema på GitHub Pages
+remote_theme: just-the-docs/just-the-docs
 
-# Innstillinger for navigeringsmenyen
-just_the_docs:
-  collections:
-    modul2:
-      name: "Modul 2"
+# Aktiver det innebygde søkefeltet på nettsiden
+search_enabled: true
+
+# Sette standard fargepalett (kan være 'light' eller 'dark')
+color_scheme: light
+
+# Hovedinnstillinger for menystruktur og lenker
+aux_links:
+  "GitHub Repository": "https://github.com/noralepri-blip/smakebitavnorsk"
+
+# Konfigurasjon for søkemotoren i temaet
+search:
+  heading_level: 2
+  rel_url: true
