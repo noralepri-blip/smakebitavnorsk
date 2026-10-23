@@ -5,16 +5,15 @@ nav_order: 1
 has_children: false
 ---
 
-# Smakebit av norsk
+#  Smakebit av norsk
 *Velkommen til et moderne og fleksibelt nettkurs i norsk språk, matkultur og fagspråk.*
 
 På denne reisen skal vi:
-
-Beskrive vår språkreise og utfordringer med å lære norsk
-Utvide det kulinariske ordforrådet vårt
-Utforske norske dialekter
-Prøve oss fram på å spille inn en egen salgspitch
-Reflektere over hva vi har lær
+*  Beskrive vår språkreise og utfordringene med å lære norsk.
+*  Utvide det kulinariske ordforrådet vårt for mat, smak og råvarer.
+*  Utforske norske dialekter, melodi og talespråk.
+*  Lære å bygge opp og spille inn en profesjonell salgspitch.
+*  Reflekter over egen læring og fremgang.
 
 ---
 
@@ -22,47 +21,49 @@ Reflektere over hva vi har lær
 
 <div style="display: flex; flex-direction: column; gap: 15px; margin: 25px 0;">
 
-  <!-- Modul 1 -->
+  <!-- Oppgave 1 -->
   <div style="background: #fff6ed; border: 2px solid #ad4400; border-radius: 8px; padding: 18px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
     <div>
       <h3 style="margin: 0 0 5px 0; color: #ad4400;">Oppgave 1: Introduksjon og grunnleggende norsk</h3>
       <p style="margin: 0; color: #555;">Start med de første grunnleggende begrepene og introduksjonen til kurset.</p>
     </div>
-<a href="modul1/index.html" style="background-color: #ad4400; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: bold; display: inline-block;">start oppgave 1 →</a>
+    <a href="modul1/index.html" style="background: #ad4400; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; white-space: nowrap;">Start oppgave 1 →</a>
   </div>
 
-  <!-- Modul 2 -->
+  <!-- Oppgave 2 -->
   <div style="background: #fff6ed; border: 2px solid #ad4400; border-radius: 8px; padding: 18px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
     <div>
       <h3 style="margin: 0 0 5px 0; color: #ad4400;">Oppgave 2: Smaker det?</h3>
       <p style="margin: 0; color: #555;">Lær om adjektiver, gradbøying, sanseinntrykk og italienske spesialiteter.</p>
     </div>
-    <a href="modul2/ordforrad.html" style="background: #ad4400; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; white-space: nowrap;">start oppgave 2 →</a>
+    <a href="modul2/ordforrad.html" style="background: #ad4400; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; white-space: nowrap;">Start oppgave 2 →</a>
   </div>
 
-  <!-- Modul 3 -->
+  <!-- Oppgave 3 -->
   <div style="background: #fff6ed; border: 2px solid #ad4400; border-radius: 8px; padding: 18px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
     <div>
       <h3 style="margin: 0 0 5px 0; color: #ad4400;">Oppgave 3: Hæ? Hva sa du nå?</h3>
       <p style="margin: 0; color: #555;">Lær om sammensatte verb, partikkelverb, dialekter og uttrykk fra arbeidslivet.</p>
     </div>
-    <a href="oppgave3/partiellverb.html" style="background: #ad4400; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; white-space: nowrap;">start oppgave 3 →</a>
+    <a href="modul3/partiellverb.html" style="background: #ad4400; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; white-space: nowrap;">Start oppgave 3 →</a>
   </div>
 
-  <!-- Modul 4 -->
+  <!-- Oppgave 4 -->
   <div style="background: #fff6ed; border: 2px solid #ad4400; border-radius: 8px; padding: 18px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
     <div>
       <h3 style="margin: 0 0 5px 0; color: #ad4400;">Oppgave 4: Karl selger ost</h3>
       <p style="margin: 0; color: #555;">Se video, lær oppbyggingen av en salgspitch og lag din egen pitch.</p>
     </div>
-    <a href="modul4/refleksjonssporsmal.html" style="background: #ad4400; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; white-space: nowrap;">start oppgave 4 →</a>
+    <a href="modul4/refleksjonssporsmal.html" style="background: #ad4400; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; white-space: nowrap;">Start oppgave 4 →</a>
   </div>
 
-  <!-- Modul 5 -->
-  <div style="margin: 20px 0; padding: 20px; background-color: #fff6ed; border: 2px solid #ad4400; border-radius: 6px;">
-  <h3 style="margin-top: 0; color: #ad4400;">Oppgave 5: Refleksjon og evaluering</h3>
-  <p>Egenevaluering av egen læring og tilbakemelding på kurset.</p>
-  <p><a href="modul5/refleksjon.html" style="background-color: #ad4400; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: bold; display: inline-block;">Start oppgave 5 →</a></p>
-</div>
+  <!-- Oppgave 5 -->
+  <div style="background: #fff6ed; border: 2px solid #ad4400; border-radius: 8px; padding: 18px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+    <div>
+      <h3 style="margin: 0 0 5px 0; color: #ad4400;">Oppgave 5: Refleksjon og evaluering</h3>
+      <p style="margin: 0; color: #555;">Egenevaluering av egen læring og tilbakemelding på kurset.</p>
+    </div>
+    <a href="modul5/refleksjon.html" style="background: #ad4400; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold; white-space: nowrap;">Start oppgave 5 →</a>
+  </div>
 
 </div>
