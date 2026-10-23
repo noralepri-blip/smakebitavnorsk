@@ -22,8 +22,10 @@
             border: 3px solid #ad4400;
             box-shadow: 0 4px 10px rgba(81, 0, 0, 0.1);
         }
-        h1, h2, h3 {
+        h1, h2, h3, h4 {
             color: #ad4400;
+        }
+        h1, h2 {
             border-bottom: 2px solid #f4c430;
             padding-bottom: 8px;
         }
@@ -34,28 +36,60 @@
             margin-bottom: 25px;
             border: 3px solid #ad4400;
         }
-        table {
-            width: 100%;
-            border-collapse: collapse;
+        .quiz-card {
             background-color: #ffffff;
-            border-radius: 6px;
-            overflow: hidden;
-            margin-bottom: 30px;
-            border: 1.5px solid #f4c430;
+            border: 2px solid #f4c430;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 25px;
         }
-        th {
-            background-color: #f4c430;
-            color: #510000;
-            text-align: left;
-            padding: 12px;
-            border-bottom: 2px solid #ad4400;
+        .match-row, .blank-row {
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
         }
-        td {
-            padding: 10px 12px;
-            border-bottom: 1px solid #f4c430;
-        }
-        tr:nth-child(even) {
+        select, input[type="text"] {
+            padding: 8px;
+            border: 1.5px solid #ad4400;
+            border-radius: 4px;
             background-color: #fff6ed;
+            color: #510000;
+            font-size: 1rem;
+        }
+        .btn-check {
+            background-color: #ad4400;
+            color: #fff6ed;
+            border: none;
+            padding: 10px 18px;
+            font-weight: bold;
+            border-radius: 6px;
+            cursor: pointer;
+            margin-top: 15px;
+            transition: background 0.2s;
+        }
+        .btn-check:hover {
+            background-color: #803200;
+        }
+        .feedback {
+            margin-top: 12px;
+            font-weight: bold;
+            padding: 10px;
+            border-radius: 6px;
+            display: none;
+        }
+        .feedback.correct {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+            display: block;
+        }
+        .feedback.incorrect {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+            display: block;
         }
         .back-link {
             display: inline-block;
@@ -67,6 +101,25 @@
         .back-link:hover {
             text-decoration: underline;
         }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            border: 1.5px solid #f4c430;
+        }
+        th {
+            background-color: #f4c430;
+            color: #510000;
+            padding: 10px;
+            text-align: left;
+        }
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #f4c430;
+        }
+        tr:nth-child(even) {
+            background-color: #fff6ed;
+        }
     </style>
 </head>
 <body>
@@ -74,173 +127,154 @@
 <div class="container">
     <a href="index.html" class="back-link">← Tilbake til forsiden</a>
 
-    <div class="intro-box">
-        <h1>Kan du beskrive det? – Adjektiv og gradbøying</h1>
-        <p><strong>Når vi snakker om mat, drikke og sanseinntrykk, bruker vi spesifikke adjektiver. Les gjennom og noter ord som er nye for deg:</strong></p>
+    <h1>Modul 2: Kan du beskrive det?</h1>
+    <p>Adjektiver, gradbøying og ordforråd for mat og sanseinntrykk.</p>
+
+    <!-- Quiz 1: Koble adjektiv og substantiv -->
+    <div class="quiz-card">
+        <h3>Oppgave 1: Koble adjektiv og substantiv</h3>
+        <p>Velg det substantivet som passer best til adjektivet:</p>
+
+        <div class="match-row">
+            <label style="width: 100px;"><strong>Rosa:</strong></label>
+            <select id="match-1">
+                <option value="">-- Velg substantiv --</option>
+                <option value="gris">Gris</option>
+                <option value="ferrari">Ferrari</option>
+                <option value="mus">Mus</option>
+                <option value="kake">Kake</option>
+            </select>
+        </div>
+
+        <div class="match-row">
+            <label style="width: 100px;"><strong>Rød:</strong></label>
+            <select id="match-2">
+                <option value="">-- Velg substantiv --</option>
+                <option value="gris">Gris</option>
+                <option value="ferrari">Ferrari</option>
+                <option value="mus">Mus</option>
+                <option value="kake">Kake</option>
+            </select>
+        </div>
+
+        <div class="match-row">
+            <label style="width: 100px;"><strong>Liten:</strong></label>
+            <select id="match-3">
+                <option value="">-- Velg substantiv --</option>
+                <option value="gris">Gris</option>
+                <option value="ferrari">Ferrari</option>
+                <option value="mus">Mus</option>
+                <option value="kake">Kake</option>
+            </select>
+        </div>
+
+        <div class="match-row">
+            <label style="width: 100px;"><strong>Søt:</strong></label>
+            <select id="match-4">
+                <option value="">-- Velg substantiv --</option>
+                <option value="gris">Gris</option>
+                <option value="ferrari">Ferrari</option>
+                <option value="mus">Mus</option>
+                <option value="kake">Kake</option>
+            </select>
+        </div>
+
+        <button class="btn-check" onclick="checkMatching()">Sjekk svar</button>
+        <div id="feedback-matching" class="feedback"></div>
     </div>
 
-    <!-- 1. Smak -->
-    <h3>1. Smak (hvordan det smaker på tunga)</h3>
-    <table>
-        <thead>
-            <tr>
-                <th style="width: 25%;">Adjektiv</th>
-                <th style="width: 35%;">Forklaring / Betydning</th>
-                <th style="width: 40%;">Eksempel i setning</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><strong style="color: #ad4400;">Søt</strong></td>
-                <td>Smaker sukker eller honning</td>
-                <td>«Pistasjkrem er et <em>søtt</em> pålegg.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Sur / Syrlig</strong></td>
-                <td>Frisk eller skarp smak (som sitron)</td>
-                <td>«Appelsinmarmelade har en <em>syrlig</em> smak.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Salt</strong></td>
-                <td>Har mye salt i seg</td>
-                <td>«Guanciale gir carbonara en <em>salt</em> smak.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Bitter</strong></td>
-                <td>Skarp og mørk smak (som kaffe eller mørk sjokolade)</td>
-                <td>«Mørk sjokolade har en litt <em>bitter</em> smak.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Sterk / Krydret / Pikant</strong></td>
-                <td>Mye chili, pepper eller krydder</td>
-                <td>«Peperoncini er en chili som kan gi maten et ganske <em>sterkt</em> kick.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Mild</strong></td>
-                <td>Rolig og svakt krydret smak</td>
-                <td>«Barna foretrekker en <em>mild</em> ost.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Smaksrik / Rik</strong></td>
-                <td>Har mye, dypt og fyldig smaksuttrykk</td>
-                <td>«Ragù har en veldig <em>rik</em> og <em>smaksrik</em> aroma.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Fersk</strong></td>
-                <td>Nylaget, ubrukt eller usyrnet råvare</td>
-                <td>«Vi kjøpte <em>fersk</em> mozzarella til pizzaen.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Lagret / Vellagret</strong></td>
-                <td>Har modnet over tid for å få mer kraftig smak</td>
-                <td>«Pecorino er en <em>vellagret</em> og spiss ost.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Smakløs / Kjedelig</strong></td>
-                <td>Mangler smak, lite krydret</td>
-                <td>«Uten salt blir maten helt <em>smakløs</em>.»</td>
-            </tr>
-        </tbody>
-    </table>
+    <!-- Quiz 2: Fyll inn i teksten -->
+    <div class="quiz-card">
+        <h3>Oppgave 2: Fyll inn riktig adjektiv i teksten</h3>
+        <p><em>Ordbank: italienske • koselig • varm • sprø • søt • sterk</em></p>
+        
+        <p style="line-height: 2;">
+            Italia er kjent for sin <input type="text" id="blank-1" style="width: 110px;"> mat. 
+            På en <input type="text" id="blank-2" style="width: 100px;"> restaurant kan du spise pizza. 
+            Pizzaen er ofte <input type="text" id="blank-3" style="width: 80px;"> og sprø. 
+            Til dessert spiser mange en <input type="text" id="blank-4" style="width: 80px;"> iskrem, 
+            og kaffen er ofte god og <input type="text" id="blank-5" style="width: 80px;">.
+        </p>
 
-    <!-- 2. Lukt -->
-    <h3>2. Lukt (aromatiske inntrykk)</h3>
-    <table>
-        <thead>
-            <tr>
-                <th style="width: 25%;">Adjektiv</th>
-                <th style="width: 35%;">Forklaring / Betydning</th>
-                <th style="width: 40%;">Eksempel i setning</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><strong style="color: #ad4400;">Fruktig</strong></td>
-                <td>Tydelig duft eller smak av frukt og bær</td>
-                <td>«Dette er en ung og <em>fruktig</em> rødvin.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Frisk</strong></td>
-                <td>Ren og god lukt/smak (f.eks. sitron eller ren luft)</td>
-                <td>«Cedrata har en <em>frisk</em> og søt smak.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Stram / Spiss / Skarp</strong></td>
-                <td>Veldig kraftig lukt/smak som merkes fort</td>
-                <td>«Taleggio har en veldig <em>stram</em> lukt.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Røkt</strong></td>
-                <td>Lukt av røyk eller røykeri</td>
-                <td>«Scamorza har en god, <em>røkt</em> aroma.»</td>
-            </tr>
-        </tbody>
-    </table>
+        <button class="btn-check" onclick="checkBlanks()">Sjekk svar</button>
+        <div id="feedback-blanks" class="feedback"></div>
+    </div>
 
-    <!-- 3. Konsistens -->
-    <h3>3. Konsistens / Tekstur (følelse i munnen)</h3>
-    <table>
-        <thead>
-            <tr>
-                <th style="width: 25%;">Adjektiv</th>
-                <th style="width: 35%;">Forklaring / Betydning</th>
-                <th style="width: 40%;">Eksempel i setning</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><strong style="color: #ad4400;">Sprø</strong></td>
-                <td>Lager knaselyd når du tygger (hard og tørr)</td>
-                <td>«Crostini er <em>sprøe</em> skiver laget av brød.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Mør</strong></td>
-                <td>Veldig lett å tygge (spesielt om kjøtt)</td>
-                <td>«Kjøttet var så <em>mørt</em> at det smeltet på tungen.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Myk / Kremet / Smørbar</strong></td>
-                <td>Glatt, tykk og lett å svelge/smøre</td>
-                <td>«Stracciatella har en myk og <em>kremet</em> konsistens.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Tørr</strong></td>
-                <td>Mangler fuktighet, føles melete i munnen</td>
-                <td>«Focacciaen har stått ute for lenge og blitt <em>tørr</em>.»</td>
-            </tr>
-        </tbody>
-    </table>
+    <!-- Quiz 3: Flervalg Pecorino -->
+    <div class="quiz-card">
+        <h3>Oppgave 3: Pecorino Stagionato (Vellagret saueost)</h3>
+        <p>Hvilke adjektiver beskriver denne vellagrede osten best? (Velg alle som passer):</p>
+        
+        <label style="display: block; margin-bottom: 6px;">
+            <input type="checkbox" id="check-1" value="skarp"> Skarp
+        </label>
+        <label style="display: block; margin-bottom: 6px;">
+            <input type="checkbox" id="check-2" value="mild"> Mild
+        </label>
+        <label style="display: block; margin-bottom: 6px;">
+            <input type="checkbox" id="check-3" value="vellagret"> Vellagret
+        </label>
+        <label style="display: block; margin-bottom: 6px;">
+            <input type="checkbox" id="check-4" value="hard"> Hard
+        </label>
 
-    <!-- 4. Matopplevelse -->
-    <h3>4. Matopplevelse, stemning og vurdering</h3>
-    <table>
-        <thead>
-            <tr>
-                <th style="width: 25%;">Adjektiv</th>
-                <th style="width: 35%;">Forklaring / Betydning</th>
-                <th style="width: 40%;">Eksempel i setning</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><strong style="color: #ad4400;">Nydelig / Deilig / Herlig</strong></td>
-                <td>Smaker eller føles utrolig godt</td>
-                <td>«Dette var et helt <em>nydelig</em> måltid.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Koselig</strong></td>
-                <td>Hyggelig, behagelig og avslappende stemning</td>
-                <td>«Vi spiste på en liten og <em>koselig</em> restaurant.»</td>
-            </tr>
-            <tr>
-                <td><strong style="color: #ad4400;">Fantastisk / Utsøkt</strong></td>
-                <td>Av svært høy kvalitet, toppklasse</td>
-                <td>«Kjøkkensjefen serverte en <em>utsøkt</em> pastarett.»</td>
-            </tr>
-        </tbody>
-    </table>
+        <button class="btn-check" onclick="checkMultipleChoice()">Sjekk svar</button>
+        <div id="feedback-mc" class="feedback"></div>
+    </div>
 
 </div>
+
+<!-- JavaScript for å sjekke svar -->
+<script>
+    function checkMatching() {
+        const m1 = document.getElementById('match-1').value;
+        const m2 = document.getElementById('match-2').value;
+        const m3 = document.getElementById('match-3').value;
+        const m4 = document.getElementById('match-4').value;
+        const fb = document.getElementById('feedback-matching');
+
+        if (m1 === 'gris' && m2 === 'ferrari' && m3 === 'mus' && m4 === 'kake') {
+            fb.textContent = "Helt riktig! Flott jobbet 🎉";
+            fb.className = "feedback correct";
+        } else {
+            fb.textContent = "Noen av koblingene var ikke helt riktige. Prøv igjen!";
+            fb.className = "feedback incorrect";
+        }
+    }
+
+    function checkBlanks() {
+        const b1 = document.getElementById('blank-1').value.trim().toLowerCase();
+        const b2 = document.getElementById('blank-2').value.trim().toLowerCase();
+        const b3 = document.getElementById('blank-3').value.trim().toLowerCase();
+        const b4 = document.getElementById('blank-4').value.trim().toLowerCase();
+        const b5 = document.getElementById('blank-5').value.trim().toLowerCase();
+        const fb = document.getElementById('feedback-blanks');
+
+        if (b1 === 'italienske' && b2 === 'koselig' && b3 === 'varm' && b4 === 'søt' && b5 === 'sterk') {
+            fb.textContent = "Utmerket! Alt var helt korrekt plassert 🌟";
+            fb.className = "feedback correct";
+        } else {
+            fb.textContent = "Sjekk skrivemåten eller rekkefølgen på ordene og prøv en gang til.";
+            fb.className = "feedback incorrect";
+        }
+    }
+
+    function checkMultipleChoice() {
+        const c1 = document.getElementById('check-1').checked;
+        const c2 = document.getElementById('check-2').checked;
+        const c3 = document.getElementById('check-3').checked;
+        const c4 = document.getElementById('check-4').checked;
+        const fb = document.getElementById('feedback-mc');
+
+        if (c1 && !c2 && c3 && c4) {
+            fb.textContent = "Riktig! Pecorino Stagionato er skarp, vellagret og hard 👍";
+            fb.className = "feedback correct";
+        } else {
+            fb.textContent = "Ikke helt. Husk at vellagret saueost som regel er hard, skarp og vellagret (ikke mild).";
+            fb.className = "feedback incorrect";
+        }
+    }
+</script>
 
 </body>
 </html>
