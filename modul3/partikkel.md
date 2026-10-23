@@ -1,82 +1,61 @@
 ---
 layout: default
-title: "Modul 3: Hæ? Hva sa du nå?"
-nav_order: 3
+title: "Grammatikk: Sammensatte verb"
+parent: "Modul 3"
+nav_order: 1
 ---
 
-# Modul 3: Hæ? Hva sa du nå?
-*Lytteoppgaver, sammensatte verb og norske dialekter.*
+# Grammatikk: Sammensatte verb (Partikkelverb)
 
----
-
-## 📚 Grammatikk: Sammensatte verb (Partikkelverb)
-
-Sammensatte verb består ofte av et **verb + adverb** eller **verb + preposisjon**. Partikkelen endrer ofte hele betydningen av verbet!
-
-### Høyfrekvente partikkelverb
-
-| Verb + partikkel | Betydning | Eksempel i setning |
-| :--- | :--- | :--- |
-| **holde av** | reservere | *«Kan du holde av en gaveboks til meg?»* |
-| **holde på med** | være opptatt med, drive med | *«Hva holder du på med?»* |
-| **holde ut** | tåle, takle | *«Jeg vet ikke om jeg holder ut!»* |
-| **komme på** | få en idé, huske | *«Ida kom på en kjempeidé i går!»* |
-| **gå ut fra** | anta, regne med | *«Jeg går ut fra at alle har levert.»* |
+* Sammensatte verb består ofte av **verb + adverb** eller **verb + preposisjon**[cite: 24]. Disse kalles også *partikkelverb*[cite: 24].
+* Partiklene endrer ofte hele betydningen av verbet[cite: 24].
+* De sammensatte verbene bøyes på samme måte som det usammensatte verbet (f.eks. *ta – tok* blir til *inta – inntok*)[cite: 24].
 
 ---
 
-## 🧩 Oppgave 1: Match partikkelverbet
+## Høyfrekvente partikkelverb med verbet «å holde»[cite: 24]
 
-Velg riktig betydning for hvert uttrykk:
-
-<div class="quiz-box" style="background: #fff6ed; border: 2px solid #ad4400; padding: 20px; border-radius: 8px; margin: 20px 0;">
-  <div style="margin-bottom: 12px;">
-    <strong>Holde av:</strong> 
-    <select id="pv-1" style="padding: 6px; margin-left: 10px;">
-      <option value="">-- Velg betydning --</option>
-      <option value="reservere">Reservere</option>
-      <option value="slutte">Slutte / gi seg</option>
-    </select>
-  </div>
-  
-  <div style="margin-bottom: 12px;">
-    <strong>Holde opp:</strong> 
-    <select id="pv-2" style="padding: 6px; margin-left: 10px;">
-      <option value="">-- Velg betydning --</option>
-      <option value="reservere">Reservere</option>
-      <option value="slutte">Slutte / gi seg</option>
-    </select>
-  </div>
-
-  <button onclick="checkVerbs()" style="background: #ad4400; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-weight: bold;">Sjekk svar</button>
-  <div id="feedback-pv" style="margin-top: 10px; font-weight: bold;"></div>
-</div>
+| Verb + partikkel | Betydning | Italiensk | Eksempel i setning |
+| :--- | :--- | :--- | :--- |
+| **holde av** | reservere | prenotare, mettere da parte | *«Kan du holde av en gaveboks til meg?»* |
+| **holde på med** | være opptatt med, drive med | combinare | *«Hva holder du på med?» / «Che combini?»* |
+| **holde ut** | tåle, takle | resistere, sopportare | *«Det blir en vanskelig måned på jobb. Jeg vet ikke om jeg holder ut!»* |
+| **holde opp** | slutte, gi seg | smettere | *«Hun må holde opp med den klaginga, jeg orker ikke å høre på lenger.»* |
 
 ---
 
-## 🗣️ Norske dialekter og talespråk
+## Høyfrekvente partikkelverb med verbet «å komme»[cite: 24]
 
-> **Visste du at?**  
-> I Norge har vi ikke et offisielt standardtalespråk. Vi bruker dialekt i de fleste sammenhenger – både på jobb, i media og i hverdagen!
-
-### De 5 viktigste målmerkene:
-1. **Tonefall** (melodi i språket)
-2. **Trykk** i ord
-3. **«Tjukk L»** (retrofleks L)
-4. **Andre retroflekser** (som *rt*, *nd*, *sl*)
-5. **Infinitivsending** (*-e*, *-a* eller kløyvd infinitiv)
-
-I denne modulen lytter vi til eventyret *«Nordavinden og sola»* fra **Bjugn**, **Stange**, **Bryne** og **Senja**.
+| Verb + partikkel | Betydning | Italiensk | Eksempel i setning |
+| :--- | :--- | :--- | :--- |
+| **komme på** | få en tanke / idé, huske | rammentare | *«Ida kom på en kjempeidé til en salgskampanje i går!»* |
+| **komme an på** | være avhengig av, spørs | dipendere | *«Vi får kanskje inn ny olivenolje i morgen, men det kommer an på om logistikk får hentet leveransen.»* |
+| **komme fram** | bli kjent / avslørt, oppstå | riuscire, rivelare | *«Det har kommet fram at de ansatte er misfornøyde med hvordan ledelsen håndterer konflikter.»* |
 
 ---
 
-## 🎧 Lytteoppgave: Nora og Tinka
+## Høyfrekvente partikkelverb med verbet «å gå»[cite: 24]
 
-Les gjennom eller lytt til samtalen i pausen:
+| Verb + partikkel | Betydning | Italiensk | Eksempel i setning |
+| :--- | :--- | :--- | :--- |
+| **gå ut fra** | anta, regne med | assumere | *«Jeg går ut fra at alle har levert oppgaven sin innen fristen.»* |
+| **gå bort** | dø (mild uttrykksmåte) | mancare (morire) | *«Det var trist å høre at bestemoren hennes gikk bort i helgen.»* |
+| **gå over** | ta slutt, forsvinne (f.eks. smerte) | passare | *«Ta en smertestillende, så går hodepinen sikkert over snart.»* |
 
-```text
-Nora:  Kors'n e det med deg? Ka du driv med?
-Tinka: Hei Nora! Jo, bare bra! Det er mye skolearbeid for tia da. Hva med deg?
-Nora:  Neida, det går sånn passe. Mange balla i lufta med skole og jobb og greier.
-Tinka: Ja stemmer. Hadde trøbbel med ene printeren på jobb i går. Det var skikkelig irriterendes...
-Nora:  Æsj! Gje deg! Ka det va som måtte tell for å få den fiksa?
+---
+
+## Løst og fast sammensatte verb[cite: 24, 25]
+
+I verbene over er verb og partikkel to frittstående ord. Vi kaller slike verb **løst sammensatte verb**[cite: 24, 25].  
+I **fast sammensatte verb** skrives de to delene sammen til ett ord[cite: 24, 25]:
+
+| Løst | Fast | Betydning | Italiensk | Eksempel i setning |
+| :--- | :--- | :--- | :--- | :--- |
+| **gå gjennom** | gjennomgå | lese gjennom, oppleve/erfare | rivedere, esaminare | *«Vi må gå gjennom rapporten før møtet.» / «Bedriften har gjennomgått store endringer.»* |
+| **gå ut** | utgå | utløpe på dato, avsluttes | scadere | *«Mozzarellane har gått ut på dato, vi må kaste dem.» / «Dette produktet er utgått.»* |
+| **si opp** | oppsi | slutte i jobben, avslutte avtale | licenziare | *«Rossana har sagt opp stillingen sin...» / «Kontrakten er oppsagt.»* |
+| **ta inn** | innta | ta imot, importere / bestille | importare, prendere | *«Vi har tatt inn flere nye oster fra Toscana...» / «Bedriften har inntatt flere nye medarbeidere...»* |
+
+---
+
+[Neste: Norske dialekter og talespråk →](dialekter.md)
