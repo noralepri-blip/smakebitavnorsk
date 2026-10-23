@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Oppgave: Italienske spesialiteter"
-parent: "Modul 2"
-nav_order: 4
+title: "Fyll inn riktig form"
+parent: "Oppgave 2: Smaker det?"
+nav_order: 3
 ---
 
 # Oppgave: Italienske spesialiteter
