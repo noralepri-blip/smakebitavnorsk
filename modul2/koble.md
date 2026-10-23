@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Oppgave: Koble adjektiv og substantiv"
-parent: "Modul 2"
+title: "Koble adjektiv og substantiv"
+parent: "Oppgave 2: Smaker det?"
 nav_order: 2
 ---
-
 # Oppgave: Koble adjektiv og substantiv
 
 Koble sammen hvert adjektiv med et passende substantiv slik at det danner en naturlig og god beskrivelse[cite: 4].
