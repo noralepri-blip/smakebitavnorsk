@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Strukturen i salgspitchen"
-parent: "Modul 4"
+parent: "Oppgave 4: Karl selger ost"
 nav_order: 2
 ---
 
