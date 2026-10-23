@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Rollespill og anbefaling"
-parent: "Modul 2"
-nav_order: 7
+parent: "Oppgave 2: Smaker det?"
+nav_order: 8
 ---
 
 # Rollespill eller skriv en anbefaling
