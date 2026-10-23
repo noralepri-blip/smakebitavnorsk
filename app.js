@@ -1,39 +1,53 @@
 async function loadQuiz(file) {
 
-    const response = await fetch(file);
+    try {
 
-    const xmlText = await response.text();
+        const response = await fetch(file);
 
-    const parser = new DOMParser();
+        const xmlText = await response.text();
 
-    const xml = parser.parseFromString(
-        xmlText,
-        "text/xml"
-    );
+        const parser = new DOMParser();
 
-    const items =
-        xml.getElementsByTagName("item");
+        const xml = parser.parseFromString(
+            xmlText,
+            "text/xml"
+        );
 
-    let html = "";
+        const items =
+            xml.getElementsByTagName("item");
 
-    html += `<h2>Fant ${items.length} spørsmål</h2>`;
+        let html = "";
 
-    for(let i = 0; i < items.length; i++){
+        html += `<h2>Fant ${items.length} spørsmål</h2>`;
 
-        const title =
-            items[i].getAttribute("title");
+        for(let i = 0; i < items.length; i++){
 
-        html += `
-            <div style="
-                border:1px solid #ccc;
-                padding:15px;
-                margin:10px 0;
-            ">
-                <strong>${title}</strong>
-            </div>
-        `;
+            const title =
+                items[i].getAttribute("title");
+
+            html += `
+                <div style="
+                    border:1px solid #ccc;
+                    padding:15px;
+                    margin:10px 0;
+                    border-radius:8px;
+                ">
+                    <strong>${title}</strong>
+                </div>
+            `;
+        }
+
+        document.getElementById("quiz")
+            .innerHTML = html;
+
     }
+    catch(error){
 
-    document.getElementById("quiz")
-        .innerHTML = html;
+        console.error(error);
+
+        document.getElementById("quiz")
+            .innerHTML =
+            "<p>Kunne ikke lese XML-filen.</p>";
+
+    }
 }
