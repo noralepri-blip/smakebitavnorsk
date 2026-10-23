@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Forside"
+title: "Oppgave 2: Smaker det?"
+has_children: true
 nav_order: 1
-has_children: false
 ---
 
 # Smakebit av Norsk
