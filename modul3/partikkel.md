@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Grammatikk: Sammensatte verb"
-parent: "Modul 3"
+title: "Oppgave 3: Hæ? Hva sa du nå?"
+has_children: true
 nav_order: 1
 ---
 
