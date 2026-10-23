@@ -1,25 +1,33 @@
-async function loadQuiz(file) {
+for(let i = 0; i < items.length; i++){
 
-    alert("Prøver å laste: " + file);
+    const title =
+        items[i].getAttribute("title");
 
-    try {
+    const mattext =
+        items[i]
+        .getElementsByTagName("mattext");
 
-        const response = await fetch(file);
+    let text = "";
 
-        alert("Status: " + response.status);
+    if(mattext.length > 0){
 
-        const xmlText = await response.text();
-
-        alert("Fil lest!");
-
-        document.getElementById("quiz").innerHTML =
-            "<pre>" + xmlText.substring(0,500) + "</pre>";
-
+        text =
+            mattext[0]
+            .textContent
+            .substring(0,500);
     }
-    catch(error){
 
-        alert("FEIL: " + error);
+    html += `
+        <div style="
+            border:1px solid #ccc;
+            padding:15px;
+            margin:10px 0;
+            border-radius:8px;
+        ">
+            <h3>${title}</h3>
 
-        console.error(error);
-    }
+            <p>${text}</p>
+
+        </div>
+    `;
 }
