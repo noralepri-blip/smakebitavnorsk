@@ -31,7 +31,8 @@ body{
 .cards{
     display:grid;
     grid-template-columns:repeat(5,1fr);
-    gap:20px;
+    gap:16px;
+    margin-bottom:25px;
 }
 
 .card{
@@ -39,8 +40,30 @@ body{
     border:2px solid #d36d00;
     border-radius:10px;
     padding:18px;
+    min-height:220px;
+
+    display:flex;
+    flex-direction:column;
 }
 
+.card button{
+    margin-top:auto;
+
+    background:#c65d00;
+    color:white;
+
+    border:none;
+
+    border-radius:4px;
+
+    padding:10px 14px;
+
+    font-weight:bold;
+}
+
+.card button:hover{
+    background:#9d4a00;
+}
 </style>
 
 </head>
