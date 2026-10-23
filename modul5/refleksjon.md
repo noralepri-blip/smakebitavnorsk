@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Modul 5: Refleksjon og evaluering"
+title: "Oppgave 5: Refleksjon og evaluering"
 has_children: true
-nav_order: 5
+nav_order: 1
 ---
 
 # Modul 5: Refleksjon og evaluering
