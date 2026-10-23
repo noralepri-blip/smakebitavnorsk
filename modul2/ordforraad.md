@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Ordforråd: Smak og sanseinntrykk"
-parent: "Modul 2"
+title: "Oppgave 2: Smaker det?"
+has_children: true
 nav_order: 1
 ---
 
