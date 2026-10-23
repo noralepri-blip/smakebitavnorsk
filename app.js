@@ -1,53 +1,25 @@
 async function loadQuiz(file) {
 
+    alert("Prøver å laste: " + file);
+
     try {
 
         const response = await fetch(file);
 
+        alert("Status: " + response.status);
+
         const xmlText = await response.text();
 
-        const parser = new DOMParser();
+        alert("Fil lest!");
 
-        const xml = parser.parseFromString(
-            xmlText,
-            "text/xml"
-        );
-
-        const items =
-            xml.getElementsByTagName("item");
-
-        let html = "";
-
-        html += `<h2>Fant ${items.length} spørsmål</h2>`;
-
-        for(let i = 0; i < items.length; i++){
-
-            const title =
-                items[i].getAttribute("title");
-
-            html += `
-                <div style="
-                    border:1px solid #ccc;
-                    padding:15px;
-                    margin:10px 0;
-                    border-radius:8px;
-                ">
-                    <strong>${title}</strong>
-                </div>
-            `;
-        }
-
-        document.getElementById("quiz")
-            .innerHTML = html;
+        document.getElementById("quiz").innerHTML =
+            "<pre>" + xmlText.substring(0,500) + "</pre>";
 
     }
     catch(error){
 
+        alert("FEIL: " + error);
+
         console.error(error);
-
-        document.getElementById("quiz")
-            .innerHTML =
-            "<p>Kunne ikke lese XML-filen.</p>";
-
     }
 }
